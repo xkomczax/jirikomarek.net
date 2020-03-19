@@ -14,21 +14,28 @@
           </div>
           <div class="footer-social">
             <ul class="list-reset">
+
+              {% if site.instagram %}
+              <li><a href="{{ site.instagram }}">Instagram</a></li>
+              {% else %} {% endif %}
+
+              {% if site.linkedin %}
+              <li><a href="{{ site.linkedin }}">LinkedIn</a></li>
+              {% else %} {% endif %}
+
+
               {% if site.facebook %}
               <li><a href="{{ site.facebook }}">Facebook</a></li>
+              {% else %} {% endif %}
+
+              {% if site.500px %}
+              <li><a href="{{ site.500px }}">500px</a></li>
               {% else %} {% endif %}
 
               {% if site.twitter %}
               <li><a href="{{ site.twitter }}">Twitter</a></li>
               {% else %} {% endif %}
 
-              {% if site.instagram %}
-              <li><a href="{{ site.instagram }}">Instagram</a></li>
-              {% else %} {% endif %}
-
-              {% if site.pinterest %}
-              <li><a href="{{ site.pinterest }}">Pinterest</a></li>
-              {% else %} {% endif %}
             </ul>
           </div>
         </div>

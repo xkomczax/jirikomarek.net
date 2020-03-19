@@ -276,7 +276,7 @@
     position: relative;
     display: block;
     margin-bottom: 20px;
-    background-size: cover;
+    background-size: cover; //xxx contain
     background-position: center;
     background-repeat: no-repeat;
     background-color: $black;
@@ -302,9 +302,8 @@
       position: absolute;
       top: 50%;
       left: 50%;
-      font-size: 110px;
+      font-size: 110px; //XXX
       text-align: center;
-      letter-spacing: 2px;
       color: $text;
       transform: translate(-50%,-50%);
       transition: all 0.4s ease 0.3s;

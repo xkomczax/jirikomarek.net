@@ -3,7 +3,8 @@
 
 title: JiriKomarek.net | Landscape photography
 description: Galada is an easy and simple theme for Jekyll. Dark colors, give it a special exquisite look. A careful approach to design and features make it an ideal solution for a personal blog. # this means to ignore newlines until "baseurl:"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/galada" # the subpath of your site, e.g. /blog
+#baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://xkomczax.github.io/web/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
@@ -15,19 +16,20 @@ author-avatar: jiri-komarek.jpg
 #-------------------------------
 # Contact links
 facebook:  https://facebook.com/jiri.komarek.3150 # Add your Facebook handle
-twitter:   https://twitter.com/JiriKomarek_net # Add your Facebook handle
+#twitter:   https://twitter.com/JiriKomarek_net # Add your Facebook handle
 instagram: https://www.instagram.com/komcza # Add your Facebook handle
-pinterest: https://www.pinterest.com/ # Add your Pinterest handle
+linkedin:  https://www.linkedin.com/in/jiri-komarek-645729191/ # Add your LinkedIn handle
+#500px:     https://500px.com/jirikomarek_net
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+# disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Instagram Feed
-instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+# instafeed: true # To enable the instafeed, use the value true. To turn off use the value false. # XXX - to be enabled after I fully launch instagram account
 
 
 #-------------------------------
@@ -49,7 +51,8 @@ plugins:
   - jekyll-sitemap
 
 paginate: 7
-paginate_path: "/page/:num"
+#paginate_path: "/page/:num"
+paginate_path: "/page:num/"
 
 include:
   - _pages

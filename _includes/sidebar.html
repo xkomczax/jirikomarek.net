@@ -26,17 +26,6 @@
   <div class="widget widget-social">
     <h3 class="widget-title">Subscribe & Follow</h3>
     <ul class="social-profiles list-reset">
-      {% if site.facebook %}
-      <li class="social-profiles-item">
-        <a href="{{ site.facebook }}" class="social-profiles-link"><i class="ion ion-logo-facebook"></i></a>
-      </li>
-      {% else %} {% endif %}
-
-       {% if site.twitter %}
-      <li class="social-profiles-item">
-        <a href="{{ site.twitter }}" class="social-profiles-link"><i class="ion ion-logo-twitter"></i></a>
-      </li>
-      {% else %} {% endif %}
 
       {% if site.instagram %}
       <li class="social-profiles-item">
@@ -44,18 +33,36 @@
       </li>
       {% else %} {% endif %}
 
-      {% if site.pinterest %}
+      {% if site.linkedin %}
       <li class="social-profiles-item">
-        <a href="{{ site.pinterest }}" class="social-profiles-link"><i class="ion ion-logo-pinterest"></i></a>
+        <a href="{{ site.linkedin }}" class="social-profiles-link"><i class="ion ion-logo-linkedin"></i></a>
       </li>
       {% else %} {% endif %}
+
+      {% if site.facebook %}
+      <li class="social-profiles-item">
+        <a href="{{ site.facebook }}" class="social-profiles-link"><i class="ion ion-logo-facebook"></i></a>
+      </li>
+      {% else %} {% endif %}
+
+      {% if site.500px %}
+      <li class="social-profiles-item">
+        <a href="{{ site.500px }}" class="social-profiles-link"><i class="ion ion-md-aperture"></i></a>
+      </li>
+      {% else %} {% endif %}
+
+      {% if site.twitter %}
+     <li class="social-profiles-item">
+       <a href="{{ site.twitter }}" class="social-profiles-link"><i class="ion ion-logo-twitter"></i></a>
+     </li>
+     {% else %} {% endif %}
+
     </ul>
   </div>
 
   <div class="widget widget-newsletter">
     <h3 class="widget-title">Newsletter</h3>
-    <div class="newsletter-subtitle">Get Interesting News</div>
-    <div class="newsletter-text">Receive the latest news via email.</div>
+    <div class="newsletter-text">Receive the latest news and interesting updates.</div>
     <form class="c-newsletter-form validate" action="{% if site.mailchimp %}//{{site.mailchimp}}{% else %}#{% endif %}" method="POST"
       id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
       <div class="newsletter-group">
@@ -74,7 +81,7 @@
     <h3 class="widget-title">Instagram</h3>
     <div class="instagram-box">
       <ul id="instafeed" class="instagram-grid list-reset clearfix"></ul>
-      <a class="instagram-prof" href="#">&#64;Komcza</a>
+      <a class="instagram-prof" href="https://www.instagram.com/komcza/">&#64;Komcza</a>
     </div>
   </div>
   {% endif %}

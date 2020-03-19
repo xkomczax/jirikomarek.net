@@ -100,7 +100,7 @@ $(function() {
   $(".post-content, .page-content").fitVids({
     customSelector: ['iframe[src*="ted.com"]']
   });
-  
+
 
   /* =======================
   // Instagram Feed
@@ -110,8 +110,8 @@ $(function() {
     get: 'user',
     limit: 6,
     resolution: 'standard_resolution',
-    userId: '8987997106',
-    accessToken: '8987997106.924f677.8555ecbd52584f41b9b22ec1a16dafb9',
+    userId: '23336886338',
+    accessToken: '23336886338.1677ed0.087a189ad7b145df8d1c3eb9dbf69c00',
     template:
       '<li class="instagram-item"><a href="{{link}}" aria-label="{{caption}}" target="_blank"><img src="{{image}}" alt="{{caption}}"></a></li>'
   });
