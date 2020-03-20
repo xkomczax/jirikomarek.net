@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: The Structures Project
 image: 03.jpg
 permalink: /the-structures-project/
