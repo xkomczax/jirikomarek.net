@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mountains
-image: 03.jpg
+image: 01.jpg
 permalink: /mountains/
 ---
 
