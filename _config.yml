@@ -2,15 +2,15 @@
 # General Site Settings
 
 title: JiriKomarek.net | Landscape photography
-description: Galada is an easy and simple theme for Jekyll. Dark colors, give it a special exquisite look. A careful approach to design and features make it an ideal solution for a personal blog. # this means to ignore newlines until "baseurl:"
-#baseurl: "/galada" # the subpath of your site, e.g. /blog
+description: Landscape photographer from the Czech Republic. Drahanská vrchovina, Haná, mountains and more. # this means to ignore newlines until "baseurl:"
+#baseurl: "/blog" # the subpath of your site, e.g. /blog
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://xkomczax.github.io/web/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
 author-name:   Jiri Komarek
-author-avatar: jiri-komarek.jpg
+author-avatar: jiri-komarek-avatar.jpg
 
 
 #-------------------------------
