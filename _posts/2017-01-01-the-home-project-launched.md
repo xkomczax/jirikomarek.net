@@ -6,16 +6,16 @@ image:  02.jpg
 tags:   [Home, Projects]
 ---
 
-The [Home project]({{site.baseurl}}/home/) strains to introduce the places which I call home. Being born and growing up in the heart of Drahanská vrchovina, my earliest memories are linked with the meadows, forests and creeks running through the highland.
+The [Home project]({{site.baseurl}}/home/) strains to introduce the places which I call home. Being born and growing up in the heart of Drahanská vrchovina, my earliest memories are linked to meadows, forests and creeks running through the highland.
 
 ## Drahanská vrchovina
-Bounded by the vast flat land, *Drahanská vrchovina* highland stick out from Haná and Malá Haná regions. Norther part is gently turning into Zábřežská vrchovina while southern part is dominated by the Moravian Karst area.
+Bounded by the vast flat land, *Drahanská vrchovina* highland sticks out from Haná and Malá Haná regions. The landscape has a mildly wavy character, only the western and eastern boundaries are characterized by deep valleys and steep slopes.
 
-The Protivanovská and Štěpánovská planina are predominantly agricultural landscape with
+The northern part around Konice smoothly continues into Zábřežská vrchovina.
 
-The area between Sloup, Jedovnice and Adamov is dominated by the Moravian Karst, a limestone karst with deep valleys, caves and abbys. protected 
+The highest parts around Horní Štěpánov, Lipová and Protivanov consist of a   mosaic of fields, meadows and forests. A lot of streams and rivers spring here and many bogs and waterlogged meadows are here protected as nature reserves.
 
-The western and eastern boundaries are characterised by deep valleys and steep slopes, the plateau itself is domniated by mildly waved landscape.
+The southern part between Sloup, Jedovnice and Adamov is characterized by a limestone karst with deep valleys, caves and abbys. It is protected as Chráněná krajinná oblast Moravský kras.
 
 <div class="row">
     <article class="article col col-12 col-t-12">
@@ -23,5 +23,5 @@ The western and eastern boundaries are characterised by deep valleys and steep s
     </article>
 </div>
 
-## See the currated photo gallery
-See my selection of most valued images at [currated gallery]({{site.baseurl}}/home/) or follow the *[Home]({{site.baseurl}}/tags/#Home)* tag for most recent galleries.
+## See the curated photo gallery
+See the selection of my best images at [curated gallery]({{site.baseurl}}/home/) or follow the *[Home]({{site.baseurl}}/tags/#Home)* tag for most recent galleries.
