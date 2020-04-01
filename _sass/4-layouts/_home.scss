@@ -281,11 +281,7 @@
     background-repeat: no-repeat;
     background-color: $black;
     box-shadow: 0 9px 18px 0 rgba(0, 0, 0, .25);
-    &:before {
-      content: "";
-      display: table;
-      padding-top: 75%;
-    }
+
     .image-overlay {
       position: absolute;
       top: 0;
