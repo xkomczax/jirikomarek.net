@@ -23,12 +23,6 @@
   position: relative;
   opacity: 0;
   transition: all 1s cubic-bezier(0.6, 0.3, 0, 1);
-  &:after {
-    content: "";
-    display: table;
-    width: 100%;
-    padding-top: 50%;
-  }
 }
 
 .post-head, .post-content {
