@@ -4,5 +4,8 @@ title: Mountains
 image: 01.jpg
 permalink: /mountains/
 ---
+The Mountains Project is a collection of mountains-related photos: from panoramic views from the top of the hills to details.
 
-Collection of mountains from all over the world, showing nature in its most untouched state.
+Thanks to its inaccessibility, mountains are one of the last frontiers of wilderness.
+
+This project contains photos from Slovak, Ukrainian and Romanian Carpathiens, Swiss Alps, The Central Balkan mountains in Bulgaria and from Tian Shian, Kyrgyzstan.
