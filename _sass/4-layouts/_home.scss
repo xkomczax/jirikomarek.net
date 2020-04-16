@@ -273,8 +273,13 @@
     background: $black;
   }
   .article-image {
+    img {
+      display: none;
+    }
     position: relative;
     display: block;
+    background-size: cover;
+    padding-top: 66.66%;
     margin-bottom: 20px;
     background-size: cover; //xxx contain
     background-position: center;
