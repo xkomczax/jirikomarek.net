@@ -1,13 +1,5 @@
 <!--- downloaded from https://jekyllcodex.org/without-plugin/image-gallery/# -->
 
-<style>
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 32.3333333%; }
-    .image-gallery li a {height: 160px; display:block; text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-    .image-gallery li a img {width: auto; height:100%; display: block; margin: 0 auto;}
-</style>
-
 <ul class="image-gallery">
   <div class="imagegallery">
 {% for file in site.static_files %}
