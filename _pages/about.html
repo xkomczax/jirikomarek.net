@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Jiri Komarek
 image: jiri-komarek.jpg
 permalink: /about/
 ---
@@ -12,6 +12,54 @@ permalink: /about/
 <p>Jiri Komarek is a landscape photographer from the Czech Republic.</p>
 <p>As he grew up in the heart of Drahanská highland, he was always close to nature, which becomes the main topic of his photographic interest.</p>
 <p>His work is an appeal for environmental conservation on a local as well as on a global level.</p>
-<h3> Get in touch</h3>
-<iframe width="100%" height="642" allowTransparency="true" frameborder="0" scrolling="no" style="border:none" src="https://www.emailmeform.com/builder/embed/cRgUfsfeuz9Kr0o3FXIb7"><a href="https://www.emailmeform.com/builder/embed/cRgUfsfeuz9Kr0o3FXIb7">Fill out form.</a></iframe>
-<div style="text-align:center"><div id='emf_advertisement'><font face="Verdana" size="2" color="#000000">Powered by</font><span style="position: relative; padding-left: 3px; bottom: -5px;"><img src="//assets.emailmeform.com/images/footer-logo.png?cmVsZWFzZS8yLjUyLjA%3D" /></span><font face="Verdana" size="2" color="#000000">EMF </font><a style="text-decoration:none;" href="https://www.emailmeform.com/" target="_blank"><font face="Verdana" size="2" color="#000000">HTML Contact Form</font></a></div></div>
+<h2>Get in touch</h2>
+
+<div class="widget-social">
+  <ul class="social-profiles list-reset">
+
+    {% if site.instagram %}
+    <li class="social-profiles-item">
+      <a href="{{ site.instagram }}" class="social-profiles-link"><i class="ion ion-logo-instagram"></i></a>
+    </li>
+    {% else %} {% endif %}
+
+    {% if site.linkedin %}
+    <li class="social-profiles-item">
+      <a href="{{ site.linkedin }}" class="social-profiles-link"><i class="ion ion-logo-linkedin"></i></a>
+    </li>
+    {% else %} {% endif %}
+
+    {% if site.facebook %}
+    <li class="social-profiles-item">
+      <a href="{{ site.facebook }}" class="social-profiles-link"><i class="ion ion-logo-facebook"></i></a>
+    </li>
+    {% else %} {% endif %}
+
+    {% if site.500px %}
+    <li class="social-profiles-item">
+      <a href="{{ site.500px }}" class="social-profiles-link"><i class="ion ion-md-aperture"></i></a>
+    </li>
+    {% else %} {% endif %}
+
+    {% if site.twitter %}
+   <li class="social-profiles-item">
+     <a href="{{ site.twitter }}" class="social-profiles-link"><i class="ion ion-logo-twitter"></i></a>
+   </li>
+   {% else %} {% endif %}
+
+  </ul>
+</div>
+<br>
+<div class="widget-newsletter">
+<form action="https://mailthis.to/jirikomarek" method="POST" encType="multipart/form-data">
+    <input class="newsletter-email" type="text" name="name" placeholder="Your name">
+    <input class="newsletter-email"type="email" name="_replyto" placeholder="Your email">
+    <textarea class="newsletter-email" name="message" rows="4" placeholder="Enter your message here"></textarea>
+    <input type="hidden" name="_subject" value="Message from JiriKomarek.net">
+    <input type="hidden" name="_after" value="https://jirikomarek.net/">
+    <input type="hidden" name="_honeypot" value="">
+    <input type="hidden" name="_confirmation" value="Thank you for your message. I will try to reply as soon as possible.">
+    <input class="newsletter-button" type="submit" value="Send">
+</form>
+
+</div>
