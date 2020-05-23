@@ -2,7 +2,7 @@
 layout: post
 title:  Romania - Carpathians
 date:   2017-08-13 12:00:00 +0000
-image:  07.jpg
+image:  ./previews/romanian-carpathians-2017.jpg
 tags:   [Mountains, Travel]
 ---
 
@@ -11,3 +11,9 @@ Munții Apuseni is a side-chain of the Carpathians. The landscape of the norther
 Forests with fragile ecosystems are threatened by illegal logging. And so are people foresters and environmentalists, many of them are physically assaulted, some even killed.
 
 The Bihor mountain range is characterized by karst with caverns, sinkholes and abyss. The most famous is the Cetățile Ponorului cave system, but there are many others like Cetatea Rădesei cave and others. Deep valleys are hiding many waterfalls, including the 80 meters long Cascada Bohodei.
+
+<div class="row">
+    <article class="article col col-12 col-t-12">
+    {% include image-gallery.html folder="/img/romanian-carpathians-2017" %}
+    </article>
+</div>

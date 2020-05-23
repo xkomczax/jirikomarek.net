@@ -2,7 +2,7 @@
 layout: post
 title:  Bulgaria - Stara Planina
 date:   2018-08-11 12:00:00 +0000
-image:  04.jpg
+image:  ./previews/bulgaria-central-balkan-mountains-2018.jpg
 tags:   [Mountains, Travel]
 ---
 
@@ -21,3 +21,9 @@ Most of the people visit areas around the majestic Botev Peak (Ботев), a 2,
 The surrounding Dzhendema Reserve (Резерват Джендема), which means *Hell* in translation, is dominated by deep canyons, wild streams and a labyrinth of steep slopes. In the heart of the reserve, you can find the highest waterfall, Raysko Praskalo (Райското пръскало), meaning *Heaven's Waterfall*.
 
 However, my personal treasure becomes the Stara Reka Reserve (Резерват Стара река): a deep valley with the river of the same name. The narrow path is following the watercourse with rapid white water.
+
+<div class="row">
+    <article class="article col col-12 col-t-12">
+    {% include image-gallery.html folder="/img/bulgaria-central-balkan-mountains-2018" %}
+    </article>
+</div>
