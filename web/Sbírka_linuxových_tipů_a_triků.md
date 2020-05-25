@@ -4,6 +4,9 @@ title: Sbírka linuxových tipů a triků
 category: Linux
 keywords:
 published: true
+redirect_from:
+- /web/OpenNIC_a_jeho_zprovoznění_v_Linuxu
+- /web/Pár_tipů_k_používání_programu_JAlbum
 ---
 
 ## Nefunkční DNS po startu počítače

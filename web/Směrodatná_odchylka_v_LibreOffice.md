@@ -4,6 +4,7 @@ title: Směrodatná odchylka v Open/LibreOffice
 category: Linux
 keywords:
 published: true
+redirect_from: Směrodatná_odchylka_v_Open⁄LibreOffice
 ---
 
 ## Vytvoření grafu

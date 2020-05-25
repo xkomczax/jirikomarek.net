@@ -4,6 +4,7 @@ title: Sbírka tipů a triků pro Firefox/Iceweasel
 category: Linux
 keywords:
 published: true
+redirect_from: Sbírka_tipů_a_triků_pro_Firefox⁄Iceweasel
 ---
 
 ## Mizející položky v toolbaru Firefoxu

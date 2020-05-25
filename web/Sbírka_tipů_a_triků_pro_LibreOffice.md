@@ -4,6 +4,7 @@ title: Sbírka tipů a triků pro Open/LibreOffice
 category: Linux
 keywords:
 published: true
+redirect_from: /web/Sbírka_tipů_a_triků_pro_Open⁄LibreOffice
 ---
 
 ## Přidání vlastního (nečíslovaného) nadpisu do obsahu

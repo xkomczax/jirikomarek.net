@@ -4,6 +4,11 @@ title:  Kyrgyzstan - Tian Shan
 date:   2019-07-20 12:00:00 +0000
 image:  ./previews/kyrgyzstan-tian-shan-2019.jpg
 tags:   [Travel, Mountains]
+redirect_from:
+- /web/Nigérie_3_-_místní_doprava
+- /web/Nigérie_2_-_cesta
+- /web/Nigérie_1_-_víza
+- /web/Jak_sehnat_ubytování_v_Nizozemsku
 ---
 The Tian Shan, which means Mountains of Heaven in translation, spreads mostly in Kyrgyzstan and China. With peaks reaching more than 7000 meters above sea level, it is one of the highest mountain ranges in the whole world.
 
