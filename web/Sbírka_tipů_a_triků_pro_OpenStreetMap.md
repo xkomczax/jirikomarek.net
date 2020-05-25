@@ -30,11 +30,11 @@ Vytvoříte-li nějakým způsobem v JOSM dvě plochy, které se překrývají a
 4. Smažte zbytečné body, například ty, které jsou na jinak rovné hraně, ale vznikly v místech, kde byl původně začátek druhé budovy
 5. Hotovo :-)
 
-![gallery](/web/media/buildingstools-1.png)
-![gallery](/web/media/buildingstools-2.png)
-![gallery](/web/media/buildingstools-3.png)
-![gallery](/web/media/buildingstools-4.png)
-![gallery](/web/media/buildingstools-5.png)
+![gallery]({{site.baseurl}}/web/media/buildingstools-1.png)
+![gallery]({{site.baseurl}}/web/media/buildingstools-2.png)
+![gallery]({{site.baseurl}}/web/media/buildingstools-3.png)
+![gallery]({{site.baseurl}}/web/media/buildingstools-4.png)
+![gallery]({{site.baseurl}}/web/media/buildingstools-5.png)
 
 Podobného efektu lze dosáhnout pomocí editoru Merkaartor, který má funkci "Join areas" již v základní instalaci. Narozdíl od pluginu BuildingTools v JOSM však Merkaartor neumí tímto způsobem vytvářet polygony.
 
