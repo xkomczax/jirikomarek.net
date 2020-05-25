@@ -98,3 +98,5 @@ Chcete-li mít krátké a hezké URI u své instalace MediaWiki, použijte gener
 ## Hromadný upload souborů přes FTP
 
 Chcete-li u své instalace MediaWiki povolit upload souborů, například obrázků, přes FTP, použijte rozšíření [UploadLocal](https://www.mediawiki.org/wiki/Extension:UploadLocal). Soubory samotné se pak uploadují do složky ./Extensions/UploadLocal/data (nezměníte-li to nastavením v LocalSettings.php na jinou) a soubory připravené k uploadu jsou k vidění na stránce Special:UploadLocal. Rozšíření umí pracovat pouze se soubory, nikoliv s vnořenými složkami.
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

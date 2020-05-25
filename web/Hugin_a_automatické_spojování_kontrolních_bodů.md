@@ -37,3 +37,5 @@ Nyní stačí v programu Hugin pouze otevřít fotky pomocí "Load images..." a 
 Jak na zmenšené obrázky
 
 Ve výchozím nastavení zmenšuje Hugin velikost výsledných panoramat na 75%. Pokud chcete mít panoramata v původní velikost, zajděte do Soubor -> Nastavení -> Asistent (File -> Preferences -> Assistant) a změnte hodnotu ze 75 na 100.
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

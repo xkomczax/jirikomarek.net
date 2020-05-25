@@ -37,3 +37,5 @@ Stejnou technikou, ale použitím jiné barvy, lze například vyplnit rty či v
 ## Odstranění chromatické aberace (fialových okrajů)
 
 K odstranění chromatické aberace (fialových okrajů, anglicky též purple fringe) slouží plugin [Purple Fringe Fix](http://registry.gimp.org/node/185). Ten stačí z odkazované stránky stáhnout, vložit do složky se skripty (v Debianu se jedná o "/usr/share/gimp/2.0/scripts/") a poté obnovit skripty ("Filters" -> "Script-Fu" -> "Refresh Scripts"). Tento skript poté naleznete v hlavním menu v položce "Script-Fu" -> "Darla" -> "Purple Fringe Fix".
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

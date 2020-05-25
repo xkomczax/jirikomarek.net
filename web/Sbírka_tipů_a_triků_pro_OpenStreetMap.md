@@ -37,3 +37,5 @@ Vytvoříte-li nějakým způsobem v JOSM dvě plochy, které se překrývají a
 ![gallery](/web/media/buildingstools-5.png)
 
 Podobného efektu lze dosáhnout pomocí editoru Merkaartor, který má funkci "Join areas" již v základní instalaci. Narozdíl od pluginu BuildingTools v JOSM však Merkaartor neumí tímto způsobem vytvářet polygony.
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

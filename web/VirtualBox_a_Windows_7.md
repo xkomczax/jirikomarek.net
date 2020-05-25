@@ -49,3 +49,5 @@ Nepodařilo se otevřít sezení k virtuálnímu počítači Windows 7
 VT-X is disabled in the BIOS. (VERR_VMX_MSR_VMXON_DISABLED)
 ```
 V tom případě je nutné dostat se do BIOSu (restartovat PC a poté při jeho startu zmáčknout F1 nebo jinou klávesu přepínající do BIOSu) a v něm najít položku tuto volbu povolující. U laptopů Lenovo je nutné stisknout modré tlačítko "ThinkVantage" -> z nabídky vybrat volbu "F1 to enter the BIOS Setup Utility" -> "Config" -> "CPU" -> najed na položku "Intel (R) Virtualization Technology" -> stisknout "Enter" -> ve vyběhnuvším menu vybrat pomocí šipek "Enabled" a potvrdit volbu klávesou "Enter". Poté je nutné vše uložit pomocí klávesy "F10" -> potvrdit uložení změn a následně je nutné počítač VYPNOUT!!! K projevení změn totiž nestačí pouze restartovat, nýbrž je nutné počítač skutečně vypnout.
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

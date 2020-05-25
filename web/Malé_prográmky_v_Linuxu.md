@@ -87,3 +87,5 @@ Hudební přehrávač, jenž se od "konkurence" liší zejména tím, že pracuj
 ## rcconf
 
 Prográmek sloužící k zobrazení služeb, jenž se spouští po startu a také umožňuje vybrané z nich vypnout. Po instalaci spustíte program pod rootem příkazem rcconf, najedete na službu, jenž si přejete vypnout, zmáčnete mezerník, změny potvrdíte enterem a služba se po startu již automaticky nespustí. Chcete-li program jednoduše vypnout bez provedení změn, zmáčknete klávesu esc.
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

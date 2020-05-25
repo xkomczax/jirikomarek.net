@@ -306,3 +306,5 @@ LispWorks spusťte pomocí příkazu
 ```
 /usr/local/lib/LispWorksPersonal/lispworks-personal-6-1-1-x86-linux
 ```
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

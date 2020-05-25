@@ -39,3 +39,5 @@ Chcete-li, aby se slovo se spojovníkem uprostřed na konci řádku nezalomilo, 
 Chcete-li vytvořit horizontální čáru v Open/LibreOffice, napište tři pomlčky či podtržítka a zmáčkněte Enter. Znaky se automaticky převedou na linii, která vede přes celou šířku dokumentu.
 
 Dvojitá čára vznikne vložením a odentrováním tří rovnítek, hvězdiček, vlnovek nebo znaků #.
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

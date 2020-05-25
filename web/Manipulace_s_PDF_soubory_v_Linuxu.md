@@ -70,3 +70,5 @@ convert obrazek-1.jpg obrazek-2.jpg obrazek-3.jpg vysledny-soubor.pdf
 ```
 
 Daný příkaz vytvoří vysledny-soubor.pdf pouze ze tří vyjmenovaných souborů
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

@@ -37,3 +37,5 @@ mtkbabel -p /dev/ttyACM0 -E
 , čímž vymažeme veškerá data z přístroje.
 
 Nyní již můžeme zapnout náš oblíbený editor pro OpenStreetMap, kde klikneme na File - Import - a vybereme soubor gpsdata.gpx. Na ploše se nám zobrazí body, které jsme během předchozí cesty zaznamenali, stačí jen kliknout na tlačítko "Download" a vybrat mapu území, na kterém jsme se pohybovali. Tím se nám do počítače stáhne již vytvořená mapa a my například kliknutím na tlačítko "Road" vytvoříme spojením jednotlivých zaznamenaných bodů cestu, kterou jsme předtím prošli. V levém dolním rohu jí ještě přiřadíme parametry a po kliknutí na tlačítko "Upload" se zobrazí výzva k zadání uživatelského jména a hesla, které si předtím vytvoříme [na stránce projektu](https://www.openstreetmap.org/) a data nahrajeme na server. Námi nově nahrané objekty se nezobrazují ihned po uploadu, ale jejich aktualizace trvá nějakou chvíli, z praxe zhruba do deseti minut.
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

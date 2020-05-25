@@ -18,3 +18,5 @@ A na konec každé správné recenze patří hodnocení, tudíž ani já nebudu 
 
 * [Oficiální webové stránky](https://www.widelands.org/)
 * [Stažení hry](https://www.widelands.org/wiki/Download/)
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

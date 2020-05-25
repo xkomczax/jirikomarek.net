@@ -43,3 +43,5 @@ apt-get install sox
 ```
 
 Další triky s formátem VOC lze najít například na webu [administratosphere.wordpress.com](https://administratosphere.wordpress.com/2011/01/27/converting-voc-audio-files-from-digital-recorders/).
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

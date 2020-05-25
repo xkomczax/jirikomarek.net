@@ -19,3 +19,5 @@ Hra jako taková má rozhodně co nabídnout, ale do budoucna to není vše. V p
 * Domovská stránka hry: [www.openttd.org](https://www.openttd.org/)
 * Hra ke stažení: [Stabilní verze](https://www.openttd.org/downloads/openttd-releases/latest.html)
 * Chris Sawyer, autor původního Tycoona: [www.chrissawyer.com](http://www.chrissawyergames.com/)
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

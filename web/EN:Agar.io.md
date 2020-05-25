@@ -50,3 +50,5 @@ You can disable the statistics window in settings.
 Until July 2015 there was no option to use stable account. Starting that month you can log in using your Facebook account. If you don't like if for any reason you can still just type in your nickname a play anonymously.
 ## Lags
 At the end of May and beginning of June 2015 a lot of players complained of lags. The problem was in overloaded servers and it was necessary to wait for other players to leave (or for author to buy new servers or release the game under free license for other admins to run the game on their servers).
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

@@ -23,3 +23,5 @@ Zavřete Firefox (Iceweasel), jděte do složky svého profilu a v něm spustě 
 ```
 for z in `ls *.sqlite`; do echo "VACUUM;" | sqlite3 $z; done
 ```
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

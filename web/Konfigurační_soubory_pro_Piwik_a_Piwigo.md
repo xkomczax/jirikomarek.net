@@ -41,3 +41,5 @@ Podobně jako Piwik, ani u Piwigo není zásadnější problém s přesunem na n
 ## Integrace Piwik/Matomo do MediaWiki
 
 Spolupráce MediaWiki s Piwik je velice jednoduchá, stačí použít [patřičné rozšíření](https://www.mediawiki.org/wiki/Extension:Matomo).
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

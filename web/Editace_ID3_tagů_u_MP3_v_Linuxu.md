@@ -76,3 +76,5 @@ eye3D --genre=Techno moje-slozka-s-muzikou
 PŘIDÁ VŠEM SOUBORŮM (tj. třeba i textovým souborům, které se budou ve složce nacházet!!!) ve složce moje-slozka-s-muzikou ID3 tag žánr s hodnotou Techno.
 
 V době psaní článku (červen 2011) byly dostupné balíčky výše zmíněných programů minimálně pro distribuce Debian a Ubuntu, u ostatních distribucí, jako je OpenSUSE, Mandriva či Red Hat nemám jistotu.
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

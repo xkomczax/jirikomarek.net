@@ -55,3 +55,5 @@ yellow
 white
 ```
 To je vše, nyní stačí opět aktualizovat GRUB2 pomocí výše zmíněných příkazů a po restartu se kochat vámi vytvořeným dílem.
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

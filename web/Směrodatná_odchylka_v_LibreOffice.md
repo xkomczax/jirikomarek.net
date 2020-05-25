@@ -23,3 +23,5 @@ Nyní, když máme vytvořený graf, stačí na něj dvakrát kliknout, čímž 
 ## Směrodatná odchylka pro více sloupců
 
 Máte-li ovšem graf složený z více sloupců, kde ke každému sloupci existuje i vlastní směrodatná odchylka, musíte ji přiřadit jinak. Dvojklikem na graf se přepněte do editačního módu grafu, kliknutím vyberte první ze sloupců, ke kterému chcete směrodatnou odchylku přiřadit, klikněte na něj pravým tlačítkem myši, čímž se vám zobrazí menu. Z něj vyberte "Vložit chybové úsečky Y" ("Insert Y Error Bars"), zde vyberte hodnotu pro první sloupec, dejte "OK" a poté obdobně pokračujte u dalších sloupců. Máte-li opravdu velký počet dat a jsou-li strukturována stejným způsobem, stačí si pouze zkopírovat pomocí Ctrl+C číselně vyjádřenou hodnotu pozic buněk a v dalším kroku je již nemusíme ručně vybírat, ale stačí pouze změnit názvy sloupců (tedy například v "$Sheet1.$C$2:$C$4" stačí vyměnit písmena "C" za "E" je-li další směrodatná odchylka ve sloupci ob jedno.
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

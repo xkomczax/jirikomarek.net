@@ -62,3 +62,5 @@ mkdir sdilena
 ## Přetažení minipanelu ve virtuálním počítači na vrch obrazovky
 
 Používáte-li některý z počítačů ve VirtualBoxu v celoobrazovkovém (fulscreen) režimu, možná vám nevyhovuje umístění minipanelu sloužící k vyvolání nabídky VirtualBoxu, které je ve výchozím nastavení dole, pod systémovou lištou. Sám jsem občas při výběru okna jiného programu omylem tuto lištu vyvolal a po kliknutí jsem udělal jinou akci než aktivaci vybraného okna. Tento panel lze přesunout nahoru z hlavního menu VirtualBoxu "Počítač"("Computer") -> "Nastavení"("Settings") -> "Uživatelské rozhraní"("User interface") -> "Pokročilé"("Advanced") -> zaškrtnout volbu "Malá nástrojová lišta"("Mini ToolBar"): "Zobrazit nahoře na obrazovce"("Show At Top Of Screen").
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

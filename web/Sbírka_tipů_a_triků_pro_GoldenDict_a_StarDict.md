@@ -25,3 +25,5 @@ Chcete-li, aby se vám slovíčka předčítala v jiném jazyce, nahraďte ve v�
 bash -c "p=$(echo "%GDWORD%" |sed 's/ /+/g');wget -U Mozilla -q -O - "$@" translate.google.com/translate_tts?ie=UTF-8\&tl=fr\&q=$p|mpg123 -"
 ```
 Nakonec nezapomeňte, před uložením změn, tyto prográmky aktivovat zaškrtnutím příslušné volby před každým řádkem. Pro běh je nutné mít nainstalovaný wget a mpg123.
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

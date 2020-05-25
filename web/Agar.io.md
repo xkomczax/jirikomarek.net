@@ -53,3 +53,5 @@ Nechcete-li se zabývat těmito podružnostmi, stačí, když si volbu ukazován
 Od června 2015 je možné hrát nejen jako anonymní uživatel, co si pouze zvolí svoji přezdívku, ale můžete se přihlásit pomocí svého facebookového účtu. Pokud jej nemáte nebo nechcete z jakéhokoliv důvodu použít, stále je možné pouze vyplnit přezdívku a hrát.
 ## Lagy
 Na přelomu května a června 2015 zaznamenalo více hráčů lagy (zasekávání hry). Problém je způsoben přetížením serverů, je tedy nutné vyčkat, dokud se herní servery nevyklidí (nebo autor nepříkoupí více serverů či nevydá hru pod svobodnou licencí, aby ji mohli na své servery umísťovat i další zájemci).
+
+<center><b><a href="../">Přehled technických článků</a></b></center>

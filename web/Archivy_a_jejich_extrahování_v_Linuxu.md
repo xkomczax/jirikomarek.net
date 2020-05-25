@@ -53,3 +53,5 @@ Formát 7z, přestože z technického hlediska se nejedná o vůbec špatné dí
 ```bash
 7za e archiv.7z
 ```
+
+<center><b><a href="../">Přehled technických článků</a></b></center>
