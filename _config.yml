@@ -5,7 +5,7 @@ title: JiriKomarek.net | Landscape photography
 description: Landscape photographer from the Czech Republic. Drahanská vrchovina, Haná, mountains and more. # this means to ignore newlines until "baseurl:"
 #baseurl: "/blog" # the subpath of your site, e.g. /blog
 #baseurl: "/galada" # the subpath of your site, e.g. /blog
-url: "https://xkomczax.github.io/web/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jirikomarek.net/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
