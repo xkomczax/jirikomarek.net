@@ -29,7 +29,7 @@ linkedin:  https://www.linkedin.com/in/jiri-komarek/ # Add your LinkedIn handle
 
 #-------------------------------
 # Instagram Feed
-# instafeed: true # To enable the instafeed, use the value true. To turn off use the value false. # XXX - to be enabled after I fully launch instagram account
+instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
 
 
 #-------------------------------
