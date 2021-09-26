@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Romania - Carpathians
-description: Explore the beauty of Romanian Carpathians
 date:   2017-08-13 12:00:00 +0000
 image:  ./previews/romanian-carpathians-2017.jpg
 tags:   [Mountains, Travel]
