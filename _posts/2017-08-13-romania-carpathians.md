@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  Romania - Carpathians
-date:   2017-08-13 12:00:00 +0000
-image:  ./previews/romanian-carpathians-2017.jpg
-tags:   [Mountains, Travel]
+layout:   post
+title:    Romania - Carpathians
+date:     2017-08-13 12:00:00 +0000
+image:    ./previews/romanian-carpathians-2017.jpg
+tags:     [Mountains, Travel]
 keywords: romania, muntii apuseni, carpathians, landscape, vladeasa, bihor, cavern, sinkhole, abyss, catatile ponorului, cave, catetea radesei, cascada bohodei
 ---
 

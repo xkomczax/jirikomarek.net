@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  Bulgaria - Stara Planina
-date:   2018-08-11 12:00:00 +0000
-image:  ./previews/bulgaria-central-balkan-mountains-2018.jpg
-tags:   [Mountains, Travel]
+layout:   post
+title:    Bulgaria - Stara Planina
+date:     2018-08-11 12:00:00 +0000
+image:    ./previews/bulgaria-central-balkan-mountains-2018.jpg
+tags:     [Mountains, Travel]
 keywords: black sea, stara planina, central balkan mountains, serbia, bulgaria, rose valley, boatin, tsarichina, vezhen, kozia stena, beklemeto pass, arch of freedom, botev, dzhendema, raysko praskalo, stara reka
 ---
 
