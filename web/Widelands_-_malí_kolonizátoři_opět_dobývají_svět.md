@@ -2,7 +2,7 @@
 layout: post
 title: Widelands - malí kolonizátoři opět dobývají svět
 category: Linux
-keywords:
+keywords: widelands, hra, settlers
 published: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Směrodatná odchylka v Open/LibreOffice
 category: Linux
-keywords:
+keywords: směrodatná odchyka, OpenOffice, LibreOffice
 published: true
 redirect_from: Směrodatná_odchylka_v_Open⁄LibreOffice
 ---

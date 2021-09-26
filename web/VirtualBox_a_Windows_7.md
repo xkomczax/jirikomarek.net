@@ -2,7 +2,7 @@
 layout: post
 title: VirtualBox a Windows 7
 category: Linux
-keywords:
+keywords: virtualbox, windows, debian, linux
 published: true
 ---
 

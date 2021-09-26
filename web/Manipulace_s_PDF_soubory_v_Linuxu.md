@@ -2,7 +2,7 @@
 layout: post
 title: Manipulace s PDF soubory v Linuxu
 category: Linux
-keywords:
+keywords: pdf, linux, pdfjam, pdfsam, jpg
 published: true
 ---
 

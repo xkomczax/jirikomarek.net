@@ -2,7 +2,7 @@
 layout: post
 title: Změna obrázku v GRUB2
 category: Linux
-keywords:
+keywords: grub, grub2, debian, ubuntu, mint
 published: true
 ---
 

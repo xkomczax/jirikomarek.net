@@ -2,7 +2,7 @@
 layout: post
 title: Geocaching na GPS navigaci Garmin Oregon 650
 category: Linux
-keywords:
+keywords: geocaching, garmin oregon 650, windows, gpx, geoget, openstreetmap
 published: true
 ---
 

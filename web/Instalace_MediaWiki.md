@@ -2,7 +2,7 @@
 layout: post
 title: Instalace MediaWiki
 category: Linux
-keywords:
+keywords: mediawiki, php, zip, upload, video
 published: true
 ---
 

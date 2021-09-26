@@ -2,7 +2,7 @@
 layout: post
 title: Sbírka tipů a triků pro Firefox/Iceweasel
 category: Linux
-keywords:
+keywords: firefox, linux
 published: true
 redirect_from: Sbírka_tipů_a_triků_pro_Firefox⁄Iceweasel
 ---

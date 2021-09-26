@@ -2,7 +2,7 @@
 layout: post
 title: Tips&tricks for Linux and open-source sofware
 category: Linux
-keywords:
+keywords: linux, tipy, triky, openoffice, libreoffice
 published: true
 ---
 

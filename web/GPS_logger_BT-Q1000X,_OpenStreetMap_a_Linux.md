@@ -2,7 +2,7 @@
 layout: post
 title: GPS logger BT-Q1000X, OpenStreetMap a Linux
 category: Linux
-keywords:
+keywords: gps, bt-Q1000X, ubuntu, debian
 published: true
 ---
 

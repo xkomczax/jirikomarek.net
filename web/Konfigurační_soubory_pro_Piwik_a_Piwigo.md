@@ -2,11 +2,11 @@
 layout: post
 title: Konfigurační soubory pro Piwik/Matomo a Piwigo
 category: Linux
-keywords:
+keywords: piwik, matomo, piwigo, galerie
 published: true
 ---
 
-Jelikož tady na webu používám pro sledování provozu aplikaci Piwik a pro svoji galerii podobně znějící aplikaci Piwigo, při nedávném přesunu webu jsem musel měnit i jejich konfiguraci. Pro vlastní zapamatování a případné další lidi se stejným problémem zde dávám seznam souborů, které je při migraci třeba změnit.
+Jelikož tady na webu používám pro sledování provozu aplikaci Piwik/Matomo a pro svoji galerii podobně znějící aplikaci Piwigo, při nedávném přesunu webu jsem musel měnit i jejich konfiguraci. Pro vlastní zapamatování a případné další lidi se stejným problémem zde dávám seznam souborů, které je při migraci třeba změnit.
 
 ## Piwik/Matomo
 

@@ -2,7 +2,7 @@
 layout: post
 title: VirtualBox a Debian 64bit na laptopu Lenovo T520
 category: Linux
-keywords:
+keywords: VirtualBox, debian, linux
 published: true
 ---
 

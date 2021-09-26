@@ -2,7 +2,7 @@
 layout: post
 title: Open Transport Tycoon Deluxe
 category: Linux
-keywords:
+keywords: openttd, transport tycoon deluxe, hra, Microprose, chrissawyer
 published: true
 ---
 

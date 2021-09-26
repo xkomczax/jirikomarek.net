@@ -2,7 +2,7 @@
 layout: post
 title: Hugin a automatické spojování kontrolních bodů
 category: Linux, Grafika
-keywords:
+keywords: hugin, panorama, linux
 published: true
 ---
 

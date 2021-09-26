@@ -2,7 +2,7 @@
 layout: post
 title: Sbírka tipů a triků pro GIMP
 category: Linux
-keywords:
+keywords: gimp, makra, rgb, cmyk
 published: true
 ---
 

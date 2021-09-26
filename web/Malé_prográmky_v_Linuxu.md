@@ -2,7 +2,7 @@
 layout: post
 title: Malé prográmky v Linuxu
 category: Linux
-keywords:
+keywords: pngcrush, bash, deborphan, exiftool, mp3blaster, rcconf
 published: true
 ---
 
