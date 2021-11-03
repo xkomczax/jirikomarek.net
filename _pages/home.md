@@ -3,7 +3,6 @@ layout:     post
 title:      Home
 image:      ./previews/drahanska-vrchovina-project.jpg
 permalink:  /home/
-keywords:   drahanská vrchovina, haná, konice, horní štěpánov, lipová, protivanov, zábřežská vrchovina, sloup, jedovnice, adamov, moravský kras
 ---
 
 The Home project strains to introduce the places which I call home. Being born and growing up in the heart of Drahanská vrchovina, my earliest memories are linked to meadows, forests and creeks running through the highland.

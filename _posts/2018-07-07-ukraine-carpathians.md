@@ -4,7 +4,6 @@ title:    Ukraine - Carpathians
 date:     2018-07-07 12:00:00 +0000
 image:    ./previews/ukrainian-carpathians-2018.jpg
 tags:     [Mountains, Travel]
-keywords: ukraine, ukrainian carpathians, unesco, heritage, poloniny, borshava, synevyr, uzhanskyi, national park, Boikivshchyna, Skolivski Beskydy, Gorgany, nature reserve
 ---
 Ukrainian Carpathians primeval beech forests are protected as a UNESCO World Heritage site. The woods are home of wolves, bears, wild cats and other animals. However, as in other places, forests are destroyed by illegal logging.
 

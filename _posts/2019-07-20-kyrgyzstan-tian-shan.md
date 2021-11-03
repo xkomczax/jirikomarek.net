@@ -4,7 +4,6 @@ title:    Kyrgyzstan - Tian Shan
 date:     2019-07-20 12:00:00 +0000
 image:    ./previews/kyrgyzstan-tian-shan-2019.jpg
 tags:     [Travel, Mountains]
-keywords: tian shan, heaven, kyrgyzstan, china, siberian ibex
 redirect_from:
 - /web/Nigérie_3_-_místní_doprava
 - /web/Nigérie_2_-_cesta

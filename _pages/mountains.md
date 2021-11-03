@@ -3,7 +3,6 @@ layout:     post
 title:      Mountains
 image:      ./previews/mountains.jpg
 permalink:  /mountains/
-keywords:   mountains, hills, slovakia, romania, ukraine, swiss, alps, central balkan, bulgaria, tian shian, Kyrgyzstan
 ---
 The Mountains Project is a collection of mountains-related photos: from panoramic views from the top of the hills to details.
 

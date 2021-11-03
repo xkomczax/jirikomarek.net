@@ -2,7 +2,6 @@
 layout: post
 title: Agar.io
 category: Linux
-keywords: agar.io, buňka, hra
 published: true
 ---
 

@@ -3,7 +3,6 @@ layout:     post
 title:      Structures
 image:      ./previews/structures.jpg
 permalink:  /structures/
-keywords:   structures, patterns
 ---
 
 They are everywhere. Structures. Machine-like, nature-made.
