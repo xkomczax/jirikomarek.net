@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Mountains
-image:      ./previews/mountains.jpg
+image:      ./previews/mountains.webp
 permalink:  /mountains/
 ---
 The Mountains Project is a collection of mountains-related photos: from panoramic views from the top of the hills to details.

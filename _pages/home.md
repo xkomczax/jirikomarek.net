@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Home
-image:      ./previews/drahanska-vrchovina-project.jpg
+image:      ./previews/drahanska-vrchovina-project.webp
 permalink:  /home/
 ---
 

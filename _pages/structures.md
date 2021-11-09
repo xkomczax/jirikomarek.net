@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Structures
-image:      ./previews/structures.jpg
+image:      ./previews/structures.webp
 permalink:  /structures/
 ---
 

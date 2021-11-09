@@ -2,7 +2,7 @@
 layout:   post
 title:    Kyrgyzstan - Tian Shan
 date:     2019-07-20 12:00:00 +0000
-image:    ./previews/kyrgyzstan-tian-shan-2019.jpg
+image:    ./previews/kyrgyzstan-tian-shan-2019.webp
 tags:     [Travel, Mountains]
 redirect_from:
 - /web/Nigérie_3_-_místní_doprava

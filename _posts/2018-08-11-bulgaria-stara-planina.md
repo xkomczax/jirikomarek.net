@@ -2,7 +2,7 @@
 layout:   post
 title:    Bulgaria - Stara Planina
 date:     2018-08-11 12:00:00 +0000
-image:    ./previews/bulgaria-central-balkan-mountains-2018.jpg
+image:    ./previews/bulgaria-central-balkan-mountains-2018.webp
 tags:     [Mountains, Travel]
 ---
 
