@@ -3,7 +3,6 @@ layout:   post
 title:    Romania - Carpathians
 date:     2017-08-13 12:00:00 +0000
 image:    ./previews/romanian-carpathians-2017.webp
-tags:     [Mountains, Travel, Romania, Summer]
 ---
 
 Munții Apuseni is a side-chain of the Carpathians. The landscape of the northern part, Vlădeasa, is characterized by montane meadows on top of the mountain ridge serving as a pasture for livestock. Solitary dwellings are inhabited during the summertime, for winter herdsmen (and herdswoman) reside in villages in valleys. Two extremes can be observed nowadays: empty dwellings near bigger cities, which swallowed all labor forces to factories and overgrazing in other parts.
