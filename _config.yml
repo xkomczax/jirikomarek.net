@@ -5,7 +5,7 @@ title: Jiri Komarek | Landscape photography
 description: Welcome to JiriKomarek.net, a virtual tribute to the beauty of nature. Jiri Komarek is a landscape photographer constantly seeking the beauty of the world... # this means to ignore newlines until "baseurl:"
 #baseurl: "/blog" # the subpath of your site, e.g. /blog
 #baseurl: "/galada" # the subpath of your site, e.g. /blog
-url: "https://jirikomarek.net/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jirikomarek.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
