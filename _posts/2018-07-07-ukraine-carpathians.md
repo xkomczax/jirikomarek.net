@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    Ukraine - Carpathians
+title:    Crossing Ukrainian Carpathian mountains
 description: Ukrainian Carpathians primeval beech forests are protected as a UNESCO World Heritage site. The woods are home to wolves, bears, wild cats, and other animals.
 date:     2018-07-07 12:00:00 +0000
 image:    ./previews/ukrainian-carpathians-2018.webp

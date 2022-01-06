@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    Autumn in Bílé Karpaty
-description: Night photos from the autumn mountains.
+title:    Night shooting in Bílé Karpaty during autumn
+description: Night photos from the autumn mountains full of lonely trees.
 date:     2021-10-24 12:00:00 +0000
 image:    ./previews/bile-karpaty-2021.webp
 ---

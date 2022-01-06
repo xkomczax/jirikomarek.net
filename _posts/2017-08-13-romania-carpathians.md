@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    Romania - Carpathians
-description: Photo collection of Munții Apuseni, part of the Romanian Carpathians. 
+title:    Hiking in Romanian Carpathian mountains
+description: Photo collection of Munții Apuseni, part of the Romanian Carpathians.
 date:     2017-08-13 12:00:00 +0000
 image:    ./previews/romanian-carpathians-2017.webp
 ---

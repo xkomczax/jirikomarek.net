@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Mountains
+title:      Photographic project "Mountains"
 description: A collection of photos of mountains - from panoramic views from the top of the peaks to fine details in valleys.
 image:      ./previews/mountains.webp
 permalink:  /mountains/

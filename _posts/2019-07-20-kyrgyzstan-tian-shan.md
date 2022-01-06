@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    Kyrgyzstan - Tian Shan
+title:    Kyrgyzstan - Tian Shan mountains in photography
 description: The Tian Shan, which means Mountains of Heaven in translation, is one of the highest mountain ranges in the whole world.
 date:     2019-07-20 12:00:00 +0000
 image:    ./previews/kyrgyzstan-tian-shan-2019.webp

@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    Bulgaria - Stara Planina
+title:    Image collection of Stara Planina mountains in Bulgaria
 description: Photo collection of the Central Balkan mountain range that is spanning from the Black Sea coast through the whole of Bulgaria to the Serbian borders.
 date:     2018-08-11 12:00:00 +0000
 image:    ./previews/bulgaria-central-balkan-mountains-2018.webp
