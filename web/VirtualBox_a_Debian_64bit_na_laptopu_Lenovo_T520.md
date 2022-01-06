@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VirtualBox a Debian 64bit na laptopu Lenovo T520
+title: Jak na VirtualBox a Debian 64bit na laptopu Lenovo T520
 description: Návod na instalaci Debianu 64bit ve VirtualBoxu na hostitelském počítači s Debianem 64bit.
 category: Linux
 published: true

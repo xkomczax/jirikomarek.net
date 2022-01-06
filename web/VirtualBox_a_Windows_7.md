@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VirtualBox a Windows 7
+title: Jak na VirtualBox a Windows 7
 description: Návod na instalaci Windows 7 ve VirtualBoxu na hostitelském počítači s Debianem.
 category: Linux
 published: true

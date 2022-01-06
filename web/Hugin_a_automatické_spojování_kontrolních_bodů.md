@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tvorba panoramat pomocí programu Hugin a automatické spojování kontrolních bodů
+title: Tvorba panoramat pomocí programu Hugin a spojování kontrolních bodů
 description: Jakým způsobem vytvořit panorama z vašeho fotoaparátu či zrcadlovky přímo na počítači pomocí free programu Hugin.
 category: Linux, Grafika
 published: true

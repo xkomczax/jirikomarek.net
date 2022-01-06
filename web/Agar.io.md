@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agar.io popis hry
+title: Agar.io - popis zábavné hry, která běží v prohlížeči
 description: Agar.io je webová hra, která původně vznikla v dubnu 2015.
 category: Linux
 published: true

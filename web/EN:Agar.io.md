@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agar.io game description
+title: Agar.io - funny browser game description
 description: Description and game priciples of Agar.io, simple browser game originally created in April 2015.
 category: Linux
 published: true

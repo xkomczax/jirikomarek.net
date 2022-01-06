@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Změna obrázku v GRUB2
+title: Změna obrázku v linuxovém zavaděči GRUB2
 description: Návod jak změnit obrázek v linuxovém zavaděči GRUB2 a vytunit si tak start Linuxu.
 category: Linux
 published: true
