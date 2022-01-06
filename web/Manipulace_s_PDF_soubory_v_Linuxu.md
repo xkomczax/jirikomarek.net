@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Manipulace s PDF soubory v Linuxu
+description: Otočení, rozřezání, zmenšení, rozdělení a spojení PDF souborů.
 category: Linux
-keywords: pdf, linux, pdfjam, pdfsam, jpg
 published: true
 ---
 

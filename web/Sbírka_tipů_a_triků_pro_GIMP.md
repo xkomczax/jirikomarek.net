@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Sbírka tipů a triků pro GIMP
+description: Makra v Gimpu, export z RBG do CMYK, bělení zubů a očí, odstranění chromatické aberace.
 category: Linux
-keywords: gimp, makra, rgb, cmyk
 published: true
 ---
 

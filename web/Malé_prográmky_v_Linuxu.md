@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Malé prográmky v Linuxu
+description: Kolekce malých, ale velice užitečných prográmků pro Linux (commandline i GUI), které dokáží značně zrychlit každodenní práci.
 category: Linux
-keywords: pngcrush, bash, deborphan, exiftool, mp3blaster, rcconf
 published: true
 ---
 

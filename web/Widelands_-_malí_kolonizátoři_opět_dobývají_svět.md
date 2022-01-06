@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Widelands - malí kolonizátoři opět dobývají svět
+description: Recenze strategické hry Widelands, která je svobodným klonem legendárních Settlers II.
 category: Linux
-keywords: widelands, hra, settlers
 published: true
 ---
 

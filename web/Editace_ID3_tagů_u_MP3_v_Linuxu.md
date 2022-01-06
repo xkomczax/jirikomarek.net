@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Editace ID3 tagů u MP3 v Linuxu
+description: Krátký popis jednotlivých linuxových nástrojů pro práci s hudebními soubory v Linuxu.
 category: Linux
-keywords: Linux, MP3, ID3, tag
 published: true
 ---
 

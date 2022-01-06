@@ -1,6 +1,7 @@
 ---
 layout:   post
 title:    Autumn in Bílé Karpaty
+description: Night photos from the autumn mountains.
 date:     2021-10-24 12:00:00 +0000
 image:    ./previews/bile-karpaty-2021.webp
 ---

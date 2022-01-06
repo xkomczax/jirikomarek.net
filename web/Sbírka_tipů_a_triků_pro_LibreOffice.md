@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Sbírka tipů a triků pro Open/LibreOffice
+description: Přidání nadpisu do obsahu, zobrazení čísla stránek až od určité strany, nezalomitelné mezery a další triky pro Open/LibreOffice.
 category: Linux
-keywords: OpenOffice, LibreOffice, nadpis, gtk, nezalomitelné mezery, pravopis, přeškrtnutý text, horizontální čára
 published: true
 redirect_from: /web/Sbírka_tipů_a_triků_pro_Open⁄LibreOffice
 ---

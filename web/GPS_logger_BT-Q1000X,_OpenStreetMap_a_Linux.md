@@ -1,8 +1,8 @@
 ---
 layout: post
 title: GPS logger BT-Q1000X, OpenStreetMap a Linux
+description: Jak trasovat svůj pohyb pomocí GPS loggeru BT-Q1000X.
 category: Linux
-keywords: gps, bt-Q1000X, ubuntu, debian
 published: true
 ---
 

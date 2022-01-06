@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Sbírka linuxových tipů a triků
+description: Nefunkční DNS po startu počítače, start Privoxy, zapnutí chybových hlášek pro PHP, zjištění verze balíčku pro Debian a další rady.
 category: Linux
-keywords: dns, kdm, qt, privoxy, debian, php, openbox, java, touchpad, apt, dpkg, ubuntu, mint, ntpq, apache2, GStreamer, exif, fsck, usb, digikam, lispworks
 published: true
 redirect_from:
 - /web/OpenNIC_a_jeho_zprovoznění_v_Linuxu

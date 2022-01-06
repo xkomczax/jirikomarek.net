@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      Home
+description: Photo collection from Drahanská vrchovina, a place I call my home:, a place where I was born, grow up and spend most of my life.
 image:      ./previews/drahanska-vrchovina-project.webp
 permalink:  /home/
 ---

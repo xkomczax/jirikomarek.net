@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      Structures
+description: Project trying to capture nature-made structures. 
 image:      ./previews/structures.webp
 permalink:  /structures/
 ---

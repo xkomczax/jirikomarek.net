@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Hugin a automatické spojování kontrolních bodů
+title: Tvorba panoramat pomocí programu Hugin a automatické spojování kontrolních bodů
+description: Jakým způsobem vytvořit panorama z vašeho fotoaparátu či zrcadlovky přímo na počítači pomocí free programu Hugin.
 category: Linux, Grafika
-keywords: hugin, panorama, linux
 published: true
 ---
 
-Hugin je program, pomocí kterého můžete ze série fotek jednu velkou. Návod jak na to by vydal na samostatný článek, nám pro začátek stačí konstatování, že je třeba, aby se části dvou po sobě navazujících fotek překrývaly (cca. jednou třetinou, ale může být samozřejmě i více či někdy stačí méně. Záleží na situaci.). Máme-li takové fotky nachystány, otevřeme Hugin a zobrazí se nám hlavní obrazovka programu. Tady klikneme na "Load images...", kde vybereme fotky, jenž se mají spojovat (více fotek vybereme stisknutím Ctrl + levé tlačítko myši) a dáme volbu "Open". Nyní překlikneme na záložku "control points", kde ručně vybereme body, které chceme spojit. Čím více jich zadáme, tím samozřejmě lépe, ovšem vše záleží na naší ochotě klikat. Je vhodné vybírat body pokud možno z co největšího prostoru. Pozor na pohybující se předměty (lidé, vozidla, ...), které jsou na každé z fotek na jiném místě. Ty z výběru raději vynecháme.
+V roce 2022 už [Hugin](http://hugin.sourceforge.net/) umí spojovat obrázky automaticky. Na ukázky panoramat je možné se podívat v mé [fotogalerii](/).  
+
+Hugin je zdarma dostupný program, pomocí kterého můžete ze série fotek jednu velkou. Návod jak na to by vydal na samostatný článek, nám pro začátek stačí konstatování, že je třeba, aby se části dvou po sobě navazujících fotek překrývaly (cca. jednou třetinou, ale může být samozřejmě i více či někdy stačí méně. Záleží na situaci.). Máme-li takové fotky nachystány, otevřeme Hugin a zobrazí se nám hlavní obrazovka programu. Tady klikneme na "Load images...", kde vybereme fotky, jenž se mají spojovat (více fotek vybereme stisknutím Ctrl + levé tlačítko myši) a dáme volbu "Open". Nyní překlikneme na záložku "control points", kde ručně vybereme body, které chceme spojit. Čím více jich zadáme, tím samozřejmě lépe, ovšem vše záleží na naší ochotě klikat. Je vhodné vybírat body pokud možno z co největšího prostoru. Pozor na pohybující se předměty (lidé, vozidla, ...), které jsou na každé z fotek na jiném místě. Ty z výběru raději vynecháme.
 
 Máme-li již vybráno dostatečné množství kontrolních bodů, přepneme opět na záložku "Assistant" a klikneme na volbu "Align...". Tady se nám zobrazí preview celého panoramatu a my máme možnost změnit například v záložce "Projection" způsob zobrazení vašeho panoramatu, v záložce "Move and drag" můžete s obrázkem "gumově hýbat" a tím ovlivňovat jeho zakřivení a v záložce "Crop" najdete mimo jiné velice užitečnou volbu a tou je "Autocrop", kdy po kliknutí na toto tlačítko se vám celé panorama ořeže tím způsobem, že na obrázku nezůstane žádné nevyplněné místo, pouze poskládaná fotografie.
 

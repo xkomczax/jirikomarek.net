@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Agar.io
+title: Agar.io popis hry
+description: Agar.io je webová hra, která původně vznikla v dubnu 2015.
 category: Linux
 published: true
 ---
 
 **[Article in English]({{site.baseurl}}/web/EN:Agar.io)**
 
-[Agar.io](http://www.agar.io/) je webová hra, která původně vznikla v dubnu 2015 na serveru 4chan.
+[Agar.io](http://www.agar.io/) je webová hra, která původně vznikla v dubnu 2015.
 
 ## Herní princip
 

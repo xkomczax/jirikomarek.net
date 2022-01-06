@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Diktafon RCA VR530R, VOC soubory a Linux
+description: Návod na použití diktafonu RCA VR530R a na práci s VOC soubory v Linuxu.
 category: Linux
-keywords: RCA, VR530R, VOC, Linux
 published: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Sbírka tipů a triků pro GoldenDict a StarDict
+description: Tipy a triky pro svobodné desktopové slovníky GoldenDict a StarDict
 category: Linux
-keywords: GoldenDict, StarDict, google translate, linux
 published: true
 ---
 

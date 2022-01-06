@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Tips&tricks for Linux and open-source sofware
+description: Seznam tipů a triků pro Linux, svobodný zdarma dostupný software a fotografické články.
 category: Linux
-keywords: linux, tipy, triky, openoffice, libreoffice
 published: true
 ---
 

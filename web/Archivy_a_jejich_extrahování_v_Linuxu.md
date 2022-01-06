@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Archivy a jejich extrahování v Linuxu
+description: Návody na práci s commandline archivovacími nástroji v Linuxu.
 category: Linux
-keywords: Linux, zip, rar, bzip, gzip, 7-zip
 published: true
 ---
 

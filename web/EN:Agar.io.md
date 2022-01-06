@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Agar.io
+title: Agar.io game description
+description: Description and game priciples of Agar.io, simple browser game originally created in April 2015.
 category: Linux
-keywords: agar.io, game, browser, 4chan
 published: true
 ---
 
 **[Článek v češtině]({{site.baseurl}}/web/Agar.io)**
 
-[Agar.io](http://www.agar.io/) is browser game created in April 2015 on 4chan server.
+[Agar.io](http://www.agar.io/) is browser game created in April 2015.
 
 ## Game principle
 Using mouse player controls small cell which grows all the time it eat agar (small colored dots) or other cells. There is in the upper right corner statistics with top 10 players. The goal of the game is to eat as much as possible and get to the highest position. AS the cell is growing, it slows down but on the other hand the visible area is extending.

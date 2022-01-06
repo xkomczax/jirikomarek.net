@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Instalace MediaWiki
+description: Návody na práci s MediaWiki, CMS systémem na správu své osobní wiki.
 category: Linux
-keywords: mediawiki, php, zip, upload, video
 published: true
 ---
 
