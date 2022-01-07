@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instalace MediaWiki
+title: Návod na instalaci MediaWiki CMS
 description: Návody na práci s MediaWiki, CMS systémem na správu své osobní wiki.
 category: Linux
 published: true
