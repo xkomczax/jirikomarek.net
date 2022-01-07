@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Agar.io - popis zábavné hry, která běží v prohlížeči
-description: Agar.io je webová hra, která původně vznikla v dubnu 2015.
+title: Jak hrát Agar.io a popis této online hry
+description: Agar.io je online webová hra, ve které hrajete jezdíte svou buňkou po hrací ploše, žerete agar a menší soupeře a snažíte se vyhnout virům a větším soupeřům.
 category: Linux
 published: true
 ---
 
 **[Article in English]({{site.baseurl}}/web/EN:Agar.io)**
 
-[Agar.io](http://www.agar.io/) je webová hra, která původně vznikla v dubnu 2015.
+[Agar.io](http://www.agar.io/) je webová hra, ve které hrajete jezdíte svou buňkou po hrací ploše, žerete agar a menší soupeře a snažíte se vyhnout virům a větším soupeřům. Původně vznikla v dubnu 2015.
 
 ## Herní princip
 
 Hráč ovládá pomocí myši malou buňku, která roste tím, jak kolem sebe sbírá agar (malé barevné kuličky) či jiné buňky. V pravém horním rohu je vždy statistika s top 10 hráči dané hry. Cílem ostatních je získat větší a větší podíl a dostat se na úkor ostatních na co nejvyšší pozici. S tím, jak buňka roste, se však zároveň zpomaluje, ovšem zvětšuje se oblast, kterou ze své pozice vidí.
 
-Pokud najede znatelně větší buňka na menší, pozře jí a tím se zvětší. Ovšem najede-li od určité velikosti na bacil (zelená zubatá kolečka), ten buňku rozstřelí na malé dílky do celého okolí. Tím hráč sice získá rychlost, ale je snadnou kořistí pro dalš hráče.
+Pokud najede znatelně větší buňka na menší, pozře jí a tím se zvětší. Ovšem najede-li od určité velikosti na bacil (zelená zubatá kolečka), ten buňku rozstřelí na malé dílky do celého okolí. Tím hráč sice získá rychlost, ale je snadnou kořistí pro další hráče.
 ### Týmová hra
 
 V týmovém módu je v pravém horním rohu místo top 10 hráčů koláčový graf, jenž ukazuje, který ze tří týmů (rudí, zelení a modří) drží kolik procent. Strategie hry se tím také mění: nyní není nejdůležitější přežití a růst jedince, ale celého týmu.
@@ -50,8 +50,8 @@ V červenci 2015 byla do hry přidána statistika. Ta se zobrazí vždy když ze
 Nechcete-li se zabývat těmito podružnostmi, stačí, když si volbu ukazování statistiky vypnete v nastavení.
 ## Účty
 
-Od června 2015 je možné hrát nejen jako anonymní uživatel, co si pouze zvolí svoji přezdívku, ale můžete se přihlásit pomocí svého facebookového účtu. Pokud jej nemáte nebo nechcete z jakéhokoliv důvodu použít, stále je možné pouze vyplnit přezdívku a hrát.
+Od června 2015 je možné hrát nejen jako anonymní uživatel, co si pouze zvolí svoji přezdívku, ale můžete se přihlásit pomocí svého Facebook účtu (nově lze použít k přihlášení i Google účet). Pokud jej nemáte nebo nechcete z jakéhokoliv důvodu použít, stále je možné pouze vyplnit přezdívku a hrát.
 ## Lagy
-Na přelomu května a června 2015 zaznamenalo více hráčů lagy (zasekávání hry). Problém je způsoben přetížením serverů, je tedy nutné vyčkat, dokud se herní servery nevyklidí (nebo autor nepříkoupí více serverů či nevydá hru pod svobodnou licencí, aby ji mohli na své servery umísťovat i další zájemci).
+Na přelomu května a června 2015 zaznamenalo více hráčů lagy (zasekávání hry). Problém je způsoben přetížením serverů, je tedy nutné vyčkat, dokud se herní servery nevyklidí.
 
 <center><b><a href="../">Přehled technických článků</a></b></center>
