@@ -21,7 +21,7 @@ redirect_from:
 							{% endfor %}
 						{% else %} {% endif %}
 						</div>
-						<h2 class="article-title"><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h2>
+						<h1 class="article-title"><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h1>
 						<p class="article-excerpt">{% if post.description %}{{ post.description | strip_html | truncate: 163 }}{% else %}{{ post.content | strip_html | truncate: 163 }}{% endif %}</p>
 						<a href="{{ post.url | prepend: site.baseurl }}" class="button read-more">Read More</a>
 					</div>
