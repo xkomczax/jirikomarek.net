@@ -4,6 +4,7 @@ title: Archivy a jejich extrahování v Linuxu
 description: Návody na práci s commandline archivovacími nástroji v Linuxu.
 category: Linux
 published: true
+redirect_from: /web/Archivy_a_jejich_extrahování_v_Linuxu/
 ---
 
 Následující výčet není kompletní manuálovou stránkou pro práci s archivy, ale jsou v něm vysvětleny postupy jak rozbalit nejběžnější archivní soubory pod operačním systémem GNU/Linux.
