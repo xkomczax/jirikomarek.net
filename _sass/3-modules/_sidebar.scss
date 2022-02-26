@@ -115,9 +115,9 @@
     display: inline-block;
     line-height: 16px;
     padding: 8px 10px;
-    border: 1px solid $border-color;
+    border: 1px solid $text;
     border-radius: $global-radius;
-    color: $border-color;
+    color: $text;
     &:hover {
       border-color: $primary-color;
       color: $primary-color;
