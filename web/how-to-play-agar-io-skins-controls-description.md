@@ -1,12 +1,11 @@
 ---
 layout: post
-title: How to play Agar.io and the game description
+title: How to play Agar.io, skins, controls, and the game description
 description: Description and game priciples of Agar.io, simple but funny browser game originally created in April 2015.
 category: Linux
 published: true
+redirect_from: /web/EN:Agar.io/
 ---
-
-**[Článek v češtině]({{site.baseurl}}/web/Agar.io)**
 
 [Agar.io](http://www.agar.io/) is a browser game created in April 2015.
 
@@ -38,7 +37,7 @@ The classical and party modes have identical rules. The only difference is that 
 ## Starting game
 Every player needs to pick a nickname (or leave it blank), select the game mode (the default one is FFA), and start playing by clicking the Play button. They can also click on settings and choose some advanced settings or click on Spectate button to watch the best player. For leaving spectate mode, press the Esc button.
 
-## Agar.io game controls
+## Agar.io controls
 The player controls the cell by mouse movement. If the player moves the pointer to the left, the cell moves in the same direction. Because of the movement control, you cannot play Agar.io on mobile phones.
 
 The zone where one can operate is a squared battlefield. In the Battle Royale mode, the *safe area* shrinks into smaller circles.
@@ -71,5 +70,6 @@ You can disable the statistics window in settings.
 ## Accounts
 Starting July 2015, you can create an account using your Facebook account. Later, creating an account using Google was added. The option to type your nickname and start playing without registration stays there.
 
+**[Článek v češtině]({{site.baseurl}}/web/Agar.io)**
 
 <center><b><a href="../">List of technical articles in Czech language</a></b></center>
