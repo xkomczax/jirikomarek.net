@@ -1,17 +1,18 @@
 ---
 layout: post
-title: Detailní popis jak hrát Agar.io
+title: Jak hrát Agar.io online, ovládání a skiny
 description: Agar.io je online webová hra, ve které hrajete jezdíte svou buňkou po hrací ploše, žerete agar a menší soupeře a snažíte se vyhnout virům a větším soupeřům.
 category: Linux
 published: true
+redirect_from: /web/Agar.io/
 ---
 
 **[Article in English]({{site.baseurl}}/web/EN:Agar.io)**
 
-[Agar.io](http://www.agar.io/) je webová hra, ve které hrajete jezdíte svou buňkou po hrací ploše, žerete agar a menší soupeře a snažíte se vyhnout virům a větším soupeřům. Původně vznikla v dubnu 2015.
+[Agar.io](http://www.agar.io/) je webová hra, ve které jezdíte se svou buňkou po hrací ploše, požíráte agar a menší soupeře a snažíte se vyhnout virům a větším soupeřům. Hra původně vznikla v dubnu 2015.
 
 ## Herní princip
-Hráč ovládá pomocí myši malou buňku, která roste tím, jak kolem sebe sbírá agar (malé barevné kuličky) či jiné buňky. V pravém horním rohu je vždy statistika s top 10 hráči dané hry. Cílem ostatních je získat větší a větší podíl a dostat se na úkor ostatních na co nejvyšší pozici. S tím, jak buňka roste, se však zároveň zpomaluje, ovšem zvětšuje se oblast, kterou ze své pozice vidí.
+Hráč myší ovládá malou buňku, která roste tím, jak kolem sebe sbírá agar (malé barevné kuličky) či jiné buňky. V pravém horním rohu je vždy statistika s top 10 hráči dané hry. Cílem ostatních je získat větší a větší podíl a dostat se na úkor ostatních na co nejvyšší pozici. S tím, jak buňka roste, se však zároveň zpomaluje, ovšem zvětšuje se oblast, kterou ze své pozice vidí.
 
 Pokud najede znatelně větší buňka na menší, pozře jí a tím se zvětší. Ovšem najede-li od určité velikosti na bacil (zelená zubatá kolečka), ten buňku rozstřelí na malé dílky do celého okolí. Tím hráč sice získá rychlost, ale je snadnou kořistí pro další hráče.
 
