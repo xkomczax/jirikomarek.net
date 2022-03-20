@@ -70,6 +70,6 @@ You can disable the statistics window in settings.
 ## Accounts
 Starting July 2015, you can create an account using your Facebook account. Later, creating an account using Google was added. The option to type your nickname and start playing without registration stays there.
 
-**[Článek v češtině]({{site.baseurl}}/web/Agar.io)**
+**[Článek v češtině](jak-hrat-agar-io-online-ovladani-skiny)**
 
 <center><b><a href="../">List of technical articles in Czech language</a></b></center>
