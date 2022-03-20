@@ -4,6 +4,7 @@ title: Sbírka tipů a triků pro svobodný grafický editor GIMP
 description: Makra v Gimpu, export z RBG do CMYK, bělení zubů a očí, odstranění chromatické aberace.
 category: Linux
 published: true
+redirect_from: /web/Sbírka_tipů_a_triků_pro_GIMP
 ---
 
 [GIMP](http://www.gimp.org/) je svobodný grafický program, který je zdarma a legálně dostupný pro Windows, Mac, Linux a další UNIXové operační systémy. Existuje pro něj obsáhlá dokumentace, ve které jsou popsány všechny funkce programu, tutoriály a samozřejmě i FAQ, nebo-li často kladené otázky. Plus je možno najít spoustu návodů přes vyhledávače. U většiny z nich je ale zapotřebí znalost angličtiny.

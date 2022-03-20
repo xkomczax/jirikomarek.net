@@ -7,6 +7,7 @@ published: true
 redirect_from:
 - /web/OpenNIC_a_jeho_zprovoznění_v_Linuxu
 - /web/Pár_tipů_k_používání_programu_JAlbum
+- /web/Sbírka_linuxových_tipů_a_triků
 ---
 
 ## Nefunkční DNS po startu počítače

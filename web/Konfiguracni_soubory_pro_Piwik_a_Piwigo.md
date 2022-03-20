@@ -4,6 +4,7 @@ title: Konfigurační soubory pro Matomo/Piwik a Piwigo
 description: Jak pracovat s konfiguračními soubory u open-source nástroje na měření návštěvnosti Matomo/Piwik a svbobodné webové galeri Piwigo
 category: Linux
 published: true
+redirect_from: /web/Konfigurační_soubory_pro_Piwik_a_Piwigo
 ---
 
 Jelikož jsem na webu používal pro sledování provozu aplikaci Piwik/Matomo a pro svoji galerii podobně znějící aplikaci Piwigo, při přesunu webu jsem musel měnit i jejich konfiguraci. Pro vlastní zapamatování a případné další lidi se stejným problémem zde dávám seznam souborů, které je při migraci třeba změnit.

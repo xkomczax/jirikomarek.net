@@ -4,6 +4,7 @@ title: Widelands - malí kolonizátoři opět dobývají svět
 description: Recenze strategické hry Widelands, která je svobodným klonem legendárních Settlers II.
 category: Linux
 published: true
+redirect_from: /web/Widelands_-_malí_kolonizátoři_opět_dobývají_svět
 ---
 
 Z opuštěné tvrze uprostřed neproniknutelných lesů se jako blesk z čistého nebe vyhrne armáda řemeslníků. Ti nelení, začnou kácet lesy, zpevňovat cesty, stavět budovy a další tvrze a zanedlouho na místě temného hvozdu vzkvétá malebné město. A celá tato scenérie probíhá na váš pokyn.

@@ -4,6 +4,7 @@ title: Tvorba panoramat pomocí programu Hugin
 description: Jakým způsobem vytvořit panorama z vašeho fotoaparátu či zrcadlovky přímo na počítači pomocí zdarma dostupného programu Hugin.
 category: Linux, Grafika
 published: true
+redirect_from: /web/Hugin_a_automatické_spojování_kontrolních_bodů
 ---
 
 V roce 2022 už [Hugin](http://hugin.sourceforge.net/) umí spojovat obrázky automaticky. Na ukázky panoramat je možné se podívat v mé [fotogalerii](/).  

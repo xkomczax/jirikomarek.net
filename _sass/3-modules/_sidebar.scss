@@ -113,8 +113,8 @@
   }
   .social-profiles-link {
     display: inline-block;
-    line-height: 16px;
-    padding: 8px 10px;
+    line-height: 19px;
+    padding: 10px 15px;
     border: 1px solid $text;
     border-radius: $global-radius;
     color: $text;
@@ -123,7 +123,7 @@
       color: $primary-color;
     }
     i {
-      font-size: 18px;
+      font-size: 36px;
     }
   }
 }

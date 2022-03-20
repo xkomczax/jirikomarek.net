@@ -4,7 +4,9 @@ title: Sbírka tipů a triků pro Firefox
 description: návod na zrychlení běhu Firefoxu a jak na mizející položky ve Firefox toolbaru.
 category: Linux
 published: true
-redirect_from: Sbírka_tipů_a_triků_pro_Firefox⁄Iceweasel
+redirect_from:
+- Sbírka_tipů_a_triků_pro_Firefox⁄Iceweasel
+- /web/Sbírka_tipů_a_triků_pro_Firefox
 ---
 
 ##Zrychlení běhu Firefoxu provedením operace VACUUM nad jeho databází

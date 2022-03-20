@@ -4,6 +4,7 @@ title: Malé, ale užitečné prográmky v Linuxu
 description: Kolekce malých, ale velice užitečných prográmků pro Linux (commandline i GUI), které dokáží značně zrychlit každodenní práci.
 category: Linux
 published: true
+redirect_from: /web/Malé_prográmky_v_Linuxu
 ---
 
 Následující seznam si klade za cíl představit některé malé užitečné prográmky, které vám mohou v některých situacích značně ulehčit používání GNU/Linuxu.

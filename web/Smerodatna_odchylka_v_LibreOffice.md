@@ -4,7 +4,9 @@ title: Směrodatná odchylka v Open/LibreOffice
 description: Návod na vytvoření směrodatné odchylky v OpenOffice/LibreOffice, vytvoření grafu, vložení odchylky do grafu a vytvoření směrodatné odchylky pro více sloupců.
 category: Linux
 published: true
-redirect_from: Směrodatná_odchylka_v_Open⁄LibreOffice
+redirect_from:
+- Směrodatná_odchylka_v_Open⁄LibreOffice
+- /web/Směrodatná_odchylka_v_LibreOffice
 ---
 
 ## Vytvoření grafu
