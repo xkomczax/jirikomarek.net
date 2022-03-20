@@ -6,8 +6,8 @@ category: Linux
 published: true
 ---
 
-* [EN:Agar.io]({{site.baseurl}}/web/EN:Agar.io)
-* [Agar.io](Agar.io)
+* [Agar.io: how to play, skins, controls, description](how-to-play-agar-io-skins-controls-description)
+* [Jak hrát Agar.io online, ovládání a skiny](jak-hrat-agar-io-online-ovladani-skiny)
 * [Geocaching na GPS navigaci Garmin Oregon 650](Geocaching_na_GPS_navigaci_Garmin_Oregon_650)
 * [Sbírka tipů a triků pro GoldenDict a StarDict](Sbírka_tipů_a_triků_pro_GoldenDict_a_StarDict)
 * [Sbírka tipů a triků pro GIMP](Sbírka_tipů_a_triků_pro_GIMP)
