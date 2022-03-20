@@ -4,7 +4,6 @@ title: How to play Agar.io, skins, controls, and the game description
 description: Description and game priciples of Agar.io, simple but funny browser game originally created in April 2015.
 category: Linux
 published: true
-redirect_from: /web/EN:Agar.io/
 ---
 
 [Agar.io](http://www.agar.io/) is a browser game created in April 2015.
