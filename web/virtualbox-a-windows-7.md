@@ -4,6 +4,7 @@ title: Jak na instalaci Windows 7 do VirtualBoxu
 description: Návod na instalaci Windows 7 ve VirtualBoxu na hostitelském počítači s Debianem.
 category: Linux
 published: true
+redirect_from: /web/VirtualBox_a_Windows_7/
 ---
 
 Tento článek se zabývá instalací Windows 7 ve VirtualBoxu na hostitelském počítači s Debianem. Zajímá-li vás instalace Debianu 64bit na hostitelský počítač s Debianem 64bit, [přejděte na daný článek]({{site.baseurl}}/web/VirtualBox_a_Debian_64bit_na_laptopu_Lenovo_T520).

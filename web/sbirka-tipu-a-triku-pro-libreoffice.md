@@ -6,7 +6,7 @@ category: Linux
 published: true
 redirect_from:
 - /web/Sbírka_tipů_a_triků_pro_Open⁄LibreOffice
-- /web/Sbírka_tipů_a_triků_pro_LibreOffice
+- /web/Sbírka_tipů_a_triků_pro_LibreOffice/
 ---
 
 ## Přidání vlastního (nečíslovaného) nadpisu do obsahu

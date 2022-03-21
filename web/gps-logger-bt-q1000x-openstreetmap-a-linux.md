@@ -4,6 +4,7 @@ title: GPS logger BT-Q1000X, OpenStreetMap a Linux
 description: Jak trasovat svůj pohyb pomocí GPS loggeru BT-Q1000X.
 category: Linux
 published: true
+redirect_from: /web/GPS_logger_BT-Q1000X,_OpenStreetMap_a_Linux/
 ---
 
 Nedávno jsem se náhodou stal majitelem GPS loggeru [BT-Q1000X](http://www.qstarz.com/download.php?t=4&m=BT-Q1000X). Přístroj je docela jednoduchý, na boku má akorát možnost přepnutí do tří režimů - vypnuto, navigace a logování. V pozici vypnuto je přístroj vypnut, v pozici navigace přístroj sice neloguje, ale po spojení s chytrým telefonem nebo například PDA může spolu s patřičným softwarem navigovat. Nadto v tomto režimu přenáší zalogovaná data do počítače, což nás bude později zajímat. Poslední možnost je logování, do které přepínáme ve chvíli, kdy chceme, aby přístroj zaznamenával naši trasu. Krom toho je vepředu přístroje červené tlačítko, které po stisknutí zaznamená do paměti místo, kde jsme jej zmáčkli.

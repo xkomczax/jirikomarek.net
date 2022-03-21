@@ -4,7 +4,7 @@ title: Editace ID3 tagů u MP3 v Linuxu
 description: Krátký popis jednotlivých linuxových nástrojů pro práci s hudebními soubory v Linuxu.
 category: Linux
 published: true
-redirect_from: /web/Editace_ID3_tagů_u_MP3_v_Linuxu
+redirect_from: /web/Editace_ID3_tagů_u_MP3_v_Linuxu/
 ---
 
 Pokud nepoužíváte počítač pouze a jen k pracovním účelům, ale máte jej zároveň i jako multimediální centrum se sbírkou písniček v MP3, OGG, WMA, FLAC, AAC nebo jiných formátech (či multimediálních kontejnerech), nejspíše oceníte, když vám váš oblíbený přehrávač hudby dokáže daný song nejen přehrát, ale zobrazit o něm minimálně jméno interpreta a název songu. Problém nastává v okamžiku, kdy tato informace chybí nebo je zanesena špatně. Hodně přehrávačů má zabudovanou možnost tyto informace upravit rovnou v něm, ale toto pravidlo není stoprocentní, nemluvě o dalších informacích, které přehrávače často neumí upravit či o hromadném přejmenovávání, které se stává u sbírky se stovkami songů vyloženě utrpením. Existují však řešení, jak tyto takzvané ID3 tagy editovat externími programy, které jsou na tuto činnost specializované a tudíž zvládají často mnohem více než přehrávače. Níže jsou uvedeny některé z nich, které se dají použít na operačním systému GNU/Linux.

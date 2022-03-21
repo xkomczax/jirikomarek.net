@@ -4,6 +4,7 @@ title: Návod na instalaci MediaWiki CMS
 description: Návody na práci s MediaWiki, CMS systémem na správu své osobní wiki.
 category: Linux
 published: true
+redirect_from: /web/Instalace_MediaWiki/
 ---
 
 ## Upload MediaWiki na server

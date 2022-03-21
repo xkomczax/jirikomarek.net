@@ -6,7 +6,7 @@ category: Linux
 published: true
 redirect_from:
 - Sbírka_tipů_a_triků_pro_Firefox⁄Iceweasel
-- /web/Sbírka_tipů_a_triků_pro_Firefox
+- /web/Sbírka_tipů_a_triků_pro_Firefox/
 ---
 
 ##Zrychlení běhu Firefoxu provedením operace VACUUM nad jeho databází

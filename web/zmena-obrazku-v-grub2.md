@@ -4,7 +4,7 @@ title: Změna obrázku v linuxovém zavaděči GRUB2
 description: Návod jak změnit obrázek v linuxovém zavaděči GRUB2 a vytunit si tak start Linuxu.
 category: Linux
 published: true
-redirect_from: /web/Změna_obrázku_v_GRUB2
+redirect_from: /web/Změna_obrázku_v_GRUB2/
 ---
 
 Pokud se vám nelíbí monotónní vzhled zavaděče GRUB2, existuje možnost jej změnit a doplnit o nějaký ten líbivý obrázek.

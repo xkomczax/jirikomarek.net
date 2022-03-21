@@ -4,6 +4,7 @@ title: Diktafon RCA VR530R, VOC soubory a Linux
 description: Návod na použití diktafonu RCA VR530R a na práci s VOC soubory v Linuxu.
 category: Linux
 published: true
+redirect_from: /web/Diktafon_RCA_VR530R,_VOC_soubory_a_Linux/
 ---
 
 V časové tísni a bez možnosti vybírat si jsem zakoupil diktafon značky RCA s označením VR5330R. Tento přístroj se chlubí 2GB vnitřní paměti s možností nahrátí až 800 hodin záznamu. Ovšem hned na začátek je nutné podotknout, že oněch 800 hodin je možné dosáhnout při použití formátu s tokem 5.6kbps, chceme-li střední kvalitu 32kbps, pak už se nám na přístroj vleze pouze 140 hodin a v nejvyšší kvalitě, 64kbps WMA můžeme nahrávat 70 hodin. Nutno podotknout, že pro první dvě volby, tedy 5.6kbps a 32kbps, je použit nezdokumentovaný propertiální formát, jehož přípona je .VOC (neplést se soubory Creative Labs Sound, které mají stejnou příponu).

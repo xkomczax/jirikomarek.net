@@ -4,6 +4,7 @@ title: Mapy zdarma a geocaching na GPS navigaci Garmin Oregon 650
 description: Jak dostat mapy na navigaci Garmin a jak tam stáhnout kešky.
 category: Linux
 published: true
+redirect_from: /web/Geocaching_na_GPS_navigaci_Garmin_Oregon_650/
 ---
 
 Outdoorová GPS navigace Garmin Oregon 650 nabízí krom jiného i nástroje pro geocaching.

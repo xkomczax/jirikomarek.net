@@ -6,7 +6,7 @@ category: Linux
 published: true
 redirect_from:
 - Směrodatná_odchylka_v_Open⁄LibreOffice
-- /web/Směrodatná_odchylka_v_LibreOffice
+- /web/Směrodatná_odchylka_v_LibreOffice/
 ---
 
 ## Vytvoření grafu

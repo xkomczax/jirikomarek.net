@@ -4,7 +4,7 @@ title: Sbírka tipů a triků pro GoldenDict a StarDict
 description: Tipy a triky pro svobodné desktopové slovníky GoldenDict a StarDict
 category: Linux
 published: true
-redirect_from: /web/Sbírka_tipů_a_triků_pro_GoldenDict_a_StarDict
+redirect_from: /web/Sbírka_tipů_a_triků_pro_GoldenDict_a_StarDict/
 ---
 
 GoldenDict a jeho předchůdce StarDict jsou svobodné slovníky, které lze zdarma stáhnout pro Linux či Windows. V obou dvou slovnících lze používat slovníky určené i pro jiné programy, neboť zvládají čtení více formátů souborů se slovníky.

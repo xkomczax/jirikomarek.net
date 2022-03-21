@@ -4,6 +4,7 @@ title: Recenze hry Open Transport Tycoon Deluxe
 description: Recenze svobodné hry OpenTTD, ve které si hrajete na dopravního magnáta a stavíte koleje, kupujete vlaky a přepravujete zboží z jedné strany mapy na druhou.
 category: Linux
 published: true
+redirect_from: /web/Open_Transport_Tycoon_Deluxe/
 ---
 
 Největší ze simulátorů, Transport Tycoon Deluxe, se dočkal svého open source klonu. A jelikož je to již nějaký ten pátek zpět, kdy byl projekt započat, nyní nese poslední stabilní verze označení 0.5.1 a změn oproti původní hře je opravdu hodně.
