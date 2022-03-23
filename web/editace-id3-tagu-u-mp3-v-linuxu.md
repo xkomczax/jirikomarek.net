@@ -35,7 +35,7 @@ ExifTool by do tohoto výčtu neměl správně ani patřit, neboť metadata u hu
 exiftool vase-oblibena-pisnicka.mp3
 ```
 
-O tomto prográmku píšu [více v jiném článku na tomto webu](/web/Malé_prográmky_v_Linuxu).
+O tomto prográmku píšu [více v jiném článku na tomto webu](/web/male-programky-v-linuxu/).
 
 ## eyeD3
 
