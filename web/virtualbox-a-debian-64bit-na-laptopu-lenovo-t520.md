@@ -28,7 +28,7 @@ Po úspěšném nainstalování a spuštění se zobrazí úvodní obrazovka Vir
 Pokud budete chtít v laptopech Lenovo s 64bit procesorem spouštět ve VirtualBoxu (či jiném virtualizačním nástroji jako je KVM, QEMU či VMware), musíte nejdříve povolit tuto možnost v BIOSu. Po zapnutí PC zmáčkněte modré "ThinkVantage" tlačítko, vyberte z nabídnutého seznamu přechod do BIOSu, tady vyberte "Config" -> "CPU" -> "VT-mode" -> "enabled". Poté zadejte "Save & Exit" a po restartování počítače a spuštění operačního systému bude VirtualBox schopen virtualizovat i 64bitové systémy.
 ## Vytvoření sdílených složek
 
-Pro přenos souborů mezi hostitelských a virtuálním počítačem slouží ve VirtualBoxu sdílené složky. Pro jejich používání je třeba nejprve doinstalovat "Přídavky pro hosta"("Guest Additions"). Nejprve však musíme v hostitelském počítači nainstalovat potřebné balíčky přes[2]
+Pro přenos souborů mezi hostitelských a virtuálním počítačem slouží ve VirtualBoxu sdílené složky. Pro jejich používání je třeba nejprve doinstalovat "Přídavky pro hosta"("Guest Additions"). Nejprve však musíme v hostitelském počítači nainstalovat potřebné balíčky přes
 ```
 apt-get install build-essential module-assistant
 ```
