@@ -33,7 +33,7 @@ Note: If the Windows installation media is in the CD/DVD drive, you can safely r
 Řešením je ukončení instalace Windows 7, vypnutí virtuálního počítače a následně ve VirtualBoxu jít do "Nastavení"("Settings") -> "Úložiště"("Storage") -> vybrat CD/DVD mechaniku -> zaškrtnout volbu "Přímý přístup"("Passthrough") a poté znovu spustit Windows 7 a dokončit instalaci.
 ## Vytvoření sdílených složek
 
-Pro přenos souborů mezi hostitelských a virtuálním počítačem slouží ve VirtualBoxu sdílené složky. Pro jejich používání je třeba nejprve doinstalovat "Přídavky pro hosta"("Guest Additions"). Nejprve však musíme v hostitelském počítači nainstalovat potřebné balíčky přes[2]
+Pro přenos souborů mezi hostitelských a virtuálním počítačem slouží ve VirtualBoxu sdílené složky. Pro jejich používání je třeba nejprve doinstalovat "Přídavky pro hosta"("Guest Additions"). Nejprve však musíme v hostitelském počítači nainstalovat potřebné balíčky přes
 ```
 apt-get install build-essential module-assistant
 ```
