@@ -52,6 +52,6 @@ Od června 2015 je možné hrát nejen jako anonymní uživatel, co si pouze zvo
 ## Lagy
 Na přelomu května a června 2015 zaznamenalo více hráčů lagy (zasekávání hry). Problém je způsoben přetížením serverů, je tedy nutné vyčkat, dokud se herní servery nevyklidí.
 
-**[Article in English](how-to-play-agar-io-skins-controls-description)**
+**[Article in English](/web/how-to-play-agar-io-skins-controls-description/)**
 
 <center><b><a href="../">Přehled technických článků</a></b></center>
