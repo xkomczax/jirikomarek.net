@@ -13,6 +13,19 @@ Hráč myší ovládá malou buňku, která roste tím, jak kolem sebe sbírá a
 
 Pokud najede znatelně větší buňka na menší, pozře jí a tím se zvětší. Ovšem najede-li od určité velikosti na bacil (zelená zubatá kolečka), ten buňku rozstřelí na malé dílky do celého okolí. Tím hráč sice získá rychlost, ale je snadnou kořistí pro další hráče.
 
+<article class="article col col-12 col-t-12">
+<ul class="image-gallery">
+<div class="imagegallery">
+<li><a href="/img/other/agar-io/frontpage-of-agar-io-game-online.webp"><img src="/img/thumbnails/other/agar-io/frontpage-of-agar-io-game-online.webp" alt="Hlavní stránka online hry agar.io"></a></li>
+<li><a href="/img/other/agar-io/third-position-in-agar-io-ffa-mode.webp"><img src="/img/thumbnails/other/agar-io/third-position-in-agar-io-ffa-mode.webp" alt="Třetí pozice ve hře"></a></li>
+<li><a href="/img/other/agar-io/end-of-the-ffa-mode-in-agar-io.webp"><img src="/img/thumbnails/other/agar-io/end-of-the-ffa-mode-in-agar-io.webp" alt="Konec hry v FFA módu"></a></li>
+</div>
+</ul>
+</article>
+
+##Herní módy
+Agar.io disponuje několika herními módy.
+
 ### Týmová hra
 V týmovém módu je v pravém horním rohu místo top 10 hráčů koláčový graf, jenž ukazuje, který ze tří týmů (rudí, zelení a modří) drží kolik procent. Strategie hry se tím také mění: nyní není nejdůležitější přežití a růst jedince, ale celého týmu.
 
@@ -24,6 +37,16 @@ Ve větvi experimental také fungují jinak bacily: pokud do nich hráč stříl
 ### Párty
 Mód párty se nijak neliší od klasické hry všichni proti všem, jediný rozdíl je v tom, že tyto hry jsou soukromé a hrajete v nich pouze proti přátelům, které jste si sami pozvali.
 
+<article class="article col col-12 col-t-12">
+<ul class="image-gallery">
+<div class="imagegallery">
+<li><a href="/img/other/agar-io/agar-io-beginning-of-the-game.webp"><img src="/img/thumbnails/other/agar-io/agar-io-beginning-of-the-game.webp" alt="Začátek hry v FFA módu"></a></li>
+<li><a href="/img/other/agar-io/teams-game-in-agar-io-online-game.webp"><img src="/img/thumbnails/other/agar-io/teams-game-in-agar-io-online-game.webp" alt="Týmová hra v agar.io"></a></li>
+<li><a href="/img/other/agar-io/agar-io-area-is-shrinking-in-battle-royale.webp"><img src="/img/thumbnails/other/agar-io/agar-io-area-is-shrinking-in-battle-royale.webp" alt="Herní mód Battle Royale"></a></li>
+</div>
+</ul>
+</article>
+
 ## Ovládání Agar.io
 Na úvodní stránce hráč zvolí přezdívku, zvolí, zda-li chce hrát single nebo týmový mód, případně si v nastavení zvolí některou z možností (či klikne na "Spectate", čímž se dostane do pozorovacího módu, ve kterém může sledovat život té nejúspěšnější buňky. Z něj se dostane pomocí stisku klávesy "Esc") a kliknutím na "Play" začne hrát.
 
@@ -32,6 +55,16 @@ Buňka se ovládá pomocí pohybů myši v omezeném čtvercovém poli, kdy smě
 Pomocí mezerníku lze vaši buňku rozdělit (je-li dostatečně velká). To je výhodné ve dvou situacích: jste-li pronásledován větší buňkou, od které hrozí pozření, můžete se rozdělit a tak uniknout (malé buňky jsou rychlejší než ty velké), případně si takto necháte sežrat pouze část své buňky. Daleko častěji se však dobrovolně rozdělují buňky v situacích, kdy jsou již dostatečně velké a kolem nich se pohybuje jedna či více malých buněk. Rozdělením se polovina buňky "odpálí" ve směru pohybu a je-li dostatečně velká, tak pozře vše co je v cílové destinaci. K opětovnému sloučení dochází po určitém čase, což lze vypozorovat tak, že při dotyku se buňky do sebe jakoby vlévají.
 
 Poslední možností je klávesa "W". Pomocí ní hráč střílí část své buňky do prostoru. To opět plní dvě základní funkce. Buďto tímto "krmíte" někoho dalšího, což je zvlášť výhodné v týmovém módu, neboť je to jedna z cest k získání dominantního postavení týmu. Nově však byla účinost snížena na 80%, tj. přijímající hráč získá pouze 80% energie co vystřelíte, zbytek zmizí. V single-player módu může sloužit k tomu samému účelu, ovšem spíše se využívá k šíření bacilů. Je-li totiž jeden z bacilů dostatečně nakrmen, začne růst a poté je vystřelen nový ve směru krmení. Tímto způsobem je možné krmit bacil v blízkosti opravdu velké buňky, vystřelit z něj nového bacila na obrovskou buňku, ta se tímto rozprskne na spoustu malých a ty lze poté jednoduše sesbírat.
+
+<article class="article col col-12 col-t-12">
+<ul class="image-gallery">
+<div class="imagegallery">
+<li><a href="/img/other/agar-io/feeding-others-with-my-agar.webp"><img src="/img/thumbnails/other/agar-io/feeding-others-with-my-agar.webp" alt="Krmení ostatních vlastní masou pomocí klávesy W v agar.io"></a></li>
+<li><a href="/img/other/agar-io/split-cells-in-agar-io-game.webp"><img src="/img/thumbnails/other/agar-io/split-cells-in-agar-io-game.webp" alt="Rozdělení buňky v agar.io"></a></li>
+<li><a href="/img/other/agar-io/agar-io-end-of-the-game.webp"><img src="/img/thumbnails/other/agar-io/agar-io-end-of-the-game.webp" alt="Konec jedné FFA agar.io hry spolu se statistikou"></a></li>
+</div>
+</ul>
+</article>
 
 ## Tipy a triky
 Jste-li menší a chcete-li se dostat mezi dvěma zhruba stejně velkými nepřátelskými buňkami, nebojte se mezi nimi proplout. Žádná z nich totiž na vás nevystřelí, protože by se tím stala pro druhou snadnou kořistí. To platí i pro týmovou hru, jste-li v blízkosti své vlastní velké buňky nebo mezi dvěma jinými barvami. Proklouznout se dá i mezi buňkami stejné barvy či dokonce mezi dvěma částmi rozdělené buňky, ale manévrovací prostor je tam extrémně malý a riziko pozření velké, tudíž je to strategie vhodná pouze v nejvyšší nouzi.

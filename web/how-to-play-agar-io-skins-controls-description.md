@@ -13,12 +13,22 @@ The player controls a small cell using a mouse. The cell grows when it eats agar
 
 When the cell rides over a significantly smaller cell, it swallows the other cell and gains size. But if a bigger cell drives over a virus, it explodes into many smaller parts. This flock of cells gains higher speed (an equivalent of their size) but could be easily swallowed by other cells.
 
+<article class="article col col-12 col-t-12">
+<ul class="image-gallery">
+<div class="imagegallery">
+<li><a href="/img/other/agar-io/frontpage-of-agar-io-game-online.webp"><img src="/img/thumbnails/other/agar-io/frontpage-of-agar-io-game-online.webp" alt="Frontpage of the Agar.io online game"></a></li>
+<li><a href="/img/other/agar-io/third-position-in-agar-io-ffa-mode.webp"><img src="/img/thumbnails/other/agar-io/third-position-in-agar-io-ffa-mode.webp" alt="Third position on the leaderboard"></a></li>
+<li><a href="/img/other/agar-io/end-of-the-ffa-mode-in-agar-io.webp"><img src="/img/thumbnails/other/agar-io/end-of-the-ffa-mode-in-agar-io.webp" alt="End of the FFA mode in the Agar.io game"></a></li>
+</div>
+</ul>
+</article>
+
 ## Game modes
 ### FFA
 FFA is the *classical mode* where you play on your own against unknown people from the internet. The goal is to gain as much size as possible, get to the top of the score chart, and stay there as long as possible.
 
 ### Battle Royale
-The Battle Royale is similar to FFA. The difference is that after a specific time limit (two minutes), the playground gets smaller, and you have to get closer to your enemies. Everybody starts simultaneously (you are waiting at the beginning of the game for other players), so nobody has any advantage.
+The Battle Royale is similar to FFA. The difference is that after a specific time limit (two minutes), the playground gets smaller, which means you have to get closer to your enemies. Everybody starts simultaneously (you are waiting at the beginning of the game for other players: the minimum is 20 players for a game), so nobody has any advantage.
 
 The game dynamic is swifter as there is a known end.
 
@@ -33,20 +43,45 @@ The viruses also work differently: instead of duplicating after seven shots of m
 ### Party
 The classical and party modes have identical rules. The only difference is that the other players on the server in the party mode are only friends you invited.
 
+<article class="article col col-12 col-t-12">
+<ul class="image-gallery">
+<div class="imagegallery">
+<li><a href="/img/other/agar-io/agar-io-beginning-of-the-game.webp"><img src="/img/thumbnails/other/agar-io/agar-io-beginning-of-the-game.webp" alt="Beginning of the agar.io game in the FFA mode"></a></li>
+<li><a href="/img/other/agar-io/teams-game-in-agar-io-online-game.webp"><img src="/img/thumbnails/other/agar-io/teams-game-in-agar-io-online-game.webp" alt="Teams game of agar.io online game"></a></li>
+<li><a href="/img/other/agar-io/agar-io-area-is-shrinking-in-battle-royale.webp"><img src="/img/thumbnails/other/agar-io/agar-io-area-is-shrinking-in-battle-royale.webp" alt="Battle Royale game mode in agar.io"></a></li>
+</div>
+</ul>
+</article>
+
 ## Starting game
 Every player needs to pick a nickname (or leave it blank), select the game mode (the default one is FFA), and start playing by clicking the Play button. They can also click on settings and choose some advanced settings or click on Spectate button to watch the best player. For leaving spectate mode, press the Esc button.
 
 ## Agar.io controls
-The player controls the cell by mouse movement. If the player moves the pointer to the left, the cell moves in the same direction. Because of the movement control, you cannot play Agar.io on mobile phones.
+The player controls the cell by mouse movement. If the player moves the pointer to the left, the cell moves in the same direction.
 
 The zone where one can operate is a squared battlefield. In the Battle Royale mode, the *safe area* shrinks into smaller circles.
 
-The cell splits into two parts by pressing the **Space button**(works only for cells of a certain size). It is handy in two situations: to gain speed if the cell is chased by a bigger player (smaller cells are faster than the bigger ones). More often, splitting is used for eating other cells. If the cell is double the size of a nearby competitor, the player can split by pressing Space in the direction of movement. The initial speed is very high, and if they don't miss (and their cell is sufficiently bigger), the other cell is eaten. These two parts will merge after some time. One can observe merging beforehand by cells' parts behavior: if one piece slowly penetrates another, the merge is coming.
+### Splitting cells
+The cell splits into two parts by pressing the **Space button** (works only for cells of a certain size). It is handy in two situations: to gain speed if the cell is chased by a bigger player (smaller cells are faster than the bigger ones). More often, splitting is used for eating other cells. If the cell is double the size of a nearby competitor, the player can split by pressing Space in the direction of movement. The initial speed is very high, and if they don't miss (and their cell is sufficiently bigger), the other cell is eaten. These two parts will merge after some time. One can observe merging beforehand by cells' parts behavior: if one piece slowly penetrates another, the merge is coming.
 
+### Ejecting mass
 The last button is the **W** key. The player fires small parts of his own mass into open space by pressing it. There are a few use-cases:
-You can *feed* someone else, which is very useful in the Team's game mode. It is often used when one cell is chased by another one from a different team: by feeding, you can grow your teammate and change the positions of predator and prey. The efficiency is only 80%, which means one player gets just 80% of the mass given away by the other one.
-In the FFA mode, it is used to duplicate viruses. Feed virus starts to grow, and at a specific moment (after it is fed 7 times), it reproduces. The newly created virus fires in the opposite direction of the last feeding. This technique is used for destroying much bigger competitors.
-It is also used as a form of communication (by shooting mass onto another cell, you can proclaim peace or ask for help to destroy another cell. Sometimes, symbiotic partnerships are created when a smaller cell helps the bigger one and gets protection as a reward.
+* You can *feed* someone else, which is very useful in the Team's game mode. It is often used when one cell is chased by another one from a different team: by feeding, you can grow your teammate and change the positions of predator and prey. The efficiency is only 80%, which means one player gets just 80% of the mass given away by the other one.
+* In the FFA mode, it is used to duplicate viruses. Feed virus starts to grow, and at a specific moment (after it is fed 7 times), it reproduces. The newly created virus fires in the opposite direction of the last feeding. This technique is used for destroying much bigger competitors.
+* It is also used as a form of communication (by shooting mass onto another cell, you can proclaim peace or ask for help to destroy another cell. Sometimes, symbiotic partnerships are created when a smaller cell helps the bigger one and gets protection as a reward.
+
+### Zooming in and out
+Zooming in and out is possible using the scroll button.
+
+<article class="article col col-12 col-t-12">
+<ul class="image-gallery">
+<div class="imagegallery">
+<li><a href="/img/other/agar-io/feeding-others-with-my-agar.webp"><img src="/img/thumbnails/other/agar-io/feeding-others-with-my-agar.webp" alt="Feeding others with own mass using the W button in agar.io"></a></li>
+<li><a href="/img/other/agar-io/split-cells-in-agar-io-game.webp"><img src="/img/thumbnails/other/agar-io/split-cells-in-agar-io-game.webp" alt="Split cells in agar.io"></a></li>
+<li><a href="/img/other/agar-io/agar-io-end-of-the-game.webp"><img src="/img/thumbnails/other/agar-io/agar-io-end-of-the-game.webp" alt="End of the agar.io game with statistics"></a></li>
+</div>
+</ul>
+</article>
 
 ## Tips and tricks
 If you are small and want to drive between two big ones, don't be afraid. Nobody will split because you are too small as a reward, and they become more vulnerable to other enemies.
