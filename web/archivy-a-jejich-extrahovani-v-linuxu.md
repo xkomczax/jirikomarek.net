@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Archivy a jejich extrahování v Linuxu
-description: Návody na práci s commandline archivovacími nástroji v Linuxu: Zip, Rar, Bzip2, Gzip, 7-zip
+description: "Návody na práci s commandline archivovacími nástroji v Linuxu: Zip, Rar, Bzip2, Gzip, 7-zip"
 category: Linux
 published: true
 redirect_from: /web/Archivy_a_jejich_extrahování_v_Linuxu/
