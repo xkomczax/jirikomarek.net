@@ -7,6 +7,7 @@ published: true
 ---
 
 * [Agar.io: how to play, skins, controls, description](/web/how-to-play-agar-io-skins-controls-description/)
+* [Helios 44m: the best cheap lens for beautiful bokeh](/photo-wiki/helios-44m-lens-for-beautiful-bokeh/)
 * [Jak hrát Agar.io online, ovládání a skiny](/web/jak-hrat-agar-io-online-ovladani-skiny/)
 * [Geocaching na GPS navigaci Garmin Oregon 650](/web/geocaching-na-gps-navigaci-garmin-oregon-650/)
 * [Sbírka tipů a triků pro GoldenDict a StarDict](/web/sbirka-tipu-a-triku-pro-goldendict-a-stardict/)
