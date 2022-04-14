@@ -254,15 +254,7 @@
   margin-bottom: 25px;
   &:hover {
     .article-image {
-      .image-overlay-text {
-        opacity: 1;
-      }
-    }
-    .article-image {
-      .image-overlay {
-        opacity: .5;
-        width: 100%;
-      }
+      transform: scale(1.07);
     }
   }
   .article-box {
@@ -286,30 +278,8 @@
     background-repeat: no-repeat;
     background-color: $black;
     box-shadow: 0 9px 18px 0 rgba(0, 0, 0, .25);
+    transition: all 0.2s ease;  
 
-    .image-overlay {
-      position: absolute;
-      top: 0;
-      right: 0;
-      bottom: 0;
-      left: 0;
-      width: 0;
-      height: 100%;
-      background-color: rgba(0,0,0,0.8);
-      opacity: 0;
-      transition: all 0.4s ease;
-    }
-    .image-overlay-text {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      font-size: 110px; //XXX
-      text-align: center;
-      color: $text;
-      transform: translate(-50%,-50%);
-      transition: all 0.4s ease 0.3s;
-      opacity: 0;
-    }
   }
   .article-content {
     .article-info {
