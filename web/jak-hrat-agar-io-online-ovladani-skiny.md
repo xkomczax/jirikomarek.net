@@ -6,7 +6,7 @@ category: Linux
 published: true
 redirect_from: /web/Agar.io/
 ---
-[Agar.io](http://www.agar.io/) je webová hra, ve které jezdíte se svou buňkou po hrací ploše, požíráte agar a menší soupeře a snažíte se vyhnout virům a větším soupeřům. Hra původně vznikla v dubnu 2015.
+[Agar.io](https://agar.io/) je webová hra, ve které jezdíte se svou buňkou po hrací ploše, požíráte agar a menší soupeře a snažíte se vyhnout virům a větším soupeřům. Hra původně vznikla v dubnu 2015.
 
 ## Herní princip
 Hráč myší ovládá malou buňku, která roste tím, jak kolem sebe sbírá agar (malé barevné kuličky) či jiné buňky. V pravém horním rohu je vždy statistika s top 10 hráči dané hry. Cílem ostatních je získat větší a větší podíl a dostat se na úkor ostatních na co nejvyšší pozici. S tím, jak buňka roste, se však zároveň zpomaluje, ovšem zvětšuje se oblast, kterou ze své pozice vidí.

@@ -169,7 +169,7 @@ a přesměrování by mělo již plně fungovat.
 
 Možná jste se již někdy ocitli v situaci, kdy jste navštívili webovou stránku, na které bylo velké množství souborů, které jste si chtěli stáhnout a pracně jste klikali na všechny odkazy. To však není třeba, v GNU/Linuxu na to stačí použít program wget a pomocí něj automatizovaně stáhnout všechny požadované soubory najednou. Chcete-li například najednou stáhnout všechny písničky ve formátu mp3 z vašeho oblíbeného webu, stačí mít naistalovaný program wget (který je standardní součástí snad všech linuxových distribucí) a v terminálu napsat
 ```
-wget -nd -r -l1 --no-parent -A.mp3 http://www.example.com/music/
+wget -nd -r -l1 --no-parent -A.mp3 https://www.example.com/music/
 ```
 Tímto příkazem se spustí program wget, který bude nebude tvořit adresář (-nd), bude stahovat rekruzivně (-r), stahování bude probíhat do úrovně 1 (-l1), nebude stahovat soubory se zdroji (--no-parent) a stahovat bude pouze ty soubory, které končí koncovkou .mp3 (-A.mp3) z webu example.com/music/.
 

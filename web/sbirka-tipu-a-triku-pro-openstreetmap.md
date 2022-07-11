@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Sbírka tipů a triků pro OpenStreetMap
-description: Návod na spojení překrývající se plochy v JOSM a smazání prázdných nodů pomocí editoru Merkaartor
+description: Návod pro OpenStreetMap na spojení překrývající se plochy v JOSM a smazání prázdných nodů pomocí editoru Merkaartor
 category: OpenStreetMap
 published: true
 redirect_from: /web/Sbírka_tipů_a_triků_pro_OpenStreetMap/
 ---
 
-[OpenStreetMap](http://www.openstreetmap.org/) je svobodná mapa světa, která je tvořeny dobrovolníky pod [svobodnou Open Data Commons Open Database License](http://opendatacommons.org/licenses/odbl/). Díky tomu ji může každý editovat ([přes webové rozhraní, off-line editory, editory pro chytrý telefon, ...](https://wiki.openstreetmap.org/wiki/Editors)).
+[OpenStreetMap](https://www.openstreetmap.org/) je svobodná mapa světa, která je tvořeny dobrovolníky pod [svobodnou Open Data Commons Open Database License](https://opendatacommons.org/licenses/odbl/). Díky tomu ji může každý editovat ([přes webové rozhraní, off-line editory, editory pro chytrý telefon, ...](https://wiki.openstreetmap.org/wiki/Editors)).
 
 ## Jak spojovat překrývající se plochy v JOSM
 

@@ -6,7 +6,7 @@ category: Linux
 published: true
 ---
 
-[Agar.io](http://www.agar.io/) is a browser game created in April 2015.
+[Agar.io](https://agar.io/) is a browser game created in April 2015.
 
 ## Game principle
 The player controls a small cell using a mouse. The cell grows when it eats agar (small colored dots) or competitor's cells. There are in the upper right corner statistics with top 10 players. The game's goal is to eat as much as possible and get to the highest position. As the cell is growing, it moves slower. On the other hand, the visible area is extending.

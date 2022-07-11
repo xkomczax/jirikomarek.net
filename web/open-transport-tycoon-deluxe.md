@@ -18,7 +18,7 @@ Z dalších možností, které hra nabízí, nemohu zapomenout na možnost přid
 Hra jako taková má rozhodně co nabídnout, ale do budoucna to není vše. V plánu je možnost stavby šikmých silnic, tramvají, metra, nové prostředí (cizí planeta) a mnoho dalšího. Stačí si přečíst fórum a určitě budete mile potěšeni dynamičností vývoje. Jediné, co lze hře v současnosti vytknout, je nutnost použití staré grafiky. Ke spuštění proto potřebujete originální hru (naštěstí je k nalezení na mnoha místech Internetu a byla prohlášena za tzv. abandonware). Na nové, a nutno podotknout, že mnohonásobně dokonalejší, grafice se také intenzivně pracuje, ostatně jako téměř na všem. Dynamičnost vývoje dokazuje mimojiné také to, že 27. února 2007 byla vydána stabilní verze 0.5.0 a po necelém měsíci a půl už přišla na svět další stabilní verze, a to 0.5.1.
 
 * Domovská stránka hry: [www.openttd.org](https://www.openttd.org/)
-* Hra ke stažení: [Stabilní verze](https://www.openttd.org/downloads/openttd-releases/latest.html)
+* Hra ke stažení: [Stabilní verze](https://www.openttd.org/downloads/openttd-releases/latest)
 * Chris Sawyer, autor původního Tycoona: [www.chrissawyer.com](http://www.chrissawyergames.com/)
 
 <center><b><a href="../">Přehled technických článků</a></b></center>

@@ -11,7 +11,6 @@ GoldenDict a jeho předchůdce StarDict jsou svobodné slovníky, které lze zda
 ## Slovníky pro GoldenDict a StarDict
 
 * [Michal Čihař na svém webu](https://cihar.com/software/slovnik/) nabízí zdarma předkompilované binární soubory Anglicko - Český, Česko - Anglický. Pokud v tomto slovníku něco chybí, můžete to sami přidat na adrese [www.svobodneslovniky.cz](https://www.svobodneslovniky.cz/). Slovník je šířen pod svobodnou licencí GNU FDL. Používáte-li operační systém Linux, konkrétně distribuci Debian, můžete využít i jeho apt repozitář. Tamtéž je k nalezení i český slovník cizích slov
-* Slušnou sbírku slovníků lze najít na adrese [babylon.com/free-dictionaries](https://www.babylon-software.com/free-dictionaries/)
 * Slovníky s menším počtem slov, ale ve velkém počtu různých jazyků, jsou na adrese [dicts.info](https://www.dicts.info/)
 * Wiktionary, sesterský projekt svobodné encyklopedie Wikipedie, je také možné využít.
 

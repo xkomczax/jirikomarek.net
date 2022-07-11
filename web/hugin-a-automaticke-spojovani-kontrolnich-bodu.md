@@ -7,7 +7,7 @@ published: true
 redirect_from: /web/Hugin_a_automatické_spojování_kontrolních_bodů
 ---
 
-V roce 2022 už [Hugin](http://hugin.sourceforge.net/) umí spojovat obrázky automaticky. Na ukázky panoramat je možné se podívat v mé [fotogalerii](/).  
+V roce 2022 už [Hugin](https://hugin.sourceforge.io/) umí spojovat obrázky automaticky. Na ukázky panoramat je možné se podívat v mé [fotogalerii](/).  
 
 Hugin je zdarma dostupný program, pomocí kterého můžete ze série fotek jednu velkou. Návod jak na to by vydal na samostatný článek, nám pro začátek stačí konstatování, že je třeba, aby se části dvou po sobě navazujících fotek překrývaly (cca. jednou třetinou, ale může být samozřejmě i více či někdy stačí méně. Záleží na situaci.). Máme-li takové fotky nachystány, otevřeme Hugin a zobrazí se nám hlavní obrazovka programu. Tady klikneme na "Load images...", kde vybereme fotky, jenž se mají spojovat (více fotek vybereme stisknutím Ctrl + levé tlačítko myši) a dáme volbu "Open". Nyní překlikneme na záložku "control points", kde ručně vybereme body, které chceme spojit. Čím více jich zadáme, tím samozřejmě lépe, ovšem vše záleží na naší ochotě klikat. Je vhodné vybírat body pokud možno z co největšího prostoru. Pozor na pohybující se předměty (lidé, vozidla, ...), které jsou na každé z fotek na jiném místě. Ty z výběru raději vynecháme.
 
@@ -21,7 +21,7 @@ Výsledné panorama se uloží ve formátu tif, je vhodné jej tedy převést do
 Pokud jste již nějaké to panorama v Hugin vytvořili, pravděpodobně vás po nějakém čase přestalo bavit ručně spojovat body a nejraději byste to nějakým způsobem zautomatizovali. To je možné, dokonce v té největší možné míře, tj. že pouze klikneme na tlačítko "Align..." a body se nám spojí. Je ovšem třeba k otevření této volby doinstalovat některý z automatických detektorů. Jejich výčet najdeme na oficiálním webu v podmenu "Control Point Detectors". Pro mne nejzajímavější je "Autopano-sift-C", neboť je open-source (ovšem zatížen patenty, které sice u nás neplatí, ale kvůli kterým nesmí být distribuován v Linuxových distribucích) a na rozdíl od svého předchůdce, "Autopano-sift", není psán v MONO, ale v jazyce C. V Debian GNU/Linuxu je možno jej nainstalovat přidáním repozitáře deb-multimedia, do našeho /etc/apt/source.list je tedy nutno přidat řádek (záleží na verzi, tento platí pro současný Debian testing)
 
 ```bash
-deb http://www.deb-multimedia.org wheezy main non-free
+deb https://www.deb-multimedia.org wheezy main non-free
 ```
 
 Poté stačí provést klasicky upgrade a následně instalaci pomocí
