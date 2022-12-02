@@ -13,7 +13,7 @@ published: true
 * [Sbírka tipů a triků pro GIMP](/web/sbirka-tipu-a-triku-pro-gimp/)
 * [Hugin a automatické spojování kontrolních bodů](/web/hugin-a-automaticke-spojovani-kontrolnich-bodu/)
 
-## Tech articles
+## Tech Articles
 * [Geocaching na GPS navigaci Garmin Oregon 650](/web/geocaching-na-gps-navigaci-garmin-oregon-650/)
 * [Sbírka tipů a triků pro GoldenDict a StarDict](/web/sbirka-tipu-a-triku-pro-goldendict-a-stardict/)
 * [Konfigurační soubory pro Piwik a Piwigo](/web/konfiguracni-soubory-pro-piwik-a-piwigo/)
