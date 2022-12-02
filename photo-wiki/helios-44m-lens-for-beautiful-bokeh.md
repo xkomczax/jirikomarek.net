@@ -10,7 +10,7 @@ image:    ./previews/helios-44m-lens-for-beautiful-bokeh.webp
 
 You've likely seen the beautiful bokeh in photos on Instagram and other photo-sharing sites. Many times the lens that created this bokeh is rare and expensive. But some tremendous affordable lenses, such as the Helios 44M, can also produce this beautiful effect. Helios 44M is an old Soviet-made photographic prime lens with a 58mm focal length and f/2.0 aperture.
 
-[⬇️ Jump directly to the Helios 44m sample gallery ⬇️](## Helios 44m 58mm f2 sample photos)
+[⬇️ Jump directly to the Helios 44m sample gallery ⬇️](##Helios 44m 58mm f2 sample photos)
 
 ## What is the bokeh effect: meaning
 Bokeh is a Japanese word that means “blur” or “haze” and refers to the aesthetic quality of the out-of-focus area of photography. Also called defocus blur, it can be used to add an artistic touch to an image.
