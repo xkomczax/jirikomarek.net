@@ -8,6 +8,7 @@ published: true
 
 ## Photography Tips&Tricks
 * [Helios 44m: the best cheap lens for beautiful bokeh](/photo-wiki/helios-44m-lens-for-beautiful-bokeh/)
+* [Which lens to choose for landscape photography](/photo-wiki/which-lens-to-choose-for-landscape-photography/)
 
 ## Image Editing
 * [Sbírka tipů a triků pro GIMP](/web/sbirka-tipu-a-triku-pro-gimp/)
