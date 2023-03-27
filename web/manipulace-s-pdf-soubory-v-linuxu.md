@@ -4,7 +4,10 @@ title: Manipulace s PDF soubory v Linuxu
 description: Otočení, rozřezání, zmenšení, rozdělení a spojení PDF souborů.
 category: Linux
 published: true
-redirect_from: /web/Manipulace_s_PDF_soubory_v_Linuxu/
+redirect_from: 
+- /web/Manipulace_s_PDF_soubory_v_Linuxu/
+- /web/Malé_prográmky_v_Linuxu/
+- /web/male-programky-v-linuxu/
 ---
 
 Občas se stane, že odněkud seženeme PDF soubor, který je nějakým způsobem pro nás nepoužitelný. Leží například otočený na bok o 90°, jde o nascanovanou dvoustranu nebo se jedná o několik PDF souborů, které bychom chtěli spojit do jednoho či naopak bychom chtěli jeden soubor rozdělit na více. O tom všem je tento návod.

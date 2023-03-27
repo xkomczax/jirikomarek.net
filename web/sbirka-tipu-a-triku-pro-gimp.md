@@ -9,7 +9,7 @@ redirect_from: /web/Sbírka_tipů_a_triků_pro_GIMP/
 
 [GIMP](https://www.gimp.org/) je svobodný grafický program, který je zdarma a legálně dostupný pro Windows, Mac, Linux a další UNIXové operační systémy. Existuje pro něj obsáhlá dokumentace, ve které jsou popsány všechny funkce programu, tutoriály a samozřejmě i FAQ, nebo-li často kladené otázky. Plus je možno najít spoustu návodů přes vyhledávače. U většiny z nich je ale zapotřebí znalost angličtiny.
 
-## Exportu (ukládání obrázku) v GIMPu
+## Jak uložit obrázek v GIMPu jako JPG
 Na rozdíl od jiných grafických (či jiných) programů, pro uložení obrázku v GIMPu je potřeba použít volbu *Exportvat jako...* (*Export as...*). Ta umožňuje uložit obrázek ve formátu JPG, PNG, GIF, ale i WebP, HEIF a mnoha dalších formátech.
 
 Pokud byste použili pouze funkci *Uložit jako...* (*Save as...*), vaše rozdělané dílo se uloží jako XCF soubor. Ten sice nejde prohlížet téměř v žádném jiném programu, ale výhoda je, že se v něm ukládá historie všech editací. Díky tomu pak můžete v budoucnu pokračovat v editacích a až budete s dílem spokojeni, tak jej teprve expotovat do nějakého rozšířeného formátu vhodného k prohlížení obrázků.

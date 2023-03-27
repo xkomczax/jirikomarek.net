@@ -4,7 +4,10 @@ title: Jak hrát Agar.io online, ovládání a skiny
 description: Agar.io je online webová hra, ve které hrajete jezdíte svou buňkou po hrací ploše, žerete agar a menší soupeře a snažíte se vyhnout virům a větším soupeřům.
 category: Linux
 published: true
-redirect_from: /web/Agar.io/
+redirect_from: 
+- /web/Agar.io/
+- /web/Widelands_-_malí_kolonizátoři_opět_dobývají_svět/
+- /web/widelands-mali-kolonizatori-opet-dobyvaji-svet/
 ---
 [Agar.io](https://agar.io/) je webová hra, ve které jezdíte se svou buňkou po hrací ploše, požíráte agar a menší soupeře a snažíte se vyhnout virům a větším soupeřům. Hra původně vznikla v dubnu 2015.
 
