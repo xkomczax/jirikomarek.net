@@ -16,9 +16,9 @@ When the cell rides over a significantly smaller cell, it swallows the other cel
 <article class="article col col-12 col-t-12">
 <ul class="image-gallery">
 <div class="imagegallery">
-<li><a href="/img/other/agar-io/frontpage-of-agar-io-game-online.webp"><img src="/img/thumbnails/other/agar-io/frontpage-of-agar-io-game-online.webp" alt="Frontpage of the Agar.io online game"></a></li>
-<li><a href="/img/other/agar-io/third-position-in-agar-io-ffa-mode.webp"><img src="/img/thumbnails/other/agar-io/third-position-in-agar-io-ffa-mode.webp" alt="Third position on the leaderboard"></a></li>
-<li><a href="/img/other/agar-io/end-of-the-ffa-mode-in-agar-io.webp"><img src="/img/thumbnails/other/agar-io/end-of-the-ffa-mode-in-agar-io.webp" alt="End of the FFA mode in the Agar.io game"></a></li>
+<li><a href="/img/other/agar-io/frontpage-of-agar-io-game-online.webp"><img src="/img/thumbnails/other/agar-io/frontpage-of-agar-io-game-online.webp" alt="Frontpage of the Agar.io online game" loading="lazy"></a></li>
+<li><a href="/img/other/agar-io/third-position-in-agar-io-ffa-mode.webp"><img src="/img/thumbnails/other/agar-io/third-position-in-agar-io-ffa-mode.webp" alt="Third position on the leaderboard" loading="lazy"></a></li>
+<li><a href="/img/other/agar-io/end-of-the-ffa-mode-in-agar-io.webp"><img src="/img/thumbnails/other/agar-io/end-of-the-ffa-mode-in-agar-io.webp" alt="End of the FFA mode in the Agar.io game" loading="lazy"></a></li>
 </div>
 </ul>
 </article>
@@ -46,9 +46,9 @@ The classical and party modes have identical rules. The only difference is that 
 <article class="article col col-12 col-t-12">
 <ul class="image-gallery">
 <div class="imagegallery">
-<li><a href="/img/other/agar-io/agar-io-beginning-of-the-game.webp"><img src="/img/thumbnails/other/agar-io/agar-io-beginning-of-the-game.webp" alt="Beginning of the agar.io game in the FFA mode"></a></li>
-<li><a href="/img/other/agar-io/teams-game-in-agar-io-online-game.webp"><img src="/img/thumbnails/other/agar-io/teams-game-in-agar-io-online-game.webp" alt="Teams game of agar.io online game"></a></li>
-<li><a href="/img/other/agar-io/agar-io-area-is-shrinking-in-battle-royale.webp"><img src="/img/thumbnails/other/agar-io/agar-io-area-is-shrinking-in-battle-royale.webp" alt="Battle Royale game mode in agar.io"></a></li>
+<li><a href="/img/other/agar-io/agar-io-beginning-of-the-game.webp"><img src="/img/thumbnails/other/agar-io/agar-io-beginning-of-the-game.webp" alt="Beginning of the agar.io game in the FFA mode" loading="lazy"></a></li>
+<li><a href="/img/other/agar-io/teams-game-in-agar-io-online-game.webp"><img src="/img/thumbnails/other/agar-io/teams-game-in-agar-io-online-game.webp" alt="Teams game of agar.io online game" loading="lazy"></a></li>
+<li><a href="/img/other/agar-io/agar-io-area-is-shrinking-in-battle-royale.webp"><img src="/img/thumbnails/other/agar-io/agar-io-area-is-shrinking-in-battle-royale.webp" alt="Battle Royale game mode in agar.io" loading="lazy"></a></li>
 </div>
 </ul>
 </article>
@@ -76,9 +76,9 @@ Zooming in and out is possible using the scroll button.
 <article class="article col col-12 col-t-12">
 <ul class="image-gallery">
 <div class="imagegallery">
-<li><a href="/img/other/agar-io/feeding-others-with-my-agar.webp"><img src="/img/thumbnails/other/agar-io/feeding-others-with-my-agar.webp" alt="Feeding others with own mass using the W button in agar.io"></a></li>
-<li><a href="/img/other/agar-io/split-cells-in-agar-io-game.webp"><img src="/img/thumbnails/other/agar-io/split-cells-in-agar-io-game.webp" alt="Split cells in agar.io"></a></li>
-<li><a href="/img/other/agar-io/agar-io-end-of-the-game.webp"><img src="/img/thumbnails/other/agar-io/agar-io-end-of-the-game.webp" alt="End of the agar.io game with statistics"></a></li>
+<li><a href="/img/other/agar-io/feeding-others-with-my-agar.webp"><img src="/img/thumbnails/other/agar-io/feeding-others-with-my-agar.webp" alt="Feeding others with own mass using the W button in agar.io" loading="lazy"></a></li>
+<li><a href="/img/other/agar-io/split-cells-in-agar-io-game.webp"><img src="/img/thumbnails/other/agar-io/split-cells-in-agar-io-game.webp" alt="Split cells in agar.io" loading="lazy"></a></li>
+<li><a href="/img/other/agar-io/agar-io-end-of-the-game.webp"><img src="/img/thumbnails/other/agar-io/agar-io-end-of-the-game.webp" alt="End of the agar.io game with statistics" loading="lazy"></a></li>
 </div>
 </ul>
 </article>

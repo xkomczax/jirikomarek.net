@@ -14,7 +14,7 @@ Na rozdíl od jiných grafických (či jiných) programů, pro uložení obrázk
 
 Pokud byste použili pouze funkci *Uložit jako...* (*Save as...*), vaše rozdělané dílo se uloží jako XCF soubor. Ten sice nejde prohlížet téměř v žádném jiném programu, ale výhoda je, že se v něm ukládá historie všech editací. Díky tomu pak můžete v budoucnu pokračovat v editacích a až budete s dílem spokojeni, tak jej teprve expotovat do nějakého rozšířeného formátu vhodného k prohlížení obrázků.
 
-![Export obrázku v programu GIMP](/img/other/gimp-exportovat-obrazek-jako.webp)
+<img src="/img/other/gimp-exportovat-obrazek-jako.webp" alt="Export obrázku v programu GIMP" loading="lazy">
 
 ## Makra v GIMPu
 Přestože GIMP neumí nahrávat klasická makra, existuje možnost, jak si zjednodušit často opakované operace. Tento nástroj se jmenuje GimpScripter a najdete jej na GitHubu, kde je také návod jak jej nainstalovat. Stačí si pouze stáhnout zip archiv, rozbalit a obsah složky přesunout v Linuxu do adresáře "~.gimp-2.8/plug-ins" (platí pro GIMP 2.8, pro starší či novější verze je nutno přesouvat do ekvivalentního adresáře). Poté uděláte soubor "plugin-gimpscripter.py" spustitelným, například pomocí příkazu

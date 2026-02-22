@@ -31,9 +31,9 @@ When using an ultra-wide angle lens, make sure to fill the foreground with somet
 <article class="article col col-12 col-t-12">
 <ul class="image-gallery">
 <div class="imagegallery">
-<li><a href="/img/wiki/lens-for-landscape-photography-wide-angle/lens-for-landscape-photography-wide-angle-1.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-wide-angle/lens-for-landscape-photography-wide-angle-1.webp" alt="Which lens to choose for landscape photography - wide angle"></a></li>
-<li><a href="/img/wiki/lens-for-landscape-photography-wide-angle/lens-for-landscape-photography-wide-angle-2.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-wide-angle/lens-for-landscape-photography-wide-angle-2.webp" alt="Which lens to choose for landscape photography - wide angle"></a></li>
-<li><a href="/img/wiki/lens-for-landscape-photography-wide-angle/lens-for-landscape-photography-wide-angle-3.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-wide-angle/lens-for-landscape-photography-wide-angle-3.webp" alt="Which lens to choose for landscape photography - wide angle"></a></li>
+<li><a href="/img/wiki/lens-for-landscape-photography-wide-angle/lens-for-landscape-photography-wide-angle-1.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-wide-angle/lens-for-landscape-photography-wide-angle-1.webp" alt="Which lens to choose for landscape photography - wide angle" loading="lazy"></a></li>
+<li><a href="/img/wiki/lens-for-landscape-photography-wide-angle/lens-for-landscape-photography-wide-angle-2.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-wide-angle/lens-for-landscape-photography-wide-angle-2.webp" alt="Which lens to choose for landscape photography - wide angle" loading="lazy"></a></li>
+<li><a href="/img/wiki/lens-for-landscape-photography-wide-angle/lens-for-landscape-photography-wide-angle-3.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-wide-angle/lens-for-landscape-photography-wide-angle-3.webp" alt="Which lens to choose for landscape photography - wide angle" loading="lazy"></a></li>
 </div>
 </ul>
 </article>
@@ -52,9 +52,9 @@ For photographers looking to capture the everyday look of a scene, a 50mm prime 
 <article class="article col col-12 col-t-12">
 <ul class="image-gallery">
 <div class="imagegallery">
-<li><a href="/img/wiki/lens-for-landscape-photography-normal/lens-for-landscape-photography-normal-1.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-normal/lens-for-landscape-photography-normal-1.webp" alt="Which lens to choose for landscape photography - normal"></a></li>
-<li><a href="/img/wiki/lens-for-landscape-photography-normal/lens-for-landscape-photography-normal-2.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-normal/lens-for-landscape-photography-normal-2.webp" alt="Which lens to choose for landscape photography - normal"></a></li>
-<li><a href="/img/wiki/lens-for-landscape-photography-normal/lens-for-landscape-photography-normal-3.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-normal/lens-for-landscape-photography-normal-3.webp" alt="Which lens to choose for landscape photography - normal"></a></li>
+<li><a href="/img/wiki/lens-for-landscape-photography-normal/lens-for-landscape-photography-normal-1.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-normal/lens-for-landscape-photography-normal-1.webp" alt="Which lens to choose for landscape photography - normal" loading="lazy"></a></li>
+<li><a href="/img/wiki/lens-for-landscape-photography-normal/lens-for-landscape-photography-normal-2.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-normal/lens-for-landscape-photography-normal-2.webp" alt="Which lens to choose for landscape photography - normal" loading="lazy"></a></li>
+<li><a href="/img/wiki/lens-for-landscape-photography-normal/lens-for-landscape-photography-normal-3.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-normal/lens-for-landscape-photography-normal-3.webp" alt="Which lens to choose for landscape photography - normal" loading="lazy"></a></li>
 </div>
 </ul>
 </article>
@@ -82,9 +82,9 @@ Telephoto lenses allow you to magnify distant details, capture details of a far-
 <article class="article col col-12 col-t-12">
 <ul class="image-gallery">
 <div class="imagegallery">
-<li><a href="/img/wiki/lens-for-landscape-photography-telephoto/lens-for-landscape-photography-telephoto-1.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-telephoto/lens-for-landscape-photography-telephoto-1.webp" alt="Which lens to choose for landscape photography - telephoto"></a></li>
-<li><a href="/img/wiki/lens-for-landscape-photography-telephoto/lens-for-landscape-photography-telephoto-2.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-telephoto/lens-for-landscape-photography-telephoto-2.webp" alt="Which lens to choose for landscape photography - telephoto"></a></li>
-<li><a href="/img/wiki/lens-for-landscape-photography-telephoto/lens-for-landscape-photography-telephoto-3.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-telephoto/lens-for-landscape-photography-telephoto-3.webp" alt="Which lens to choose for landscape photography - telephoto"></a></li>
+<li><a href="/img/wiki/lens-for-landscape-photography-telephoto/lens-for-landscape-photography-telephoto-1.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-telephoto/lens-for-landscape-photography-telephoto-1.webp" alt="Which lens to choose for landscape photography - telephoto" loading="lazy"></a></li>
+<li><a href="/img/wiki/lens-for-landscape-photography-telephoto/lens-for-landscape-photography-telephoto-2.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-telephoto/lens-for-landscape-photography-telephoto-2.webp" alt="Which lens to choose for landscape photography - telephoto" loading="lazy"></a></li>
+<li><a href="/img/wiki/lens-for-landscape-photography-telephoto/lens-for-landscape-photography-telephoto-3.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-telephoto/lens-for-landscape-photography-telephoto-3.webp" alt="Which lens to choose for landscape photography - telephoto" loading="lazy"></a></li>
 </div>
 </ul>
 </article>
@@ -104,9 +104,9 @@ There is not a single one. We talked about the pros and cons of various lenses. 
 <article class="article col col-12 col-t-12">
 <ul class="image-gallery">
 <div class="imagegallery">
-<li><a href="/img/wiki/lens-for-landscape-photography-all/lens-for-landscape-photography-all-1.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-all/lens-for-landscape-photography-all-1.webp" alt="Which lens to choose for landscape photography - wide angle"></a></li>
-<li><a href="/img/wiki/lens-for-landscape-photography-all/lens-for-landscape-photography-all-2.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-all/lens-for-landscape-photography-all-2.webp" alt="Which lens to choose for landscape photography - normal"></a></li>
-<li><a href="/img/wiki/lens-for-landscape-photography-all/lens-for-landscape-photography-all-3.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-all/lens-for-landscape-photography-all-3.webp" alt="Which lens to choose for landscape photography - telephoto"></a></li>
+<li><a href="/img/wiki/lens-for-landscape-photography-all/lens-for-landscape-photography-all-1.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-all/lens-for-landscape-photography-all-1.webp" alt="Which lens to choose for landscape photography - wide angle" loading="lazy"></a></li>
+<li><a href="/img/wiki/lens-for-landscape-photography-all/lens-for-landscape-photography-all-2.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-all/lens-for-landscape-photography-all-2.webp" alt="Which lens to choose for landscape photography - normal" loading="lazy"></a></li>
+<li><a href="/img/wiki/lens-for-landscape-photography-all/lens-for-landscape-photography-all-3.webp"><img src="/img/thumbnails/wiki/lens-for-landscape-photography-all/lens-for-landscape-photography-all-3.webp" alt="Which lens to choose for landscape photography - telephoto" loading="lazy"></a></li>
 </div>
 </ul>
 </article>
