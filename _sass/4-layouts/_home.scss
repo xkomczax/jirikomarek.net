@@ -263,6 +263,8 @@
   }
   .article-head {
     background: $black;
+    overflow: hidden;
+    margin-bottom: 20px;
   }
   .article-image {
     img {
@@ -272,7 +274,6 @@
     display: block;
     background-size: cover;
     padding-top: 66.66%;
-    margin-bottom: 20px;
     background-size: cover; //xxx contain
     background-position: center;
     background-repeat: no-repeat;
