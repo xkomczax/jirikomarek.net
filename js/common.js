@@ -130,4 +130,12 @@ $(function() {
       .animate({ scrollTop: 0 }, "slow", "swing");
   });
 
+  /* =======================
+  // Lightbox Options
+  ======================= */
+  lightbox.option({
+    'wrapAround': true,
+    'showImageNumberLabel': false
+  });
+
 });
