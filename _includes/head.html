@@ -10,16 +10,16 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
   <!-- Google Font -->
-  <link href="{{site.baseurl}}/fonts/nunito.css" rel="stylesheet">
+  <link href="{{ '/fonts/nunito.css' | relative_url }}" rel="stylesheet">
   <!-- Ionicons - originally on unpkg, moved to local folder -->
-  <link href="{{site.baseurl}}/css/ionicons/ionicons.min.css" rel="stylesheet">
+  <link href="{{ '/css/ionicons/ionicons.min.css' | relative_url }}" rel="stylesheet">
 
   <!--- Favicons from https://favicon.io/favicon-generator/ -->
-  <link rel="apple-touch-icon" sizes="180x180" href="{{site.baseurl}}/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="{{site.baseurl}}/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="{{site.baseurl}}/favicon-16x16.png">
-  <link rel="manifest" href="{{site.baseurl}}/site.webmanifest">
-  <link rel="stylesheet" href="{{site.baseurl}}/lightbox/lightbox.min.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon-16x16.png' | relative_url }}">
+  <link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/lightbox/lightbox.min.css' | relative_url }}">
   <style>
   {% capture include_to_scssify %}
     {% include main.scss %}
