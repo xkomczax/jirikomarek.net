@@ -121,6 +121,20 @@ $(function() {
   }
 
 
+
+  /* =======================
+  // Progressive Image Loading for Main Article
+  ======================= */
+  var $mainImage = $('.article-image-first[data-bg-image-full]');
+  if ($mainImage.length) {
+    var fullImageUrl = $mainImage.data('bg-image-full');
+    var img = new Image();
+    img.onload = function() {
+      $mainImage.css('background-image', 'url(' + fullImageUrl + ')');
+    };
+    img.src = fullImageUrl;
+  }
+
   /* =======================
   // Scroll Top Button
   ======================= */
