@@ -10,16 +10,19 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
   <!-- Google Font -->
-  <link href="{{ '/fonts/nunito.css' | relative_url }}" rel="stylesheet">
+  <link rel="preload" href="{{ '/fonts/nunito.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="{{ '/fonts/nunito.css' | relative_url }}"></noscript>
   <!-- Ionicons - originally on unpkg, moved to local folder -->
-  <link href="{{ '/css/ionicons/ionicons.min.css' | relative_url }}" rel="stylesheet">
+  <link rel="preload" href="{{ '/css/ionicons/ionicons.min.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="{{ '/css/ionicons/ionicons.min.css' | relative_url }}"></noscript>
 
   <!--- Favicons from https://favicon.io/favicon-generator/ -->
   <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png' | relative_url }}">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon-16x16.png' | relative_url }}">
   <link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
-  <link rel="stylesheet" href="{{ '/lightbox/lightbox.min.css' | relative_url }}">
+  <link rel="preload" href="{{ '/lightbox/lightbox.min.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="{{ '/lightbox/lightbox.min.css' | relative_url }}"></noscript>
   <style>
   {% capture include_to_scssify %}
     {% include main.scss %}
