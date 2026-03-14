@@ -35,6 +35,11 @@ $(function() {
     closeSearch();
   });
 
+  $(document).on("keydown", function(e) {
+    if (e.key === "Escape") {
+      closeSearch();
+    }
+  });
 
   function openMenu() {
     $navMenu.addClass("active");
