@@ -159,7 +159,7 @@ $(function() {
   ======================= */
   if (typeof SimpleJekyllSearch !== 'undefined') {
     var searchInput = document.getElementById("js-search-input");
-    var searchJson = $('body').data('search-json');
+    var searchJson = $('body').attr('data-search-json');
     if (searchInput && searchJson) {
       SimpleJekyllSearch({
         searchInput: searchInput,
