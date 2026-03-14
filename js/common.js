@@ -45,17 +45,10 @@ $(function() {
 
   function openSearch() {
     $search.addClass("active");
-    $("#js-search-input").focus();
-    $(document).on('keydown.search', function(e) {
-      if (e.key === "Escape" || e.keyCode === 27) {
-        closeSearch();
-      }
-    });
   }
 
   function closeSearch() {
     $search.removeClass("active");
-    $(document).off('keydown.search');
   }
 
 
