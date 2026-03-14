@@ -144,4 +144,32 @@ $(function() {
       .animate({ scrollTop: 0 }, "slow", "swing");
   });
 
+  /* =======================
+  // Lightbox options
+  ======================= */
+  if (typeof lightbox !== 'undefined') {
+    lightbox.option({
+      'wrapAround': true,
+      'showImageNumberLabel': false
+    });
+  }
+
+  /* =======================
+  // Simple Jekyll Search
+  ======================= */
+  if (typeof SimpleJekyllSearch !== 'undefined') {
+    var searchInput = document.getElementById("js-search-input");
+    var searchJson = $('body').data('search-json');
+    if (searchInput && searchJson) {
+      SimpleJekyllSearch({
+        searchInput: searchInput,
+        resultsContainer: document.getElementById("js-results-container"),
+        json: searchJson,
+        searchResultTemplate:
+          '<li class="search-item"><a class="search-link" href="{url}">{title}</a></li>',
+        noResultsText: '<li class="search-no-item">No results found</li>'
+      });
+    }
+  }
+
 });
