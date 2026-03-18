@@ -46,7 +46,7 @@ redirect_from:
 					<div class="article-box">
 						<div class="article-head">
 							<a href="{{ post.url | prepend: site.baseurl }}" style="background-image: url({{ post.image | replace_first: './', '' | replace: 'previews', 'thumbnails/previews' | prepend: '/img/' | prepend: site.baseurl }})" class="article-image" aria-label="{{ post.title }}">
-								<img src="{{ post.image | replace_first: './', '' | prepend: '/img/' | prepend: site.baseurl }}" alt="{{ filename }}">
+								<img src="{{ post.image | replace_first: './', '' | prepend: '/img/' | prepend: site.baseurl }}" alt="{{ filename }}" loading="lazy">
 							</a>
 						</div>
 						<div class="article-content">

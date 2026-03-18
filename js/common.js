@@ -112,7 +112,7 @@ $(function() {
     userId: '23336886338',
     accessToken: '23336886338.1677ed0.087a189ad7b145df8d1c3eb9dbf69c00',
     template:
-      '<li class="instagram-item"><a href="{{link}}" aria-label="{{caption}}" target="_blank"><img src="{{image}}" alt="{{caption}}"></a></li>'
+      '<li class="instagram-item"><a href="{{link}}" aria-label="{{caption}}" target="_blank"><img loading="lazy" src="{{image}}" alt="{{caption}}"></a></li>'
   });
 
   if ($('#instafeed').length) {
