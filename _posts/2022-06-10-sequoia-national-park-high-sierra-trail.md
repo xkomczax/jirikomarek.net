@@ -3,7 +3,7 @@ layout:   post
 title:    "Sequoia National Park: High Sierra Trail"
 description: "Explore the stunning landscapes of the High Sierra Trail in Sequoia National Park through the lens of a landscape photographer. Walk with me at the hilltops of the Sierra Nevada mountain range."
 date:     2022-06-10 12:00:00 +0000
-image:    ./previews/sequoia-national-park-high-sierra-trail.webp
+image:    /img/previews/sequoia-national-park-high-sierra-trail.webp
 ---
 
 

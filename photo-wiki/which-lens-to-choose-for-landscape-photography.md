@@ -4,7 +4,7 @@ title: "Which lens to choose for landscape photography"
 description: This article provides a comprehensive guide for photographers looking to choose the right lens for landscape photography. Learn how to choose the right lens for the type of landscape you are shooting and the type of photos you want to take.
 published: true
 date:     2023-01-08 12:00:00 +0000
-image:    ./previews/which-lens-to-choose-for-landscape-photography.webp
+image:    /img/previews/which-lens-to-choose-for-landscape-photography.webp
 
 ---
 

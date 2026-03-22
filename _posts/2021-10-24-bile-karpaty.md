@@ -3,7 +3,7 @@ layout:   post
 title:    Night shooting in Bílé Karpaty in autumn
 description: Night photos from the autumn mountains full of lonely trees.
 date:     2021-10-24 12:00:00 +0000
-image:    ./previews/bile-karpaty-2021.webp
+image:    /img/previews/bile-karpaty-2021.webp
 ---
 It has been more than six years since I first visited Bílé Karpaty, a small mountain range marking the borderline between the Czech Republic and Slovakia. This area has a unique look where woods and meadows are not strictly defined: there is a mosaic of lone trees, groves, grasslands, and forests.
 

@@ -2,7 +2,7 @@
 layout:     post
 title:      Photographic project "Structures"
 description: Art project trying to capture nature-made structures.
-image:      ./previews/structures.webp
+image:      /img/previews/structures.webp
 permalink:  /structures/
 ---
 

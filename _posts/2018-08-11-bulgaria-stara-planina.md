@@ -3,7 +3,7 @@ layout:   post
 title:    Image collection of Stara Planina mountains in Bulgaria
 description: Photo collection of the Central Balkan mountain range that is spanning from the Black Sea coast through the whole of Bulgaria to the Serbian borders.
 date:     2018-08-11 12:00:00 +0000
-image:    ./previews/bulgaria-central-balkan-mountains-2018.webp
+image:    /img/previews/bulgaria-central-balkan-mountains-2018.webp
 ---
 
 The Central Balkan mountain range spans from the Black Sea coast through the whole of Bulgaria to the Serbian borders. While the valleys below have been inhabited since ancient times (famous Rose Valley), the steep slopes protected nature from destruction. In the 1990s, the Central Balkan National Park (Национален парк Централен Балкан) was declared to protect the unique ecosystem, with many flowers and animals listed on the Red Book of Endangered Species.

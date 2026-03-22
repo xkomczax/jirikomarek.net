@@ -14,7 +14,7 @@ redirect_from:
 		<div class="col col-12">
 			<article class="article-first">
 				<div class="article-image-first">
-					<img src="{{ post.image | replace_first: './', '' | prepend: '/img/' | prepend: site.baseurl }}" alt="{{post.title}}" fetchpriority="high" class="article-image-first-img">
+					<img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}}" fetchpriority="high" class="article-image-first-img">
 					<div class="article-content-first">
 						<div class="article-tag">
 						{% if post.tags.size >= 1 %}
@@ -45,8 +45,8 @@ redirect_from:
 				<article class="article col col-12 col-t-6">
 					<div class="article-box">
 						<div class="article-head">
-							<a href="{{ post.url | prepend: site.baseurl }}" style="background-image: url({{ post.image | replace_first: './', '' | replace: 'previews', 'thumbnails/previews' | prepend: '/img/' | prepend: site.baseurl }})" class="article-image" aria-label="{{ post.title }}">
-								<img src="{{ post.image | replace_first: './', '' | prepend: '/img/' | prepend: site.baseurl }}" alt="{{ filename }}" loading="lazy">
+							<a href="{{ post.url | prepend: site.baseurl }}" style="background-image: url({{ post.image | replace: '/img/previews/', '/img/thumbnails/previews/' }})" class="article-image" aria-label="{{ post.title }}">
+								<img src="{{ post.image }}" alt="{{ filename }}" loading="lazy">
 							</a>
 						</div>
 						<div class="article-content">

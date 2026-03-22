@@ -3,7 +3,7 @@ layout:   post
 title:    "Yosemite Valley: waterfalls, moonbow, and views"
 description: "Photoshooting in the Yosemite Valley: waterfalls, moonbow, and the stunning views of this beautiful national park."
 date:     2022-05-30 12:00:00 +0000
-image:    ./previews/moonbow-in-yosemite-valley.webp
+image:    /img/previews/moonbow-in-yosemite-valley.webp
 ---
 ## Waterfalls of Yosemite Valley
 Yosemite National Park is home to some of the world's tallest and most beautiful waterfalls, and the scenery is simply breathtaking. The most famous falls are Bridalveil Fall, Sentinel Fall, Yosemite Falls, Vernal Fall, and Nevada Fall.

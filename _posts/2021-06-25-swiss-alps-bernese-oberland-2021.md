@@ -3,7 +3,7 @@ layout:   post
 title:    Swiss Alps - climbing in Bernese Oberland
 description: Photos from the Swiss Alps - dramatic weather, pure mountain lakes, peaks, flowers, and beautiful views.
 date:     2021-06-25 12:00:00 +0000
-image:    ./previews/swiss-alps-bernese-oberland-2021.webp
+image:    /img/previews/swiss-alps-bernese-oberland-2021.webp
 ---
 
 This June, for the very first time, I got an opportunity to explore the western part of the Swiss Alps. Apart from various activities in Lenk im Simmental, I took off for two big hikes.

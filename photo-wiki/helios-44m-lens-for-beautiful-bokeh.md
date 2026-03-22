@@ -4,7 +4,7 @@ title: "Helios 44m: the best cheap lens for beautiful bokeh"
 description: For creamy bokeh, Helios 44m is the best on-budget option. Learn how to achieve the best result with this old lens, where to get one of these vintage lenses, and see the Helios 44m 58mm f2 sample photos gallery.
 published: true
 date:     2022-04-01 12:00:00 +0000
-image:    ./previews/helios-44m-lens-for-beautiful-bokeh.webp
+image:    /img/previews/helios-44m-lens-for-beautiful-bokeh.webp
 
 ---
 

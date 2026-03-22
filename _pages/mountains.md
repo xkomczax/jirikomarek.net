@@ -2,7 +2,7 @@
 layout:     post
 title:      Photographic project "Mountains"
 description: A collection of photos of mountains - from panoramic views from the top of the peaks to fine details in valleys.
-image:      ./previews/mountains.webp
+image:      /img/previews/mountains.webp
 permalink:  /mountains/
 ---
 The Mountains Project is a collection of photos of mountains: from panoramic views from the top of the peaks to fine details in valleys.
