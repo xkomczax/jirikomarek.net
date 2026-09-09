@@ -34,7 +34,8 @@ layout: default
 				<div class="post-image">
 					<div class="imagegallery">
 						{% assign post_image_700w = page.image | replace: '.webp', '-700w.webp' %}
-						<a href="{{ page.image | prepend: site.baseurl }}" data-lightbox="page-gallery"><img loading="lazy" src="{{ page.image | prepend: site.baseurl }}" srcset="{{ post_image_700w | prepend: site.baseurl }} 700w, {{ page.image | prepend: site.baseurl }} 1400w" sizes="100vw" alt="{{page.title}}"></a>
+						{% assign post_image_1050w = page.image | replace: '.webp', '-1050w.webp' %}
+						<a href="{{ page.image | prepend: site.baseurl }}" data-lightbox="page-gallery"><img loading="lazy" src="{{ page.image | prepend: site.baseurl }}" srcset="{{ post_image_700w | prepend: site.baseurl }} 700w, {{ post_image_1050w | prepend: site.baseurl }} 1050w, {{ page.image | prepend: site.baseurl }} 1400w" sizes="100vw" alt="{{page.title}}"></a>
 					</div>
 				</div>
 			</div>

@@ -15,7 +15,8 @@ redirect_from:
 			<article class="article-first">
 				<div class="article-image-first">
 					{% assign hero_image_700w = post.image | replace: '.webp', '-700w.webp' %}
-					<img src="{{ post.image | prepend: site.baseurl }}" srcset="{{ hero_image_700w | prepend: site.baseurl }} 700w, {{ post.image | prepend: site.baseurl }} 1400w" sizes="100vw" alt="{{post.title}}" fetchpriority="high" class="article-image-first-img">
+					{% assign hero_image_1050w = post.image | replace: '.webp', '-1050w.webp' %}
+					<img src="{{ post.image | prepend: site.baseurl }}" srcset="{{ hero_image_700w | prepend: site.baseurl }} 700w, {{ hero_image_1050w | prepend: site.baseurl }} 1050w, {{ post.image | prepend: site.baseurl }} 1400w" sizes="100vw" alt="{{post.title}}" fetchpriority="high" class="article-image-first-img">
 					<div class="article-content-first">
 						<div class="article-tag">
 						{% if post.tags.size >= 1 %}
@@ -26,7 +27,7 @@ redirect_from:
 						</div>
 						<h1 class="article-title"><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h1>
 						<p class="article-excerpt">{% if post.description %}{{ post.description | strip_html | truncate: 163 }}{% else %}{{ post.content | strip_html | truncate: 163 }}{% endif %}</p>
-						<a href="{{ post.url | prepend: site.baseurl }}" class="button read-more">Read more</a>
+						<a href="{{ post.url | prepend: site.baseurl }}" class="button read-more" aria-label="Read more about {{ post.title }}">Read more</a>
 					</div>
 				</div>
 			</article> <!-- /.article-first -->

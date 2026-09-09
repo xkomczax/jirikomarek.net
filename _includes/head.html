@@ -81,11 +81,31 @@
   {{ include_to_scssify | scssify }}
   </style>
   <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7XS58RD5V6"></script>
+  <!-- The gtag.js script itself is fetched on first interaction (or shortly
+       after load if there is none), instead of immediately, so it doesn't
+       compete with the initial page render for bandwidth/main-thread time. -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-7XS58RD5V6');
+
+  (function () {
+    var gaLoaded = false;
+    function loadGA() {
+      if (gaLoaded) return;
+      gaLoaded = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=G-7XS58RD5V6';
+      document.head.appendChild(s);
+    }
+    ['scroll', 'mousemove', 'touchstart', 'keydown'].forEach(function (evt) {
+      window.addEventListener(evt, loadGA, { once: true, passive: true });
+    });
+    window.addEventListener('load', function () {
+      setTimeout(loadGA, 3500);
+    });
+  })();
 </script>
 </head>
