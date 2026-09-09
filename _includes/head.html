@@ -26,9 +26,9 @@
   <!-- Google Font -->
   <link rel="preload" href="{{ '/fonts/nunito.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="{{ '/fonts/nunito.css' | relative_url }}"></noscript>
-  <!-- Ionicons - originally on unpkg, moved to local folder -->
-  <link rel="preload" href="{{ '/css/ionicons/ionicons.min.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="{{ '/css/ionicons/ionicons.min.css' | relative_url }}"></noscript>
+  <!-- Ionicons - subset to only the icons used on this site (see css/ionicons/ionicons-subset.min.css) -->
+  <link rel="preload" href="{{ '/css/ionicons/ionicons-subset.min.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="{{ '/css/ionicons/ionicons-subset.min.css' | relative_url }}"></noscript>
 
   <!--- Favicons from https://favicon.io/favicon-generator/ -->
   <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}">

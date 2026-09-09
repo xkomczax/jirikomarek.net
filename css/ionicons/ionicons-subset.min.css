@@ -1,0 +1,22 @@
+/*!
+  Ionicons subset (v4.2.1) - only the icons actually used on this site.
+  Subset from the full Ionicons font/CSS to cut unused-glyph weight.
+  Original: Ben Sperry / Ionic Framework, https://ionicons.com/ - MIT License
+*/
+@font-face{font-family:"Ionicons";src:url("../fonts/ionicons-subset.woff2") format("woff2");font-weight:normal;font-style:normal;font-display:swap}
+.ion,.ionicons{display:inline-block;font-family:"Ionicons";speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;text-rendering:auto;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.ion-ios-arrow-back:before{content:"\f3cf"}
+.ion-ios-arrow-forward:before{content:"\f3d1"}
+.ion-ios-arrow-round-back:before{content:"\f117"}
+.ion-ios-arrow-round-forward:before{content:"\f119"}
+.ion-ios-arrow-up:before{content:"\f3d8"}
+.ion-ios-close:before{content:"\f406"}
+.ion-ios-mail:before{content:"\f1b8"}
+.ion-ios-menu:before{content:"\f1c3"}
+.ion-ios-search:before{content:"\f4a5"}
+.ion-logo-facebook:before{content:"\f236"}
+.ion-logo-instagram:before{content:"\f23e"}
+.ion-logo-linkedin:before{content:"\f240"}
+.ion-logo-pinterest:before{content:"\f244"}
+.ion-logo-twitter:before{content:"\f2b0"}
+.ion-md-aperture:before{content:"\f279"}

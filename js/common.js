@@ -54,43 +54,43 @@ $(function() {
 
   /* =======================
   // Reveal Image
+  // Preloader hides on the native window "load" event instead of waiting
+  // for every image on the page to be force-downloaded; reveal-in is
+  // driven by IntersectionObserver so it doesn't depend on jQuery or on
+  // images that haven't scrolled into view yet.
   ======================= */
-  var ww = window.innerWidth,
-    wh = window.innerHeight;
-
-  $(window).ready(function () {
-    $('body').waitForImages({
-      finished: function () {
-        setTimeout(function () {
-          $('.preloader').addClass('hide');
-
-          setTimeout(function () {
-            reveals();
-          }, 100);
-        }, 500);
-      },
-      waitForAll: true
-    });
+  window.addEventListener('load', function () {
+    setTimeout(function () {
+      var preloader = document.querySelector('.preloader');
+      if (preloader) {
+        preloader.classList.add('hide');
+      }
+    }, 200);
   });
 
-  function reveals() {
-    $(window).on('scroll', function () {
-      $(".article-box, .article-first, .post-image-box, .page-image-box, .post-body img, .page-body img, .recent-header").each(
-        function(i) {
-          var el_top = $(this).offset().top,
-            win_bottom = wh + $(window).scrollTop();
+  (function () {
+    var revealSelector = '.article-box, .article-first, .post-image-box, .page-image-box, .post-body img, .page-body img, .recent-header';
+    var revealEls = document.querySelectorAll(revealSelector);
 
-          if (el_top < win_bottom) {
-            $(this)
-              .delay(i * 100)
-              .queue(function() {
-                $(this).addClass("reveal-in");
-              });
+    if ('IntersectionObserver' in window) {
+      var revealObserver = new IntersectionObserver(function (entries, observer) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('reveal-in');
+            observer.unobserve(entry.target);
           }
-        }
-      );
-    }).scroll();
-  }
+        });
+      }, { rootMargin: '0px 0px -10% 0px' });
+
+      revealEls.forEach(function (el) {
+        revealObserver.observe(el);
+      });
+    } else {
+      revealEls.forEach(function (el) {
+        el.classList.add('reveal-in');
+      });
+    }
+  })();
 
 
   /* =======================
@@ -99,26 +99,6 @@ $(function() {
   $(".post-content, .page-content").fitVids({
     customSelector: ['iframe[src*="ted.com"]']
   });
-
-
-  /* =======================
-  // Instagram Feed
-  ======================= */
-  // userId and accessToken from Matthew Elsom (https://codepen.io/matthewelsom/pen/zrrrLN) for example, for which he thanks a lot!
-  var instagramFeed = new Instafeed({
-    get: 'user',
-    limit: 6,
-    resolution: 'standard_resolution',
-    userId: '23336886338',
-    accessToken: '23336886338.1677ed0.087a189ad7b145df8d1c3eb9dbf69c00',
-    template:
-      '<li class="instagram-item"><a href="{{link}}" aria-label="{{caption}}" target="_blank"><img loading="lazy" src="{{image}}" alt="{{caption}}"></a></li>'
-  });
-
-  if ($('#instafeed').length) {
-    instagramFeed.run();
-  }
-
 
 
   /* =======================
