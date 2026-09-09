@@ -3,7 +3,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {% capture page_title %}{% if page.title %}{{ page.title }} | {{ site.author-name }}{% elsif paginator and paginator.page > 1 %}{{ site.title }} – Page {{ paginator.page }}{% else %}{{ site.title }}{% endif %}{% endcapture %}
+  {% assign title_parts = site.title | split: " | " %}
+  {% assign site_tagline = title_parts[1] | default: title_parts[0] %}
+  {% capture page_title %}{% if page.title %}{{ page.title }} | {{ site.author-name }}{% elsif paginator and paginator.page > 1 %}{{ site_tagline }} – Page {{ paginator.page }} | {{ site.author-name }}{% else %}{{ site_tagline }} | {{ site.author-name }}{% endif %}{% endcapture %}
   {% assign page_title = page_title | strip %}
   <title>{{ page_title }}</title>
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
