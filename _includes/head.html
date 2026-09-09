@@ -3,25 +3,60 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  {% capture page_title %}{% if page.title %}{{ page.title }} | {{ site.author-name }}{% elsif paginator and paginator.page > 1 %}{{ site.title }} – Page {{ paginator.page }}{% else %}{{ site.title }}{% endif %}{% endcapture %}
+  {% assign page_title = page_title | strip %}
+  <title>{{ page_title }}</title>
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:title" content="{{ page_title }}">
   <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/img/jiri-komarek.webp' | absolute_url }}{% endif %}">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="twitter:title" content="{{ page_title }}">
   <meta property="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/img/jiri-komarek.webp' | absolute_url }}{% endif %}">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  {% if paginator.previous_page %}
+  <link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}">
+  {% endif %}
+  {% if paginator.next_page %}
+  <link rel="next" href="{{ paginator.next_page_path | absolute_url }}">
+  {% endif %}
+
+  <!-- Structured data (schema.org) -->
+  {% assign social_links = "" | split: "|" %}
+  {% if site.instagram %}{% assign one_link = site.instagram | split: "|" %}{% assign social_links = social_links | concat: one_link %}{% endif %}
+  {% if site.linkedin %}{% assign one_link = site.linkedin | split: "|" %}{% assign social_links = social_links | concat: one_link %}{% endif %}
+  {% if site.facebook %}{% assign one_link = site.facebook | split: "|" %}{% assign social_links = social_links | concat: one_link %}{% endif %}
+  {% if site.twitter %}{% assign one_link = site.twitter | split: "|" %}{% assign social_links = social_links | concat: one_link %}{% endif %}
+  {% if site["500px"] %}{% assign one_link = site["500px"] | split: "|" %}{% assign social_links = social_links | concat: one_link %}{% endif %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": {{ site.author-name | jsonify }},
+    "url": {{ site.url | jsonify }},
+    "image": {{ site.author-avatar | prepend: "/img/" | absolute_url | jsonify }},
+    "jobTitle": "Landscape photographer",
+    "sameAs": {{ social_links | jsonify }}
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": {{ site.title | jsonify }},
+    "url": {{ site.url | jsonify }}
+  }
+  </script>
 
   <!-- Google Font -->
   <link rel="preload" href="{{ '/fonts/nunito.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
