@@ -11,7 +11,7 @@
       {%- assign alt = site.data.photo-alt[filename] | default: filename %}
       {%- assign size = site.data.photo-sizes[filename] %}
       {%- if size %}{% assign ratio = size[0] | times: 1.0 | divided_by: size[1] | round: 4 %}{% else %}{% assign ratio = 1.5 %}{% endif %}
-  <li style="--r: {{ ratio }}"><a href="{{ file.path | relative_url }}" data-lightbox="page-gallery"><img src="{{ thumbnail | relative_url }}" alt="{{ alt | escape }}" loading="lazy" decoding="async"></a></li>
+  <li style="--r: {{ ratio }}"><a href="{{ file.path | relative_url }}" data-lightbox="page-gallery"{% if size %} data-pswp-width="{{ size[0] }}" data-pswp-height="{{ size[1] }}"{% endif %}><img src="{{ thumbnail | relative_url }}" alt="{{ alt | escape }}" loading="lazy" decoding="async"></a></li>
     {%- endif %}
   {%- endif %}
 {%- endfor %}

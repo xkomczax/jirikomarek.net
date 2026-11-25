@@ -21,7 +21,9 @@ function captionFor(img) {
 
 function toSlide(link) {
   var img = link.querySelector('img');
-  var size = guessSize(img);
+  var w = Number(link.getAttribute('data-pswp-width'));
+  var h = Number(link.getAttribute('data-pswp-height'));
+  var size = w && h ? { width: w, height: h } : guessSize(img);
   return {
     src: link.getAttribute('href'),
     width: size.width,
@@ -64,19 +66,29 @@ lightbox.on('uiRegister', function () {
   });
 });
 
-// Fix the slide size if a photo isn't the expected 1400px.
-lightbox.on('loadComplete', function (e) {
-  var content = e.content;
-  var el = content.element;
+// Fix the slide size if a photo isn't the size we guessed (e.g. an inline photo whose
+// thumbnail hadn't loaded yet). Photos preloaded in the background only get a slide
+// later, so check again whenever the viewer moves to a new photo.
+function fixSize(content, slide) {
+  var el = content && content.element;
   if (!el || !el.naturalWidth) return;
   if (el.naturalWidth === content.width && el.naturalHeight === content.height) return;
   content.width = content.data.width = el.naturalWidth;
   content.height = content.data.height = el.naturalHeight;
-  if (e.slide) {
-    e.slide.width = el.naturalWidth;
-    e.slide.height = el.naturalHeight;
-    e.slide.resize();
+  if (slide) {
+    slide.width = el.naturalWidth;
+    slide.height = el.naturalHeight;
+    slide.resize();
   }
+}
+
+lightbox.on('loadComplete', function (e) {
+  fixSize(e.content, e.slide);
+});
+
+lightbox.on('change', function () {
+  var slide = lightbox.pswp && lightbox.pswp.currSlide;
+  if (slide) fixSize(slide.content, slide);
 });
 
 lightbox.init();
