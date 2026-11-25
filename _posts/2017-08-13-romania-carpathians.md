@@ -1,16 +1,16 @@
 ---
 layout:   post
-title:    Hiking in Romanian Carpathian mountains
-description: Photo collection of Munții Apuseni, part of the Romanian Carpathians.
+title:    "Apuseni Mountains: hiking in the Romanian Carpathians"
+description: "Photos from hiking in the Apuseni Mountains (Munții Apuseni), part of the Romanian Carpathians: Vlădeasa meadows, Bihor karst caves, and waterfalls."
 date:     2017-08-13 12:00:00 +0000
 image:    /img/previews/romanian-carpathians-2017.webp
 ---
 
-Munții Apuseni is a side-chain of the Carpathians. The landscape of the northern part, Vlădeasa, is characterized by montane meadows on top of the mountain ridge serving as a pasture for livestock. Solitary dwellings are inhabited during the summertime, for winter herdsmen (and herdswoman) reside in villages in valleys. Two extremes can be observed nowadays: empty dwellings near bigger cities that swallowed all labor forces to factories and overgrazing in other parts.
+The Apuseni Mountains (Munții Apuseni) are a side-chain of the Carpathians. The landscape of the northern part, Vlădeasa, is characterized by montane meadows on top of the mountain ridge serving as a pasture for livestock. Solitary dwellings are inhabited during the summertime; in winter, herdsmen (and herdswomen) reside in villages in the valleys. Two extremes can be observed nowadays: empty dwellings near bigger cities that swallowed the entire labor force into factories, and overgrazing in other parts.
 
-Forests with fragile ecosystems are threatened by illegal logging. And so are people foresters and environmentalists, many of them are physically assaulted, some even killed.
+Forests with fragile ecosystems are threatened by illegal logging. And so are people: foresters and environmentalists, many of whom are physically assaulted, and some even killed.
 
-The Bihor mountain range is characterized by karst with caverns, sinkholes, and abyss. The most famous is the Cetățile Ponorului cave system, but there are many others like Cetatea Rădesei cave and others. Deep valleys are hiding many waterfalls, including the 80 meters long Cascada Bohodei.
+The Bihor mountain range is characterized by karst with caverns, sinkholes, and abysses. The most famous is the Cetățile Ponorului cave system, but there are many others, like the Cetatea Rădesei cave. Deep valleys hide many waterfalls, including the 80-meter-long Cascada Bohodei.
 
 <div class="row">
     <article class="article col col-12 col-t-12">

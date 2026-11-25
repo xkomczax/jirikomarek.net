@@ -9,6 +9,8 @@ redirect_from:
 - /web/Směrodatná_odchylka_v_LibreOffice/
 ---
 
+Tento návod ukazuje, jak v OpenOffice/LibreOffice Calc vložit směrodatnou odchylku do grafu, podobně jako se to dělá v Excelu.
+
 ## Vytvoření grafu
 
 K vložení směrodatné odchylky do grafu v OpenOffice/LibreOffice je nejprve nutné vytvořit daný graf. Vybereme tedy oblast dat, která chceme do grafu zahrnout, klikneme na "Vložit" ("Insert") -> "Objekt" ("Object") -> "Graf" ("Chart"). Toho samého se dá docílit kliknutím na danou ikonu v nástrojové liště. Stejně tak i data můžeme vybrat až později.

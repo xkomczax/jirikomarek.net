@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Photography and Tech Tips&Tricks
+title: Photography and Tech Tips & Tricks
 description: Tips and tricks for photography, how-tos for image editing, and other technical articles.
 category: Linux
 published: true
@@ -20,7 +20,7 @@ redirect_from:
 - /web/Sbírka_tipů_a_triků_pro_Firefox/
 ---
 
-## Photography Tips&Tricks
+## Photography Tips & Tricks
 * [Helios 44m: the best cheap lens for beautiful bokeh](/photo-wiki/helios-44m-lens-for-beautiful-bokeh/)🇬🇧
 * [Which lens to choose for landscape photography](/photo-wiki/which-lens-to-choose-for-landscape-photography/)🇬🇧
 
@@ -43,6 +43,6 @@ redirect_from:
 
 ## Games
 * [Open Transport Tycoon Deluxe](/web/open-transport-tycoon-deluxe/)🇨🇿
-* [Agar.io: how to play, skins, controls, description](/web/how-to-play-agar-io-skins-controls-description/)🇬🇧
+* [Agar.io: how to play, skins, controls, and description](/web/how-to-play-agar-io-skins-controls-description/)🇬🇧
 * [Jak hrát Agar.io online, ovládání a skiny](/web/jak-hrat-agar-io-online-ovladani-skiny/)🇨🇿
 

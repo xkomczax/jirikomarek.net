@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sbírka tipů a triků pro OpenOffice/LibreOffice
-description: Přidání nadpisu do obsahu, zobrazení čísla stránek až od určité strany, nezalomitelné mezery a další triky pro Open/LibreOffice.
+description: Přidání nadpisu do obsahu, zobrazení čísla stránek až od určité strany, nezlomitelné (nezalomitelné) mezery a další triky pro Open/LibreOffice.
 category: Linux
 published: true
 redirect_from:

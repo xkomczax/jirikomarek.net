@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Manipulace s PDF soubory v Linuxu
-description: Otočení, rozřezání, zmenšení, rozdělení a spojení PDF souborů.
+title: "Manipulace s PDF v Linuxu: rozdělení, spojení, zmenšení a otočení PDF"
+description: Jak v Linuxu z příkazové řádky provést rozdělení PDF, spojení PDF, zmenšení PDF, otočení a rozřezání PDF souborů.
 category: Linux
 published: true
 redirect_from: 
