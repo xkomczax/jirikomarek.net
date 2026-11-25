@@ -5,3 +5,26 @@
 .lb-outerContainer {
   background-color: #323743;
 }
+
+.pswp__caption {
+  position: absolute;
+  left: 5%;
+  right: 5%;
+  bottom: 16px;
+  margin: 0 auto;
+  width: -webkit-fit-content;
+  width: fit-content;
+  max-width: 800px;
+  padding: 6px 14px;
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.55);
+  color: #fff;
+  font-size: 15px;
+  line-height: 1.4;
+  text-align: center;
+  pointer-events: none;
+}
+
+.pswp__caption[hidden] {
+  display: none;
+}

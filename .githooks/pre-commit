@@ -1,0 +1,12 @@
+#!/bin/sh
+# Runs automatically before every commit.
+# If the commit adds or changes photos under img/, it refreshes _data/photo-sizes.yml
+# (used by the gallery grid) and adds it to the same commit.
+# Enabled once per clone with:  git config core.hooksPath .githooks
+
+if git diff --cached --name-only --diff-filter=ACMRD -- img/ \
+   | grep -v '^img/thumbnails/' | grep -v '^img/previews/' \
+   | grep -qiE '\.(webp|jpe?g)$'; then
+  sh _scripts/photo-sizes.sh >/dev/null || exit 1
+  git add _data/photo-sizes.yml
+fi

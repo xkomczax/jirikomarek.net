@@ -1,0 +1,360 @@
+# Alt text / captions for photos shown by _includes/image-gallery.html.
+# Key = image file name without extension. Photos missing here fall back to the file name
+# (and then show no caption in the photo viewer).
+
+# Šumava 2020
+sumava-2020-01: Snow-covered granite boulders and frosted spruces above the forested Šumava hills
+sumava-2020-02: Dark Šumava ridge with patches of snow under heavy winter clouds
+sumava-2020-03: Snow shower drifting over a lake and wooded hills in Šumava
+sumava-2020-04: Clouds and sunlight over a lake and the farmland at the foot of Šumava
+sumava-2020-05: Summit cross on the frosted rocks of Plechý under a stormy winter sky, Šumava
+sumava-2020-06: Dead spruce trunks coated in hoarfrost against a blue sky
+sumava-2020-07: Snowy plateau with frosted spruces and dead trees in the Šumava mountains
+sumava-2020-08: Wind-blown snow on a rocky summit with weathered posts in Šumava
+sumava-2020-09: Trojmezná granite tor with a summit cross among frosted trees in deep snow, Šumava
+sumava-2020-10: Snowstorm sweeping over villages and fields below the Šumava forest
+sumava-2020-11: Snowy meadow with birches and spruces overlooking the rolling Šumava hills
+sumava-2020-12: Forested slopes and snowy clearings fading into winter haze in Šumava
+
+# kyrgyzstan-tian-shan-2019
+kyrgyzstan-tian-shan-2019-01: Lone pine tree on a grassy hillside under summer clouds, Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-02: Storm clouds above sunlit ridge and spruce forest, Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-03: Green mountain slope with spruce forest and rocky crags, Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-04: Twisted juniper growing from a boulder beneath rocky peaks, Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-05: Steep forested mountainside above a green valley floor, Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-06: Snowy peaks above a green alpine valley under dark clouds, Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-07: Glaciated summits glowing in evening light over the Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-08: Orange sunset glow behind a mossy meadow and forested valley, Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-09: Low cloud drifting over rugged green mountain ridges, Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-10: Dark mountain face with clouds breaking above the Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-11: Winding river through a green valley below a misty peak, Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-12: Sunlit cloud banks hovering over a shadowed mountain slope, Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-13: Snow-dusted peak emerging from thick cloud, Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-14: Meltwater streaming down turquoise glacier ice, Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-15: Purple wildflowers on mossy ground below glacier-covered peaks, Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-16: Grassy alpine slope overlooking rugged snowy mountains, Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-17: Narrow stream winding through green valley toward snowy peaks, Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-18: Orange tent pitched on a sunset alpine meadow, Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-19: Yellow wildflowers below a snow-streaked sunlit ridge at dawn, Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-20: Blue-hour mountain range above a rocky wildflower plateau, Ak-Suu valley near Karakol, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-21: Twilight light on red peaks and small alpine lakes in Kyrgyzstan
+kyrgyzstan-tian-shan-2019-22: Yellow flowers and snowfields below a pink-tinged summit at dusk in Kyrgyzstan
+kyrgyzstan-tian-shan-2019-23: Steep red-brown hillside speckled with yellow flowers under deep blue sky, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-24: Green grazed slope ridged with sheep tracks above bare soil in Kyrgyzstan
+kyrgyzstan-tian-shan-2019-25: Boulder-strewn shallows of a mountain lake under stormy skies, Boz-Uchuk lakes, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-26: Still alpine lake mirroring peaks and clouds beyond a lichen-covered rock, Boz-Uchuk lakes, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-27: Blurred creek water rushing over rocks beneath a dark sky, Boz-Uchuk lakes, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-28: Mountain stream cascading over boulders into a green valley, Boz-Uchuk lakes, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-29: Sunbeam lighting a green valley and meandering creek under heavy clouds, Boz-Uchuk valley, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-30: Spruce-covered slopes and a dirt trail in the Boz-Uchuk valley, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-31: Silky glacial river flowing around large boulders below forest, Boz-Uchuk valley, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-32: Warm evening light on a craggy peak above spruce trees, Jergez valley, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-33: Pink-lit peaks behind a rocky meadow of lupines at dusk, Jergez valley, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-34: Gnarled old juniper tree at twilight on a mountain slope, Jergez valley, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-35: Golden light breaking through dark clouds over a black horizon, Jergez valley, Kyrgyzstan
+kyrgyzstan-tian-shan-2019-36: Tree silhouette beneath the Milky Way in a starry Kyrgyzstan night sky
+# yosemite-valley-waterfalls
+waterfalls-of-yosemite-valley-1: Vernal Fall tumbling over a granite cliff with a rainbow in Yosemite National Park, California
+waterfalls-of-yosemite-valley-2: Vernal Fall streaking down a dark granite wall beside a small tree, Yosemite
+waterfalls-of-yosemite-valley-3: Dark conifers silhouetted against granite cliffs and the mist of Nevada Fall, Yosemite
+waterfalls-of-yosemite-valley-4: Nevada Fall dropping beside granite walls into the rocky Merced River, Yosemite, California
+waterfalls-of-yosemite-valley-5: Looking down on Nevada Fall cascading over granite slabs in Yosemite National Park
+waterfalls-of-yosemite-valley-6: Rainbow arcing beside Nevada Fall on a granite cliff in Yosemite, California
+waterfalls-of-yosemite-valley-7: Yosemite Falls plunging down a gray granite face above green forest, California
+waterfalls-of-yosemite-valley-8: Yosemite Falls seen from above, a narrow cascade in a rocky gorge with rainbow mist
+waterfalls-of-yosemite-valley-9: Rainbow colors glowing in the spray of a Yosemite waterfall, California
+# yosemite-valley-moonbow
+moonbow-in-yosemite-valley-: Moonbow arching over Yosemite Falls under a starry night sky, California
+moonbow-in-yosemite-valley-2: Faint moonbow and long-exposure Yosemite Falls between dark pine trees at night
+moonbow-in-yosemite-valley-3: Moonlit Yosemite Falls and granite cliffs below a starry sky, California
+# yosemite-valley-views
+views-of-yosemite-valley-01: Half Dome and forested Yosemite Valley beneath a cloudy sky, California
+views-of-yosemite-valley-02: Granite domes and ridges near Half Dome on a sunny day in Yosemite
+views-of-yosemite-valley-03: Lenticular clouds above snow-dusted Sierra Nevada peaks in Yosemite National Park
+views-of-yosemite-valley-04: Liberty Cap, a sheer granite dome, rising behind a pine tree in Yosemite
+views-of-yosemite-valley-05: Nevada Fall and Liberty Cap in the sunlit Yosemite high country, California
+views-of-yosemite-valley-06: Backlit sun behind a bare, weathered tree on a Yosemite granite ledge
+views-of-yosemite-valley-07: Golden haze glowing between dark cliff silhouettes in Yosemite Valley, California
+views-of-yosemite-valley-08: Steep granite cliff with a winding trail and forested ledges in Yosemite
+views-of-yosemite-valley-09: Snow-capped Sierra Nevada summits under streaky clouds in Yosemite National Park
+views-of-yosemite-valley-10: Wide view over the green Yosemite Valley floor between granite walls, California
+views-of-yosemite-valley-11: Half Dome rising above shadowed cliffs in evening light, Yosemite National Park
+views-of-yosemite-valley-12: Tunnel View of El Capitan, Bridalveil Fall and Yosemite Valley in California
+
+# drahanska-vrchovina-project
+drahanska-vrchovina-cernobila-001: Black-and-white towering storm cloud over Lipovský dvorek farmstead and forest, Drahany Highlands, Czechia
+drahanska-vrchovina-cernobila-002: Black-and-white brooding sky above the tree alley from Seč to Hrochov and a grain field, Drahany Highlands
+drahanska-vrchovina-jaro-001: Gravel field track at dusk beside a rowan branch and green meadows, Drahany Highlands, Czech Republic
+drahanska-vrchovina-jaro-002: Spring sunburst over a dirt road and lone tree among green fields, Drahany Highlands, Czechia
+drahanska-vrchovina-jaro-003: Grove of trees on a green spring field under blue sky and clouds, Czech Republic
+drahanska-vrchovina-jaro-004: Sunset rays over a wildflower meadow with white blossoms in the Drahany Highlands, Czechia
+drahanska-vrchovina-jaro-005: Stony farm track winding through green fields toward forested hills before a storm, Drahany Highlands, Czech Republic
+drahanska-vrchovina-jaro-006: White flowers beside a pebbly path across spring fields and distant woods, Czechia
+drahanska-vrchovina-jaro-007: Purple orchid and buttercups in a tall meadow beside spruce trees, Drahany Highlands, Czech Republic
+drahanska-vrchovina-jaro-008: Small forest waterfall among ferns and mossy rocks in the Drahany Highlands, Czechia
+drahanska-vrchovina-jaro-009: Mossy tree trunk beside a muddy puddle reflecting woodland, Czech Republic
+drahanska-vrchovina-jaro-010: Backlit dandelion seed heads in a meadow at sunset, Drahany Highlands, Czechia
+drahanska-vrchovina-jaro-011: Village houses and a grassy slope under a stormy evening sky, Drahany Highlands, Czech Republic
+drahanska-vrchovina-jaro-012: Dark storm clouds and a low sun above a village and dandelion grass, Czechia
+drahanska-vrchovina-jaro-013: Dandelion clocks in a dark meadow beneath thunderous night clouds, Czech Republic
+drahanska-vrchovina-jaro-014: Twilight afterglow over a dim meadow dotted with dandelions, Drahany Highlands, Czechia
+drahanska-vrchovina-jaro-015: Night meadow of dandelion seed heads lit by a starburst light on the hill, Czech Republic
+drahanska-vrchovina-leto-001: Small stream curving through a green spruce forest in the Drahany Highlands, Czechia
+drahanska-vrchovina-leto-002: Sun peeking between moss-covered tree trunks in a green woodland, Czech Republic
+drahanska-vrchovina-leto-003: Sunstar behind a gnarled tree in a rocky glade at Velenov, looking toward Boskovice, Czechia
+drahanska-vrchovina-leto-004: Long-exposure streaked storm clouds over a hillside meadow with yellow flowers, Czech Republic
+drahanska-vrchovina-leto-005: Bouzov Castle with its red roofs rising above green forest under grey clouds, Czechia
+drahanska-vrchovina-leto-006: Heavy dark storm clouds over Bouzov Castle on a wooded hill, Czech Republic
+drahanska-vrchovina-podzim-001: White flowers in a rough meadow at sunset with a dark cloud and distant forest, Czechia
+drahanska-vrchovina-podzim-002: Autumn trees with orange leaves on the horizon of a vast stubble field, Czech Republic
+drahanska-vrchovina-podzim-003: Setting sun over a hillside meadow of purple harebells and wild thyme, Drahany Highlands, Czechia
+drahanska-vrchovina-podzim-004: Patch of purple heather in a meadow with sun low behind trees, Czech Republic
+drahanska-vrchovina-podzim-005: Layers of mist drifting between forested ridges at sunrise in the Drahany Highlands, Czechia
+drahanska-vrchovina-podzim-006: Morning fog over autumn fields with red and orange bushes, Drahany Highlands, Czech Republic
+drahanska-vrchovina-podzim-007: Golden autumn sunrise over fields, a country road and bare trees, Czechia
+drahanska-vrchovina-podzim-008: White farmhouses lit by low light against a dark autumn forest, Czech Republic
+drahanska-vrchovina-podzim-009: Golden larch trees glowing among dark conifers under a stormy sky, Drahany Highlands, Czechia
+drahanska-vrchovina-podzim-010: Flock of sheep grazing on a hillside in warm sunset light, Czech Republic
+drahanska-vrchovina-zima-001: Snow-covered hillside with animal tracks and a few bare trees on the ridge, Czechia
+drahanska-vrchovina-zima-002: Curved road through frosty snow-laden trees and a spruce, Drahany Highlands, Czech Republic
+drahanska-vrchovina-zima-003: Winter sunrise through pine trees over a frosted meadow and dark hills, Czechia
+# bile-karpaty-2021
+bile-karpaty-2021-01: Lone oak under a starry sky in the Čertoryje nature reserve, White Carpathians, Czechia
+bile-karpaty-2021-02: Moonlit oak on a meadow beneath drifting clouds in the Čertoryje nature reserve, Czechia
+bile-karpaty-2021-03: Broad oak against a starry night sky near Lesná, Dolnoněmčanské louky reserve, Czechia
+bile-karpaty-2021-04: Leaning tree backlit by the moon on a meadow near Lesná, White Carpathians, Czechia
+bile-karpaty-2021-05: Looking up a dead tree trunk against a starry night near Lesná, White Carpathians
+bile-karpaty-2021-06: Autumn tree under stars with distant town lights, Dolnoněmčanské louky reserve, Czechia
+bile-karpaty-2021-07: Moonlight behind a bare tree casting long shadows on a meadow near Lesná, Czechia
+bile-karpaty-2021-08: Fallen oak with sprawling roots and rusty leaves at dusk near Lesná, White Carpathians
+bile-karpaty-2021-09: Sunset starburst behind a tilted autumn tree on a hill near Lesná, White Carpathians
+bile-karpaty-2021-10: Old oak branches with orange leaves framing a sunset sky, Dolnoněmčanské louky, Czechia
+bile-karpaty-2021-11: Sun setting over rolling hills beside a large oak near Lesná, White Carpathians
+bile-karpaty-2021-12: Twisted oak on a sunlit autumn meadow near Lesná, White Carpathians, Czechia
+bile-karpaty-2021-13: Green oak and golden autumn woodland in the Dolnoněmčanské louky reserve, White Carpathians
+bile-karpaty-2021-14: Meadow and trees in autumn colors under a pastel evening sky near Lesná, Czechia
+bile-karpaty-2021-15: Rolling autumn hills with colorful woods near Lesná, White Carpathians, Czechia
+bile-karpaty-2021-16: Kuželov windmill and a wind turbine on sunlit autumn hills, White Carpathians, Czechia
+bile-karpaty-2021-17: Sunlit autumn ridge beneath dark stormy clouds, White Carpathians, Czech Republic
+bile-karpaty-2021-18: Village and golden trees below storm clouds, Zahrady pod Hájem near Velká nad Veličkou
+
+# krkonose-2019
+krkonose-2019-01: Rime-covered rock outcrop with the sun bursting behind it on a snowy Krkonoše ridge, Czech Republic
+krkonose-2019-02: Sun star shining through a snow-plastered spruce on the Krkonoše mountains in winter
+krkonose-2019-03: Sun glowing through a hollow in a snow-encrusted tree on a Krkonoše ridge, Czech Republic
+krkonose-2019-04: Vast empty snowfield with a distant white summit under soft clouds in the Giant Mountains
+krkonose-2019-05: Wooden marker poles crossing a flat, snowy winter plateau in the Krkonoše mountains
+krkonose-2019-06: Frosted spruces around a sun halo in the winter Krkonoše mountains, Czechia
+krkonose-2019-07: Bent, ice-covered trees and long shadows on a sunny snowy Krkonoše slope
+krkonose-2019-08: Snow-laden spruce backlit by a bright sun above deep drifts in the Krkonoše mountains
+krkonose-2019-09: Sunburst between spruce trunks on a snowy slope with a wispy cloud, Giant Mountains
+krkonose-2019-10: Golden evening light on smooth snow drifts and spruces in the Krkonoše, Czech Republic
+krkonose-2019-11: Low winter sun glowing through a snow-covered tree mound at dusk, Krkonoše mountains
+krkonose-2019-12: Wind-rippled snow and frosty spruces lit by warm sunset light in the Krkonoše mountains
+krkonose-2019-13: Sunset glow behind a frosted fir above a wide snowy highland, Krkonoše, Czechia
+krkonose-2019-14: Snow-buried spruce beside a rounded mountain summit under moody grey clouds, Krkonoše
+krkonose-2019-15: Dark storm clouds over snowy wooded hills and a small hut in the Krkonoše mountains
+# swiss-alps-bernese-oberland-2021-stubleni
+swiss-alps-bernese-oberland-2021-01: Green alpine meadow with yellow flowers and snow patches on the hike to Stübleni, Switzerland
+swiss-alps-bernese-oberland-2021-02: White alpine flowers on a grassy slope with snow patches on the way to Stübleni
+swiss-alps-bernese-oberland-2021-03: Wildflower meadow and melting snow below a grassy ridge on the Stübleni hike, Bernese Oberland
+swiss-alps-bernese-oberland-2021-04: White anemones on a steep green hillside on the hike to Stübleni, Swiss Alps
+swiss-alps-bernese-oberland-2021-05: Grassy summit ridge of Stübleni with snow remnants and distant snowy mountains
+swiss-alps-bernese-oberland-2021-06: Narrow trail winding up a mossy hillside past a snowfield toward Stübleni, Switzerland
+swiss-alps-bernese-oberland-2021-07: Flower-dotted ridge with snow patches and glacier-topped peaks seen from Stübleni
+swiss-alps-bernese-oberland-2021-08: Hiker on a grassy knoll beside a large snowfield on the Stübleni hike
+swiss-alps-bernese-oberland-2021-09: Late-spring snowfield and green slopes stretching toward distant peaks near Stübleni, Bernese Oberland
+swiss-alps-bernese-oberland-2021-10: Stormy sky over snow-streaked Bernese Alps seen past rocks and flowers near Stübleni
+swiss-alps-bernese-oberland-2021-11: Snow patch among grey limestone rocks with a dark-clouded peak behind, near Stübleni
+swiss-alps-bernese-oberland-2021-12: Rocky ridge leading to a snow-dusted mountain under heavy clouds on the Stübleni hike
+swiss-alps-bernese-oberland-2021-13: Yellow and white alpine flowers below a cloud-shrouded peak on the way to Stübleni
+swiss-alps-bernese-oberland-2021-14: Pale rock ridge with snow patches leading toward a stormy mountain near Stübleni
+swiss-alps-bernese-oberland-2021-15: Long tongue of leftover snow on a steep grassy mountainside on the Stübleni hike
+# swiss-alps-bernese-oberland-2021-simmental
+swiss-alps-bernese-oberland-2021-16: Lenk village in a green Swiss valley below clouds drifting over forested slopes at dusk
+swiss-alps-bernese-oberland-2021-17: Evening light on a rocky snow-streaked mountain wall on the Flueseeli hike, Bernese Alps
+swiss-alps-bernese-oberland-2021-18: Sunlit clouds curling over green pastures and snowy peaks near Flueseeli, Switzerland
+swiss-alps-bernese-oberland-2021-19: Weathered tree stump before a steep forested valley and rocky peak on the Flueseeli hike
+swiss-alps-bernese-oberland-2021-20: Steep green mountainside with narrow snow gullies under grey cloud near Flueseeli
+swiss-alps-bernese-oberland-2021-21: Larch forest below misty, snow-flecked peaks on the way to Flueseeli, Swiss Alps
+swiss-alps-bernese-oberland-2021-22: Small turquoise lake between layered limestone cliffs and snowy summits near Flueseeli
+swiss-alps-bernese-oberland-2021-23: Rocky outcrop with flowers overlooking a long green valley on the Flueseeli hike, Switzerland
+swiss-alps-bernese-oberland-2021-24: Jagged snow-patched peak and rocky ravine seen from a ridge near Flueseeli
+swiss-alps-bernese-oberland-2021-25: Misty green slopes with a thin waterfall streak on the way to Flueseeli, Swiss Alps
+swiss-alps-bernese-oberland-2021-26: Dark conifer forest and bright meadows on a steep hillside on the Flueseeli hike
+swiss-alps-bernese-oberland-2021-27: Thin waterfall tumbling down a shadowed, forested gully on the way to Flueseeli
+# swiss-alps-bernese-oberland-2021-flueseeli
+swiss-alps-bernese-oberland-2021-28: Grey rocky peak above snowfields under a blue sky near Flueseeli, Bernese Alps
+swiss-alps-bernese-oberland-2021-29: Snowy scree slope mirrored in the turquoise Flueseeli lake, Bernese Oberland
+swiss-alps-bernese-oberland-2021-30: Partly frozen Flueseeli lake reflecting clouds and sunlit peaks, Swiss Alps
+swiss-alps-bernese-oberland-2021-31: Layered grey cliffs and snow-flecked slopes seen from a ridge near Flueseeli
+swiss-alps-bernese-oberland-2021-32: Steep green mountainside lit by low sun with small snow patches near Flueseeli
+swiss-alps-bernese-oberland-2021-33: White waterfall cascading over dark wet rock ledges on the Flueseeli hike
+swiss-alps-bernese-oberland-2021-34: Tall thin waterfall streaking down a sheer shadowed cliff near Flueseeli, Switzerland
+swiss-alps-bernese-oberland-2021-35: Stream cascading down dark rock between snowfields near Flueseeli, Bernese Oberland
+swiss-alps-bernese-oberland-2021-36: Glacial stream braiding around a green island of trees, seen on the Flueseeli hike
+swiss-alps-bernese-oberland-2021-37: Waterfall spilling below a pointed rock peak on the way to Flueseeli, Swiss Alps
+swiss-alps-bernese-oberland-2021-38: Low cloud over dark forested slopes with a waterfall far below, Flueseeli hike
+swiss-alps-bernese-oberland-2021-39: Foaming mountain stream rushing past boulders toward distant waterfalls near Flueseeli
+swiss-alps-bernese-oberland-2021-40: Slender waterfall dropping down a rock wall framed by conifers on the Flueseeli hike
+swiss-alps-bernese-oberland-2021-41: Several waterfalls on a misty cliff above dense forest on the way to Flueseeli
+swiss-alps-bernese-oberland-2021-42: Waterfalls streaming down forested rock slopes on the Flueseeli hike, Bernese Oberland
+
+# bulgaria-central-balkan-mountains-2018
+bulgaria-central-balkan-mountains-2018-01: Mare and foal on a green mountain slope under stormy skies, Bulgaria
+bulgaria-central-balkan-mountains-2018-02: Rocky grass-covered ridge below a dark summit in the Central Balkan, Bulgaria
+bulgaria-central-balkan-mountains-2018-03: Storm clouds gather over layered Stara Planina ridges beyond lichen-covered rocks
+bulgaria-central-balkan-mountains-2018-04: Jagged rocky crest on a green Stara Planina ridgeline in Bulgaria
+bulgaria-central-balkan-mountains-2018-05: Sunbeams breaking through clouds over a rocky outcrop on Kamenitsa peak, Bulgaria
+bulgaria-central-balkan-mountains-2018-06: Echo hut on a grassy slope in warm evening light, Central Balkan, Bulgaria
+bulgaria-central-balkan-mountains-2018-07: Orange sunset above hazy Balkan ridges, seen from Kavladan above Echo hut
+bulgaria-central-balkan-mountains-2018-08: Hazy golden dusk over forested hills and meadows from Kavladan, Central Balkan
+bulgaria-central-balkan-mountains-2018-09: Grassy saddle between rocky outcrops on Kavladan, with misty ridges beyond, Bulgaria
+bulgaria-central-balkan-mountains-2018-10: Misty layered Balkan ridges at sunset from Kavladan, with a grazing animal on the slope
+bulgaria-central-balkan-mountains-2018-11: Steep green ridge leading to a pointed summit at sunset, seen from Kavladan, Bulgaria
+bulgaria-central-balkan-mountains-2018-12: Rocky twin peaks and flowering slopes near Kozya stena hut, Stara Planina, Bulgaria
+bulgaria-central-balkan-mountains-2018-13: Stony hiking path across a mountain slope toward spruce forest, Bulgaria
+bulgaria-central-balkan-mountains-2018-14: Blue dusk glow on Golyam Kupen seen from Levski Peak, Central Balkan
+bulgaria-central-balkan-mountains-2018-15: Pink and purple sunrise clouds around Golyam Kupen, seen from Levski Peak, Bulgaria
+bulgaria-central-balkan-mountains-2018-16: Golden sunrise light and low clouds around Golyam Kupen from Levski Peak, Bulgaria
+bulgaria-central-balkan-mountains-2018-17: Silky waterfall tumbling over dark rock and grassy banks in the Bulgarian mountains
+bulgaria-central-balkan-mountains-2018-18: Small cascades over mossy rocks in a forest stream near Vasil Levski hut, Bulgaria
+bulgaria-central-balkan-mountains-2018-19: Sunrise over Botev peak, with sunlit slopes above deep shadowed valleys, Bulgaria
+bulgaria-central-balkan-mountains-2018-20: Botev peak rising above a green meadow, seen from Ray hut, Central Balkan
+bulgaria-central-balkan-mountains-2018-21: Small waterfall into a calm pool among mossy boulders on the Stara reka, Bulgaria
+
+# romanian-carpathians-2017
+romanian-carpathians-2017-01: Moss-covered tree trunk in misty beech forest, Romanian Carpathians
+romanian-carpathians-2017-02: Weathered tree and dry meadow above forested hills in the Apuseni Mountains, Romania
+romanian-carpathians-2017-03: Dog sitting on a grassy hillside near an old thatched wooden barn in Romania
+romanian-carpathians-2017-04: Wooden fence along a meadow toward a lone hut and distant hills, Romania
+romanian-carpathians-2017-05: Warm evening light over a mountain meadow and forested slopes in the Romanian Carpathians
+romanian-carpathians-2017-06: Stone cairn on a hilltop meadow with rolling forested hills beyond, Romania
+romanian-carpathians-2017-07: Rocky track descending toward open meadows and spruce forest in the Apuseni Mountains
+romanian-carpathians-2017-08: Mossy boulder beside a rocky forest stream in the Romanian Carpathians
+romanian-carpathians-2017-09: Green tent glowing at night among spruce trees under a starry sky in Romania
+romanian-carpathians-2017-10: Brown horses grazing in tall grass on a mountain pasture in Romania
+romanian-carpathians-2017-11: Silky waterfall over mossy rock into a dark pool in the Apuseni Mountains
+romanian-carpathians-2017-12: Narrow stream trickling over dark rock in a shaded Romanian Carpathians gorge
+romanian-carpathians-2017-13: Cave passage with daylight filtering in from above at Cetățile Ponorului, Apuseni Mountains, Romania
+romanian-carpathians-2017-14: Turquoise pool and small cascade among boulders in the Cetățile Ponorului karst gorge, Romania
+romanian-carpathians-2017-15: Large boulders around a green pool beneath a small waterfall at Cetățile Ponorului, Apuseni Mountains
+romanian-carpathians-2017-16: Limestone cliff with the cave arch of Cetățile Ponorului framed by spruce trees, Romania
+romanian-carpathians-2017-17: Narrow limestone canyon with towering pale rock walls at Cetățile Ponorului, Apuseni Mountains, Romania
+romanian-carpathians-2017-18: Steep white limestone cliff topped with spruce forest above a scree slope, Romania
+
+# ukrainian-carpathians-2018
+ukrainian-carpathians-2018-01: Forested Carpathian ridges in soft evening light on the way up to Tsytska, Ukraine
+ukrainian-carpathians-2018-02: Sunbeams through haze above dark treeline on the climb to Tsytska, Ukrainian Carpathians
+ukrainian-carpathians-2018-03: White wildflowers on a grassy slope at dusk on the way to Tsytska, Ukraine
+ukrainian-carpathians-2018-04: Golden light on Temnatyk mountain ridge seen from Tsytska, Ukrainian Carpathians
+ukrainian-carpathians-2018-05: Low clouds over Temnatyk mountain seen from Tsytska, with a trail marker, Ukraine
+ukrainian-carpathians-2018-06: Mist drifting between forested Carpathian hills seen from Tsytska, Ukraine
+ukrainian-carpathians-2018-07: Stony path across a meadow toward a glowing sunset on Velykyi Verkh, Ukrainian Carpathians
+ukrainian-carpathians-2018-08: Blueberry-covered polonina slope with layered ridges under evening clouds, Ukraine
+ukrainian-carpathians-2018-09: Red afterglow over dark Carpathian hills seen from a meadow in Ukraine
+ukrainian-carpathians-2018-10: Sunlit trail winding through heather toward the rounded top of Kuk, Ukrainian Carpathians
+ukrainian-carpathians-2018-11: Wooden fence above terraced hay meadows and forested mountains near Mizhhiria, Ukraine
+ukrainian-carpathians-2018-12: Synevyr village with colorful roofs in a green Carpathian valley, Ukraine
+
+# mountains
+mountains-001: Hiker with rolled mat looking over grassy hills under a stormy sky, Romanian Carpathians
+mountains-002: Wooden fence and old barn on a golden grassy mountain pasture, Romanian Carpathians
+mountains-003: Stony path crossing a sunny alpine meadow toward forested hills, Romanian Carpathians
+mountains-004: Dark winter hills with snowy clearings beneath heavy clouds, Šumava, Czech Republic
+mountains-005: Sunbeams breaking through storm clouds over a river valley, Tian Shan, Kyrgyzstan
+mountains-006: Low clouds drifting over steep, shadowed green mountain slopes, Tian Shan, Kyrgyzstan
+mountains-007: Green alpine slope facing glaciated, rocky peaks, Tian Shan, Kyrgyzstan
+mountains-008: Last sunlight on a ridge above a meadow with yellow flowers, Tian Shan, Kyrgyzstan
+mountains-009: Rocky high pass with patches of snow under a deep blue dusk sky, Tian Shan, Kyrgyzstan
+mountains-010: Alpenglow on snowy peaks above a mountain lake and violet flowers, Tian Shan, Kyrgyzstan
+mountains-011: Yellow flowers in a dusk meadow below a snow-streaked mountain, Tian Shan, Kyrgyzstan
+mountains-012: Sunset light on a rugged ridge above green hills and spruce trees, Tian Shan, Kyrgyzstan
+mountains-013: Pink-lit peaks behind a boulder-strewn meadow with a faint trail, Tian Shan, Kyrgyzstan
+mountains-014: Misty green valley with villages seen past a lichen-covered rock at dawn, near Sattel, Switzerland
+mountains-015: Layered forested hills and low cloud under a glowing dawn sky, near Sattel, Switzerland
+mountains-016: Hazy ridges fading into warm morning mist above a quiet valley, near Sattel, Switzerland
+mountains-017: Soft silhouettes of pointed hills rising through golden fog, near Sattel, Switzerland
+mountains-018: Cloud banks hanging over a forested valley at first light, near Sattel, Switzerland
+mountains-019: Grassy ridge trail at sunset with dark blue hills beyond, Ukrainian Carpathians
+mountains-020: Sunlit grassy mountain crest with fallen weathered logs in the foreground, Ukrainian Carpathians
+mountains-021: Rocky trail leading toward a sunburst over layered hazy hills, Ukrainian Carpathians
+mountains-022: Dark forested ridges stacked beneath a glowing orange sky, Ukrainian Carpathians
+mountains-023: Rocky outcrops on a green ridge lit by shafts of light, Balkan Mountains, Bulgaria
+mountains-024: Sunrays fanning over a dark mountain above a meadow of white flowers, Balkan Mountains, Bulgaria
+mountains-025: Steep grassy slope with boulders and hazy ridges in warm evening light, Balkan Mountains, Bulgaria
+mountains-026: Lichen-covered rocks on a steep ridge leading to a grassy summit, Balkan Mountains, Bulgaria
+# structures
+structures-001: White froth forming streaked ripples across dark, rust-colored water
+structures-002: Concentric swirls of foam and dark streaks on a river surface
+structures-003: Round white foam disc with a small hole on dark wet rock
+structures-004: Curved white lines scratched across a dark, reflective water surface
+structures-005: Dark grass blades swaying under the surface of a shadowy stream
+structures-006: Tangled pale dry grass lying in a dense matted pattern
+structures-007: Bright green spruce branch tips overlapping in a dense pattern
+structures-008: Star-shaped moss tufts forming a green carpet crossed by a single thin stem
+structures-009: Pale grey-green lichens tangled over dark ground in a detailed texture
+structures-010: Thin roots and a patch of green moss in dark soil
+structures-011: Faint grass strands hanging from a dark bank in near darkness
+structures-012: Bare spruce trunks in shadow with sunlit branches picked out in thin lines
+structures-013: Rough pine bark with lichen and orange resin droplets
+structures-014: Pale grass roots hanging above wet, glossy brown mud
+structures-015: Weathered tree trunk with peeling wood, reddish streaks and a little snow
+structures-016: Snow-laden branches forming a web of white lines against dark forest
+structures-017: Dense frosted spruce forest covering a steep hillside in winter
+structures-018: Smooth silvery bark with horizontal black fissures and grey lichen patches
+structures-019: Frost-covered dead spruces standing tall against a blue-grey cloudy sky
+structures-020: Snowy mountainside speckled with dead trees and dark remaining forest
+structures-021: Rime-covered dead trees rising from misty grey gloom
+structures-022: Dark grass blades bursting out of smooth white snow like a starburst
+structures-023: Tiny dark grass tips scattered across an empty snow surface
+structures-024: Fine bare twigs of a small shrub sprawling over white snow
+structures-025: Weathered dark stumps poking out of deep snow like small creatures
+structures-026: Soft horizontal ripples of light and shadow on a smooth snow surface
+structures-027: Two thin dried stems standing alone in a bright white snowfield
+
+# sequoia-national-park-high-sierra-trail
+sequoia-national-park-high-sierra-trail-01: Pink sunset clouds over granite peaks in Sequoia National Park, Sierra Nevada, California
+sequoia-national-park-high-sierra-trail-02: Snow-streaked granite summit glowing in evening light, Sierra Nevada, California
+sequoia-national-park-high-sierra-trail-03: Alpine glow on high granite ridges above dark conifers in Sequoia National Park
+sequoia-national-park-high-sierra-trail-04: Rocky creek valley under white clouds with sunlit granite ridges, Sierra Nevada, California
+sequoia-national-park-high-sierra-trail-05: Sunlit rocky clearing in a vast dark pine forest, Sierra Nevada, California
+sequoia-national-park-high-sierra-trail-06: Twisted old pine beside Hamilton Lake below snowy peaks, Sequoia National Park
+sequoia-national-park-high-sierra-trail-07: Wildflowers in a rocky high-country meadow beneath granite peaks, Sequoia National Park
+sequoia-national-park-high-sierra-trail-08: Single pine tree lit by late sun against a dark forested slope, California
+sequoia-national-park-high-sierra-trail-09: Lone Pine Creek rushing over granite slabs below jagged peaks, Sequoia National Park
+sequoia-national-park-high-sierra-trail-10: Dusk alpenglow turning snowy Sierra Nevada summits pink above a granite wall
+sequoia-national-park-high-sierra-trail-11: Rugged snow-dusted Sierra Nevada peaks at sunset with a shrub-covered foreground
+sequoia-national-park-high-sierra-trail-12: Soft sunset clouds over snowy granite mountains and fir trees, Sequoia National Park
+sequoia-national-park-high-sierra-trail-13: Storm clouds and golden light on a granite ridge above a rocky slope, California
+sequoia-national-park-high-sierra-trail-14: Bleached dead shrub on granite with red-lit Sierra Nevada peaks at dusk
+sequoia-national-park-high-sierra-trail-15: Dramatic sunset clouds over a glaciated granite valley in the High Sierra, California
+# kings-canyon-national-park-photos
+kings-canyon-national-park-photos-01: Sun rising between steep canyon walls above yucca plants in Kings Canyon, California
+kings-canyon-national-park-photos-02: Roaring River Falls pouring into a churning pool beneath a dark cliff, Kings Canyon
+kings-canyon-national-park-photos-03: General Grant Tree, a giant sequoia with the sun shining through its crown, Kings Canyon
+kings-canyon-national-park-photos-04: Mist Falls, a wide whitewater cascade over granite boulders in Kings Canyon National Park
+kings-canyon-national-park-photos-05: Late light on a forest floor with pine cones and tall conifers, Kings Canyon
+kings-canyon-national-park-photos-06: Sunburst over canyon walls with a weathered silver snag on boulders, California
+kings-canyon-national-park-photos-07: Golden sunset above forested ridges and manzanita in Kings Canyon National Park
+kings-canyon-national-park-photos-08: Layered hazy orange mountain ridges at sunset in the Sierra Nevada, California
+kings-canyon-national-park-photos-09: Milky Way over pines and granite boulders in Kings Canyon National Park
+# iceland-golden-circle-west-2024
+iceland-golden-circle-west-2024-01: Öxarárfoss waterfall in Þingvellir National Park under a gray sky
+iceland-golden-circle-west-2024-02: Icelandic flag waving on a pole above mossy lava rocks under storm clouds
+iceland-golden-circle-west-2024-03: Skógafoss pouring over a green cliff into the river below, south Iceland
+iceland-golden-circle-west-2024-04: Seljalandsfoss waterfall seen from behind at sunset
+iceland-golden-circle-west-2024-05: Mist and sunlight at the base of Sigöldufoss waterfall in the Icelandic highlands
+iceland-golden-circle-west-2024-06: Atlantic puffin perched on a grassy cliff ledge in Iceland
+iceland-golden-circle-west-2024-07: Vestrahorn peaks above moss-covered dunes
+iceland-golden-circle-west-2024-08: Glacier tongue near Skaftafell under low clouds
+iceland-golden-circle-west-2024-09: Drone view of the geothermal area near Reykjadalur
+iceland-golden-circle-west-2024-10: Storm clouds piling above a misty mountain and moorland in Iceland
+iceland-golden-circle-west-2024-11: Steaming blue geothermal pool at Geysir under a pastel evening sky, Iceland
+iceland-golden-circle-west-2024-12: Strokkur geyser erupting in a tall water column at sunset, Iceland
+iceland-golden-circle-west-2024-13: Glacier view from the highlands at Þakgil
+iceland-golden-circle-west-2024-14: Basalt columns and a fallen rock slab on the black sand of Reynisfjara, Iceland
+iceland-golden-circle-west-2024-15: Black sand beach and surf below Vestrahorn's jagged peaks, Iceland
+iceland-golden-circle-west-2024-16: Mossy green ridges and a rocky outcrop in the highlands near Þakgil, Iceland
+iceland-golden-circle-west-2024-17: Low cloud over a steep sunlit scree slope, looking south from Kirkjufellsfoss, Iceland
+iceland-golden-circle-west-2024-18: Pale clay hillsides and a blue geothermal stream in Reykjadalur, Iceland
