@@ -1,18 +1,51 @@
 <!-- Justified photo grid. Each photo keeps its real shape: the width/height come from
-     _data/photo-sizes.yml (regenerate with `sh _scripts/photo-sizes.sh` after adding photos).
-     Alt text and viewer captions come from _data/photo-alt.yml. -->
-<ul class="image-gallery">
+     _data/photo-sizes.yml (refreshed automatically by the pre-commit hook).
+     Alt text and viewer captions come from _data/photo-alt.yml.
+     On phones: landscapes fill the width, neighbouring portraits sit side by side in pairs,
+     and a portrait with no portrait neighbour is shown alone, centred (classes below). -->
+{%- assign gallery_paths = "" %}
 {%- for file in site.static_files %}
   {%- if file.path contains include.folder %}
     {%- if file.extname == '.jpg' or file.extname == '.webp' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
-      {%- assign filenameparts = file.path | split: "/" %}
-      {%- assign filename = filenameparts | last | replace: file.extname,"" %}
-      {%- assign thumbnail = file.path | replace: "/img/","/img/thumbnails/" %}
-      {%- assign alt = site.data.photo-alt[filename] | default: filename %}
-      {%- assign size = site.data.photo-sizes[filename] %}
-      {%- if size %}{% assign ratio = size[0] | times: 1.0 | divided_by: size[1] | round: 4 %}{% else %}{% assign ratio = 1.5 %}{% endif %}
-  <li style="--r: {{ ratio }}"><a href="{{ file.path | relative_url }}" data-lightbox="page-gallery"{% if size %} data-pswp-width="{{ size[0] }}" data-pswp-height="{{ size[1] }}"{% endif %}><img src="{{ thumbnail | relative_url }}" alt="{{ alt | escape }}" loading="lazy" decoding="async"></a></li>
+      {%- assign gallery_paths = gallery_paths | append: file.path | append: "|" %}
     {%- endif %}
   {%- endif %}
+{%- endfor %}
+{%- assign gallery_paths = gallery_paths | split: "|" %}
+{%- assign pair_second = false %}
+<ul class="image-gallery">
+{%- for path in gallery_paths %}
+  {%- assign filename = path | split: "/" | last | split: "." | first %}
+  {%- assign thumbnail = path | replace: "/img/","/img/thumbnails/" %}
+  {%- assign alt = site.data.photo-alt[filename] | default: filename %}
+  {%- assign size = site.data.photo-sizes[filename] %}
+  {%- if size %}{% assign ratio = size[0] | times: 1.0 | divided_by: size[1] | round: 4 %}{% else %}{% assign ratio = 1.5 %}{% endif %}
+  {%- assign pair_width = "" %}
+  {%- if pair_second %}
+    {%- assign kind = "is-pair" %}
+    {%- assign pair_width = pair_second_width %}
+    {%- assign pair_second = false %}
+  {%- elsif ratio < 1 %}
+    {%- assign next_index = forloop.index0 | plus: 1 %}
+    {%- assign next_path = gallery_paths[next_index] %}
+    {%- assign next_ratio = 1.5 %}
+    {%- if next_path %}
+      {%- assign next_name = next_path | split: "/" | last | split: "." | first %}
+      {%- assign next_size = site.data.photo-sizes[next_name] %}
+      {%- if next_size %}{% assign next_ratio = next_size[0] | times: 1.0 | divided_by: next_size[1] %}{% endif %}
+    {%- endif %}
+    {%- if next_path and next_ratio < 1 %}
+      {%- assign kind = "is-pair" %}
+      {%- assign pair_total = ratio | plus: next_ratio %}
+      {%- assign pair_width = ratio | times: 100.0 | divided_by: pair_total | round: 3 | append: "%" %}
+      {%- assign pair_second_width = next_ratio | times: 100.0 | divided_by: pair_total | round: 3 | append: "%" %}
+      {%- assign pair_second = true %}
+    {%- else %}
+      {%- assign kind = "is-lone" %}
+    {%- endif %}
+  {%- else %}
+    {%- assign kind = "is-landscape" %}
+  {%- endif %}
+  <li class="{{ kind }}" style="--r: {{ ratio }}{% if pair_width != "" %}; --pw: {{ pair_width }}{% endif %}"><a href="{{ path | relative_url }}" data-lightbox="page-gallery"{% if size %} data-pswp-width="{{ size[0] }}" data-pswp-height="{{ size[1] }}"{% endif %}><img src="{{ thumbnail | relative_url }}" alt="{{ alt | escape }}" loading="lazy" decoding="async"></a></li>
 {%- endfor %}
 </ul>

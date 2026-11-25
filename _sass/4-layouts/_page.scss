@@ -100,6 +100,24 @@
   padding: 0;
 }
 
+// Phones: landscapes fill the width, portrait pairs share a row at equal height
+// (--pw is each one's share of the row), a lone portrait is centred at ~2/3 width.
+@media (max-width: 500px) {
+  .image-gallery::after {
+    display: none;
+  }
+  .image-gallery li.is-landscape {
+    flex: 0 0 100%;
+  }
+  .image-gallery li.is-pair {
+    flex: 0 0 calc(var(--pw) - 2px);
+  }
+  .image-gallery li.is-lone {
+    flex: 0 0 66%;
+    margin: 0 auto;
+  }
+}
+
 .image-gallery li a {
   display: block;
   aspect-ratio: var(--r);
