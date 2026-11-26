@@ -6,6 +6,8 @@
 {%- assign gallery_paths = "" %}
 {%- for file in site.static_files %}
   {%- if file.path contains include.folder %}
+    {%- comment %} Photos already shown in the post's story are left out of its gallery. {% endcomment %}
+    {%- if page.content contains file.path %}{% continue %}{% endif %}
     {%- if file.extname == '.jpg' or file.extname == '.webp' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
       {%- assign gallery_paths = gallery_paths | append: file.path | append: "|" %}
     {%- endif %}
