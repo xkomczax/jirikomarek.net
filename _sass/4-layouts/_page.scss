@@ -74,6 +74,10 @@
 .image-gallery {
   --row-h: 180px;
   display: flex;
+  // Galleries sit in a flex parent (.article), so without an explicit width
+  // the list shrinks to its not-yet-loaded lazy images and only widens once
+  // they arrive.
+  width: 100%;
   flex-wrap: wrap;
   gap: 6px;
   margin: 0 0 30px !important;
