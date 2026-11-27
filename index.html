@@ -11,27 +11,37 @@ redirect_from:
 	{% if site.posts.size > 0 %}
 		{%- for post in paginator.posts -%}
 		{% if forloop.index <= 1 %}
-		<div class="col col-12">
-			<article class="article-first">
-				<div class="article-image-first">
-					{% assign hero_image_700w = post.image | replace: '.webp', '-700w.webp' %}
-					{% assign hero_image_1050w = post.image | replace: '.webp', '-1050w.webp' %}
-					<img src="{{ post.image | prepend: site.baseurl }}" srcset="{{ hero_image_700w | prepend: site.baseurl }} 700w, {{ hero_image_1050w | prepend: site.baseurl }} 1050w, {{ post.image | prepend: site.baseurl }} 1400w" sizes="100vw" alt="{{post.title}}" fetchpriority="high" class="article-image-first-img">
-					<div class="article-content-first">
-						<div class="article-tag">
-						{% if post.tags.size >= 1 %}
-							{% for tag in post.tags %}
-							<a href="{{ site.baseurl }}/tags#{{tag}}" class="tag">{{ tag }}</a>
-							{% endfor %}
-						{% else %} {% endif %}
+		<article class="article article-hero col col-12">
+			<div class="article-box">
+				<div class="row hero-row">
+					<div class="col col-12 col-t-8">
+						<div class="article-head">
+							{% assign hero_image_700w = post.image | replace: '.webp', '-700w.webp' %}
+							{% assign hero_image_1050w = post.image | replace: '.webp', '-1050w.webp' %}
+							<a href="{{ post.url | prepend: site.baseurl }}" class="article-image" aria-label="{{ post.title }}">
+								<img src="{{ post.image | prepend: site.baseurl }}" srcset="{{ hero_image_700w | prepend: site.baseurl }} 700w, {{ hero_image_1050w | prepend: site.baseurl }} 1050w, {{ post.image | prepend: site.baseurl }} 1400w" sizes="(min-width: 768px) 66vw, 100vw" alt="{{ post.title }}" fetchpriority="high" class="article-hero-img">
+							</a>
 						</div>
-						<h1 class="article-title"><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h1>
-						<p class="article-excerpt">{% if post.description %}{{ post.description | strip_html | truncate: 163 }}{% else %}{{ post.content | strip_html | truncate: 163 }}{% endif %}</p>
-						<a href="{{ post.url | prepend: site.baseurl }}" class="button read-more" aria-label="Read more about {{ post.title }}">Read more</a>
+					</div>
+					<div class="col col-12 col-t-4">
+						<div class="article-content">
+							<div class="article-info">
+								<div class="article-date">
+									<span class="date"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}{{ post.date | date: date_format }}</time></span>
+								</div>
+								<div class="article-tag">
+								{% for tag in post.tags %}
+									<a href="{{ site.baseurl }}/tags#{{tag}}" class="tag">{{ tag }}</a>
+								{% endfor %}
+								</div>
+							</div>
+							<h1 class="article-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+							<p class="article-excerpt">{% if post.description %}{{ post.description | strip_html | truncate: 200 }}{% else %}{{ post.content | strip_html | truncate: 200 }}{% endif %}</p>
+						</div>
 					</div>
 				</div>
-			</article> <!-- /.article-first -->
-		</div>
+			</div>
+		</article> <!-- /.article-hero -->
 		{% endif %}
 
 		{% endfor %}

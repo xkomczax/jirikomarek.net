@@ -185,76 +185,6 @@
 }
 
 // Articles
-.article-first {
-  margin-bottom: 30px;
-  background: $black;
-  .article-image-first {
-    position: relative;
-    display: flex;
-    align-items: center;
-    min-height: 450px;
-    background-color: $black;
-    box-shadow: 0 9px 18px 0 rgba(0, 0, 0, .25);
-    &:before {
-      content: "";
-      display: table;
-      padding-top: 50%;
-    }
-  }
-  .article-image-first-img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-  .article-content-first {
-    position: relative;
-    padding: 20px;
-    color: $text;
-    .article-tag {
-      .tag {
-        font-size: 12px;
-      }
-    }
-    .article-date {
-      .date {
-        font-size: 12px;
-        color: rgba($text, .8);
-      }
-    }
-    .article-title {
-      margin-bottom: 20px;
-      font-size: 30px;
-      line-height: 30px;
-      font-weight: normal;
-      a {
-        color: $text;
-        transition: $global-transition;
-      }
-    }
-    .article-excerpt {
-      max-width: 450px;
-      margin-bottom: 30px;
-      font-size: 14px;
-      line-height: 23px;
-    }
-    .button {
-      font-size: 14px;
-      font-weight: 700;
-      border: 1px solid rgba(201, 211, 231, 50);
-      color: $text;
-      transition: $global-transition;
-      &:hover {
-        border: 1px solid $primary-color;
-        background: $primary-color;
-        color: $white;
-      }
-    }
-  }
-}
-
 .article {
   display: flex;
   margin-bottom: 25px;
@@ -338,18 +268,53 @@
   }
 }
 
+// Featured (first) post: same card pattern as the grid, image spans the
+// two-card column and text sits in the sidebar column on tablet and up.
+.article-hero {
+  .article-box {
+    width: 100%;
+  }
+  .article-image {
+    padding-top: 66.66%;
+    img.article-hero-img {
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+  .article-content {
+    .article-title {
+      margin-bottom: 10px;
+      font-size: 30px;
+      line-height: 1.2;
+      a {
+        font-size: inherit;
+      }
+    }
+    .article-excerpt {
+      max-width: 720px;
+      font-size: 16px;
+      line-height: 26px;
+    }
+  }
+}
+
 .article-box {
   position: relative;
   overflow: hidden;
 }
 
-.article-first .article-image-first, .article-box .article-image {
+.article-box .article-image {
   position: relative;
   opacity: 0;
   transition: all 1s cubic-bezier(0.6, 0.3, 0, 1);
 }
 
-.article-first.reveal-in .article-image-first, .article-box.reveal-in .article-image {
+.article-box.reveal-in .article-image {
   opacity: 1;
 }
 
@@ -357,15 +322,12 @@
 
 // Media
 @media only screen and (min-width: 576px) {
-  .article-first {
-    .article-content-first {
-      .article-title {
-        font-size: 45px;
-        line-height: 45px;
-      }
-      .article-excerpt {
-        margin-bottom: 50px;
-      }
+  .article-hero {
+    .article-image {
+      padding-top: 45%;
+    }
+    .article-content .article-title {
+      font-size: 40px;
     }
   }
 
@@ -389,14 +351,33 @@
 }
 
 @media only screen and (min-width: 768px) {
-  .article-first {
-    .article-content-first {
-      padding: 60px 40px 0;
+  .article-hero {
+    .hero-row {
+      align-items: center;
+    }
+    .article-head {
+      margin-bottom: 0;
+    }
+    .article-image {
+      padding-top: 56.25%;
+    }
+    .article-content {
+      .article-info {
+        justify-content: flex-start;
+        gap: 12px;
+      }
+      .article-title {
+        font-size: 26px;
+      }
     }
   }
 }
 
 @media only screen and (min-width: 992px) {
+  .article-hero .article-content .article-title {
+    font-size: 34px;
+  }
+
   .nav-menu {
     position: relative;
     display: block;

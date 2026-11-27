@@ -69,7 +69,7 @@ $(function() {
   });
 
   (function () {
-    var revealSelector = '.article-box, .article-first, .post-image-box, .page-image-box, .post-body img, .page-body img, .recent-header';
+    var revealSelector = '.article-box, .post-image-box, .page-image-box, .post-body img, .page-body img, .recent-header';
     var revealEls = document.querySelectorAll(revealSelector);
 
     if ('IntersectionObserver' in window) {
